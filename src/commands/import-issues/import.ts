@@ -6,7 +6,7 @@ import { CsvItem } from "./helpers/CSVItem";
 import { CreateIssueBody } from "./helpers/createIssueBody";
 
 const path = require("path");
-const octokit = new Octokit({ auth: `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` });
+const octokit = new Octokit({ auth: `insert your access key` });
 
 
 
