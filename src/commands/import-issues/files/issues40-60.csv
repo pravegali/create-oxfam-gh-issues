@@ -1,0 +1,266 @@
+﻿ReferenceID,TypeofChange,Location,OldText,NewTextEN,NewTextFR,NewTextES,Language,Change to Structure,Text Change,Owner,LocationofJSON,Priority,Complete
+C0044,Move Text,Ph. A Step 3 - Learn More tab - Company responsibility to respect (formerly: Company Representatives),,"The following content under ""Company responsibility to respect"" should be moved to the Definitions tab: 
+(Everything from: ""Here are some of the more common kinds of corporate partnerships or alliances... joint venture, consortium, Subcontractors and suppliers..."" Until ""Another type of alliance or partnership is when company C licenses company D to sell its products or services in a certain market. The companies are not sharing ownership, but they have formed a partnership."")","The content under ""Responsabilité de l'entreprise de respecter"" should be moved to the Definitions tab: 
+(Everything from: ""Voice certains des types de partenariats...Coentreprise.... consortium, Sous-traitant"" Until ""Dans ce cas, les entreprises..."")","The content under ""Representantes de la compania"" should be moved to the Definitions tab: 
+(Everything from: ""Mencionamos aquí algunas de las alianzas y sociedades más comunes...  Until the end.",EN,,TRUE,,,,
+C0046,Move Text,Ph. A Step 3 - Definitions -> Learn More tab - Company responsibility to respect (formerly: Company Representatives),,"Move the following content from definition tab to the ""Learn more"" tab– under Company responsibility to respect (but after the text mentioned above):
+
+Here are some examples of violations committed by a company: 
+-	If a company hires 12 year-old children, it is committing a human rights violation according to Convention 138 of the International Labour Organization, which states that children under the age of 14 must not be working
+-	If a company fires workers because they are demonstrating peacefully, it is committing a violation against the workers’ right to assembly.","Move the following content from definition tab to the ""Learn more"" tab– under Responsabilité de l'entreprise de respecter (but after the text mentioned above):
+Voici quelques exemples de violations commises par une entreprise :
+
+Si une entreprise embauche des enfants de 12 ans, elle commet une violation des droits humains selon la Convention n° 138 de l’Organisation internationale du travail, qui stipule que les enfants de moins de quatorze ans ne doivent pas travailler.
+Si une entreprise congédie des travailleurs parce qu’ils manifestent pacifiquement, elle commet une violation du droit de réunion des travailleurs.","Move the following content from definition tab to the ""Learn more"" tab– under Responsabilidad de respetar de la empresa (but after the text mentioned above):
+Algunos ejemplos de violaciones cometidos por una compañía :
+
+si una empresa contrata niños de 12 años, está cometiendo una violación de los derechos humanos según el Convenio Nº 138 de la Organización Internacional del Trabajo, que establece que un niño menor de 14 años no debe trabajar;
+si la compañía despide a trabajadores por manifestarse de manera pacífica, está cometiendo una violación contra el derecho de los trabajadores de reunirse.",EN,,TRUE,,,,
+C0045,New Popup,Ph. A Step 3 -- Company Rep Learn more tab,"Company Representative Learn More tab Starting with :
+Here are some of the more common kinds of...",Should be a Company Definition tab,Should be a Company Definition tab,Should be a Company Definition tab,EN,TRUE,,,,,
+C0047,New Popup,Ph. A Step 3 - Learn More tab - Guiding Principles,,"New Learn more pop-up Before Affected communities : The UNGPs
+The United Nations Guiding Principles on Business and Human Rights were developed by UN Special Representative on business & human rights John Ruggie and endorsed by the UN Human Rights Council in June 2011. They are a set of principles for States and companies to prevent and address human rights abuses committed in business operations. The Guiding principles further elaborate the three pillars that define the responsibilities of these key stakeholders with regards to business and human rights:
+Pillar 1: State duty to protect 
+Pillar 2: Corporate responsibility to respect
+Pillar 3:  Access to remedy for the victims
+
+Text of the Guiding Principles: (PDF: step_3_GuidingPrinciplesBusinessHR_EN)
+
+Useful information on the Guiding Principles can be found by visiting the following website: https://business-humanrights.org/en/un-guiding-principles","New learn more pop-up before Les communautés affectées:
+Les Principes directeurs des Nations unies relatifs aux entreprises et aux droits de l'homme ont été élaborés par le représentant spécial des Nations unies pour les entreprises et les droits de l'homme, John Ruggie, et approuvés par le Conseil des droits de l'homme des Nations unies en juin 2011. Ils constituent un ensemble de principes destinés aux États et aux entreprises pour prévenir et traiter les violations des droits humains commises dans le cadre d'opérations commerciales. Les principes directeurs précisent les trois piliers qui définissent les responsabilités de ces acteurs clés en ce qui concerne les entreprises et les droits humains :
+Pilier 1 : Obligation de l'État de protéger 
+Pilier 2 : Responsabilité des entreprises de respecter
+Pilier 3 : Accès à un recours pour les victimes
+
+Texte des principes directeurs : https://www.ohchr.org/documents/publications/guidingprinciplesbusinesshr_fr.pdf
+
+Vous trouverez des informations utiles sur les principes directeurs en consultant le site web suivant : https://business-humanrights.org/en/un-guiding-principles","New learn more pop-up, before Comunidades afactadas:
+Los Principios Rectores de las Naciones Unidas sobre las Empresas y los Derechos Humanos fueron adoptados por el representante especial de la ONU para la cuestión de las empresas y los derechos humanos, John Ruggie, y avalados por el Consejo de Derechos Humanos de la ONU en junio de 2011. Son un conjunto de principios para que Estados y empresas prevengan y atiendan los abusos de derechos humanos cometidos en operaciones empresariales. Con los Principios Rectores se elaboran más a fondo los tres pilares que definen las responsabilidades de estos interesados clave en lo tocante a las empresas y los derechos humanos:
+Pilar 1: Deber de los Estados de proteger
+Pilar 2: Responsabilidad de las empresas de respetar los derechos humanos
+Pilar 3: Acceso a mecanismos de reparación para las víctimas
+
+Para encontrar información útil sobre los Principios Rectores, visite el sitio web siguiente: https://business-humanrights.org/en/un-guiding-principles",EN,TRUE,,,,,
+C0048,New Popup,Ph. A Step 3- Host government,,"Content of the pop-up State Duty to Protect:
+""States’ international human rights law obligations require that they respect, protect and fulfil the human rights of individuals within their territory and/ or jurisdiction. This includes the duty to protect against human rights abuse by third parties, including business enterprises. 
+
+The State duty to protect is a standard of conduct. Therefore, States are not per se responsible for human rights abuse by private actors. However, States may breach their international human rights law obligations where such abuse can be attributed to them, or where they fail to take appropriate steps to prevent, investigate, punish and redress private actors’ abuse.""
+
+Source: Guiding principles on business and human rights (2011) 
+
+-	Guiding principles on business and human rights, June 16, 2011
+-	General Comment No.16 on State obligations regarding the impact of the business sector on children’s rights, April 17, 2013 
+-	General Comment No. 24 on State obligations under the International Covenant on Economic, Social and Cultural Rights in the context of business activities, August 10, 2017,  https://tbinternet.ohchr.org/_layouts/treatybodyexternal/TBSearch.aspx?Lang=en&TreatyID=9&DocTypeID=11","Content of the pop-up Obligation de l'État de protéger:
+""Les obligations incombant aux États conformément au droit international des droits de l’homme leur prescrivent de respecter, protéger et mettre en
+œuvre les droits fondamentaux des individus sur leur territoire et/ou sous leur juridiction. Les États sont notamment tenus de protéger lorsque des tiers,
+y compris des entreprises, portent atteinte aux droits de l’homme sur leur territoire et/ou sous leur juridiction.
+L’obligation de protéger incombant à l’État est une norme de conduite. En conséquence, les États ne sont pas tenus responsables à proprement parler
+des atteintes aux droits de l’homme commises par des acteurs privés. Ils peuvent toutefois être réputés avoir manqué à leurs obligations en vertu du
+droit international des droits de l’homme lorsque ces atteintes peuvent leur être attribuées ou lorsqu’ils ne prennent pas les dispositions voulues pour
+empêcher ces atteintes par des acteurs privés, et lorsqu’elles se produisent, enquêter à leur sujet, en punir les auteurs, et les réparer.""
+
+Source: Principes directeurs relatifs aux entreprises et aux droits de l'homme (2011) 
+
+-	Observation générale no 16 (2013) sur les obligations des États concernant les incidences du secteur des entreprises sur les droits de l'enfant, 17 avril 2013 
+-	Observation générale no 24 (2017) sur les obligations des États en vertu du Pacte international relatif aux droits économiques, sociaux et culturels dans le contexte des activités des entreprises, 10 août 2017.
+https://tbinternet.ohchr.org/SitePages/HomeFr.aspx?lang=fr","Content of the pop-up Deber del estado de proteger:
+Las obligaciones internacionales de derechos humanos exigen que los
+Estados respeten, protejan y realicen los derechos humanos de las personas que se encuentran en su territorio y/o su jurisdicción. Eso incluye el deber de proteger contra las violaciones de derechos humanos cometidas por terceros, incluidas las empresas.
+El deber de protección del Estado es una norma de conducta. Por
+consiguiente, los Estados no son en sí mismos responsables de las
+violaciones de los derechos humanos cometidas por agentes privados.
+Sin embargo, los Estados pueden estar incumpliendo sus obligaciones
+internacionales de derechos humanos cuando se les puedan atribuir esas
+violaciones o cuando no adopten las medidas adecuadas para prevenir,
+investigar, castigar y reparar los abusos cometidos por agentes privados.
+
+Fuente: Principios rectores sobre las empresas y los derechos humanos, https://www.ohchr.org/documents/publications/guidingprinciplesbusinesshr_sp.pdf
+
+Otros recursos:
+Observation générale no 16 (2013) sur les obligations des États concernant les incidences du secteur des entreprises sur les droits de l'enfant, 17 avril 2013 
+-Observación general núm. 24 (2017) sobre las obligaciones de los Estados en virtud del Pacto Internacional de Derechos Económicos, Sociales y Culturales en el contexto de las actividades empresariales, 10 de agosto 2017.",EN,TRUE,,,,,
+C0049,New Popup,Ph. A Step 3- Host government,,"New Worth browsing pop-up called Access to remedy - under Host government
+- OHCHR Accountability and Remedy Project: Improving accountability and access to remedy in cases of business involvement in human rights abuses, www.ohchr.org/EN/Issues/Business/Pages/OHCHRaccountabilityandremedyproject.aspx	
+- Amnesty International, Injustice incorporated: Corporate abuses and the human right to remedy, 2014, www.amnesty.org/fr/documents/pol30/001/2014/en/","New Worth browsing pop-up called Access to remedy - under Host government
+-Projet du HCDH sur la responsabilité et les voies de recours : renforcer la responsabilité et l’accès aux voies de recours en cas d’implication des entreprises dans des violations des droits de l’homme, https://www.ohchr.org/FR/Issues/Business/Pages/OHCHRaccountabilityandremedyproject.aspx
+- Amnesty International, Injustice incorporated: Corporate abuses and the human right to remedy, 2014, https://www.amnesty.org/fr/documents/pol30/001/2014/en/","New Worth browsing pop-up called Acceso a mecanismos de reparacion - under Gobierno antifrion
+-Proyecto sobre rendición de cuentas y mecanismos de reparación (ARP I) del ACNUDH: Aumentar la eficacia de los mecanismos judiciales en casos en que las empresas incurren en vulneraciones de derechos humanos www.ohchr.org/SP/Issues/Business/Pages/ARP_I.aspx
+- Amnesty International, Injustice incorporated: Corporate abuses and the human right to remedy, 2014, https://www.amnesty.org/fr/documents/pol30/001/2014/en/",EN,TRUE,,,,,
+C0050,Edit Text,Ph. A Step 3 - Host government,,"Add before Affected Communities:
+In 2011, an important step has been made in the area of business and human rights with the adoption of the United Nations Guiding Principles on Business and Human Rights by the United Nations Human Rights Council.
+The Guiding Principles are grounded in recognition of: 
+(a) States’ existing obligations to respect, protect and fulfil human rights and fundamental freedoms; 
+(b) The role of business enterprises as specialized organs of society performing specialized functions, required to comply with all applicable laws and to respect human rights; 
+(c) The need for rights and obligations to be matched to appropriate and effective remedies when breached. 
+
+These Guiding Principles apply to all States and to all business enterprises, both transnational and others, regardless of their size, sector, location, ownership and structure.
+Source: UNGPs, p.1  https://www.ohchr.org/documents/publications/guidingprinciplesbusinesshr_en.pdf","ADD before Les communautés affectées: 
+En 2011, une étape importante a été franchie dans le domaine des entreprises et des droits humains avec l'adoption des Principes directeurs des Nations unies relatifs aux entreprises et aux droits de l'homme par le Conseil des droits de l'homme des Nations unies.
+""Les Principes directeurs reconnaissent fondamentalement:
+a) Les obligations existantes qui incombent aux États de respecter, protéger et mettre en œuvre les droits de l’homme et les libertés fondamentales;
+b) Le rôle dévolu aux entreprises en qualité d’organes spécialisés de la société remplissant des fonctions particulières, tenues de se conformer à toutes les
+lois applicables et de respecter les droits de l’homme;
+c) La nécessité que les droits et obligations s’accompagnent des voies de recours appropriées et efficaces en cas de violation.""
+Source: Principes directeurs relatifs aux entreprises et droits de l'homme","Add before Las comunidades afectadas:
+En 2011 se dio un paso importante en el área de negocios y derechos humanos con la adopción, en el Consejo de Derechos Humanos de las Naciones Unidas, de los Principios Rectores de las Naciones Unidas sobre las Empresas y los Derechos Humanos.
+""Estos Principios Rectores se basan en el reconocimiento de:
+a) Las actuales obligaciones de los Estados de respetar, proteger y cumplir los
+derechos humanos y las libertades fundamentales;
+b) El papel de las empresas como órganos especializados de la sociedad que
+desempeñan funciones especializadas y que deben cumplir todas las leyes
+aplicables y respetar los derechos humanos;
+c) La necesidad de que los derechos y obligaciones vayan acompañados de
+recursos adecuados y efectivos en caso de incumplimiento.""
+Fuente: Principios rectores sobre las empresas y los derechos humanos, p. 1, www.ohchr.org/documents/publications/guidingprinciplesbusinesshr_sp.pdf",EN,,TRUE,,,,
+C0051,Edit Text,Ph. A Step 3 - Definition pop-up,"A company commits a violation when it is guilty of an action that infringes upon international and national human rights law. 
+Source: Amnesty International. Human Rights for Human Dignity: A primer on economic, social and cultural rights (2005)","Replace with:
+The corporate responsibility to respect human rights means to act with due diligence to avoid infringing the rights of others and to address adverse impacts that may occur. 
+The corporate responsibility to respect human rights exists independently of States’ duties or capacity. It constitutes a universally applicable human rights responsibility for all companies, in all situations. 
+
+Source: Amnesty International. Human Rights for Human Dignity: A primer on economic, social and cultural rights, 2nd edition (2014), https://www.amnesty.org/en/wp-content/uploads/2021/06/pol340012014en.pdf","ERASE :Un acteur commet une violation lorsqu’il se rend coupable d’une action qui contrevient au droit international et national relatif aux droits humains.
+
+Source : Amnesty International, Dignité et droits humains – une introduction aux droits économiques, sociaux et culturels (2005)
+
+Replace with: 
+La responsabilité des entreprises de respecter les droits de l'homme signifie qu'elles doivent agir avec la diligence requise pour éviter de porter atteinte aux droits d'autrui et pour remédier aux effets négatifs qui peuvent se produire. 
+La responsabilité des entreprises de respecter les droits de l'homme existe indépendamment des devoirs ou de la capacité des États. Elle constitue une responsabilité universellement applicable en matière de droits de l'homme pour toutes les entreprises, dans toutes les situations.
+Source: Amnesty International. Human Rights for Human Dignity: A primer on economic, social and cultural rights, 2nd edition (2014), https://www.amnesty.org/en/wp-content/uploads/2021/06/pol340012014en.pdf","ERASE: Un actor comete una violación cuando realiza el abuso principal, el acto que constituye una trasgresión de las leyes nacionales e internacionales.
+
+Fuente : Amnistía Internacional, Derechos humanos para la dignidad humana. Una introducción a los derechos económicos, sociales y culturales (2005).
+REplace with:
+La responsabilidad empresarial de respetar los derechos humanos significa actuar con la debida diligencia para evitar infringir los derechos de los demás y atender los impactos adversos que ocurran.
+La responsabilidad empresarial de respetar los derechos humanos existe independientemente de los deberes o la capacidad de los Estados. Constituye una responsabilidad de derechos humanos de aplicación universal para todas las empresas en todas las situaciones.",EN,,TRUE,,,,
+C0052,Edit Text,Ph. A Step 3- definition What does being complicit mean,"What does being complicit means...
+Erase this paragraph:
+
+“Unfortunately there is no established definition of complicity. As part of his broad mandate as the UN Secretary General’s Special Representative on the issue of human rights and transnational corporations and other business enterprises, John Ruggie must research and clarify the implications for transnational corporations and other business enterprises of concepts such as “complicity” and “sphere of influence”. For more information on John Ruggie’s work, visit the Business and Human Rights website: business-humanrights.org",Paragraph to erase,"Erase this paragraph: 
+Malheureusement, il n’existe aucune définition établie de la complicité. Dans le cadre de son vaste mandat à titre de Représentant spécial du Secrétaire général des Nations Unies pour la question des droits de l’homme et des sociétés transnationales et autres entreprises, John Ruggie doit effectuer des recherches sur des concepts tels que la « complicité » et la « sphère d’influence » et en clarifier les implications pour les entreprises. Pour obtenir plus d’information sur le travail de John Ruggie, visitez le site Web de Business and Human Rights : www.business-humanrights.org/Home","Erase this paragraph:
+Lamentablemente, no se ha establecido una definición de complicidad. Como parte de su amplio mandato en calidad de Representante Especial del Secretario General de las Naciones Unidas sobre la cuestión de los derechos humanos y las corporaciones internacionales y otras empresas de negocio, John Ruggie debe buscar y esclarecer el significado de conceptos tales como “complicidad” y “esfera de influencia” para las corporaciones transnacionales y otras empresas de negocio. Para obtener más información sobre el trabajo de John Ruggie se puede visitar el sitio Web del Centro de Información sobre Empresas y Derechos Humanos : www.business-humanrights.org/Home",EN,,TRUE,,,,
+C0053,Edit Text,Ph. A Step 3- definition What does being complicit mean,,"Add at the end of the box: 
+To learn more about the notion of complicity, read the reports of the International Commission of Jurists Expert Legal Panel on Corporate Complicity in International Crimes (ICJ):  Corporate Complicity and Legal Accountability
+•	Volume 1: Facing the Facts and Charting a Legal Path, https://www.icj.org/wp-content/uploads/2009/07/Corporate-complicity-legal-accountability-vol1-publication-2009-eng.pdf 
+•	Volume 2: Criminal Law and International Crimes, Corporate-complicity-legal-accountability-vol2-publication-2009-eng 
+•	Volume 3: Civil Remedies, Corporate-complicity-legal-accountability-vol3-publication-2009-eng","Add at the end of the box: 
+Pour en apprendre davantage sur la notion de complicité, vous pouvez lire les rapports de la Commission Internationale de Juristes - Défenseurs de la justice et des droits humains (CIJ):  Complicité des entreprises et Responsabilité juridique
+•	Volume 1: Affronter les faits et établir une voie juridique, www.icj.org/wp-content/uploads/2009/07/Corporate-complicity-legal-accountability-vol1-publication-2009-fra.pdf
+•	Volume 2: Droit pénal et crimes internationaux, www.icj.org/wp-content/uploads/2009/07/Corporate-complicity-legal-accountability-vol2-publication-2009-fra.pdf
+•	Volume 3: Recours civils, www.icj.org/wp-content/uploads/2009/07/Corporate-complicity-legal-accountability-vol3-publication-2009-fra.pdf","At the end of the box:
+Para obtener más informaciones sobre el concepto de la complicidad, consulten las publicaciónes de la Comisión Internacional de los Juristas (International Commission of Jurists – ICJ): Corporate Complicity and Legal Accountability:
+ •	Volume 1: Facing the Facts and Charting a Legal Path, https://www.icj.org/wp-content/uploads/2009/07/Corporate-complicity-legal-accountability-vol1-publication-2009-eng.pdf 
+•	Volume 2: Criminal Law and International Crimes, Corporate-complicity-legal-accountability-vol2-publication-2009-eng 
+•	Volume 3: Civil Remedies, Corporate-complicity-legal-accountability-vol3-publication-2009-eng",EN,,TRUE,,,,
+C0054,New Info Box,Ph. A Step 3 -- new gender info box,,"New gender info box onscreen - after the paragraph about mapping exercise: 
+When identifying the various stakeholders, keep in mind that the impacts of corporate investment projects are not gender neutral. Your stakeholder map should account for men, women, and other marginalized groups of the community independently from each other.","New gender info box onscreen - after the paragraph about exercise de cartographie
+•	Lorsque vous identifiez les différentes parties prenantes, gardez à l'esprit que les impacts des projets d'investissement des entreprises ne sont pas ressentis de la même manière par tous. Votre carte des parties prenantes doit reconnaître les multiples aspects de l'identité, tels que le sexe, la classe sociale, l'âge, les capacités, la religion, l'orientation sexuelle, la race ou l'origine ethnique, qui interagissent et se chevauchent pour façonner les identités et les expériences des personnes. Ces éléments peuvent exacerber la marginalisation et les violations des droits humains.","New gender info box onscreen - after the paragraph about exercisio de cartografia
+Consejos para hacer el ejercicio de mapeo con una lente interseccional:
+•	Reconozcan y valoren los conocimientos de cada integrante del grupo; reconozcan a cada integrante del grupo como persona experta y permítanle orientar la identificación de subgrupos y poblaciones vulnerables dentro de sus comunidades.
+•	Identifiquen subgrupos que tradicionalmente hayan estado ausentes del proceso de evaluación y asegúrense de su inclusión en cada etapa de la evaluación.
+•	Identifiquen barreras que puedan prohibir la participación de ciertos subgrupos  (o sea, madres, gente de la tercera edad) y proporcionen los recursos necesarios para garantizar que estos grupos puedan participar en todas las etapas de la evaluación (proporcionar quién cuide de meno de edad, etc.).",EN,TRUE,,,,,
+C0055,New Popup,Ph. A Step 3 - What is a mapping exercise?,,"New gender pop-up: - Tips to do the mapping exercise with an intersectional lens:
+•	Recognize and value group members’ knowledge--acknowledge individual group members as experts and allow them to guide the identification of sub-groups and vulnerable populations within their communities.
+•	Identify groups that have traditionally been absent in the assessment process and ensure their inclusion at every stage of the assessment.
+•	Identify barriers that might prohibit the participation of certain subgroups (i.e. mothers, elderly people) and provide the necessary resources to ensure these groups are able to participate at all stages of the assessment (providing childcare, etc.).","New gender pop-up: 
+Conseils pour faire l'exercice de cartographie avec une lentille intersectionnelle :
+•	Reconnaître et valoriser les connaissances des membres du groupe - reconnaître les membres individuels du groupe comme des experts et leur permettre de guider l'identification des sous-groupes et des populations vulnérables au sein de leurs communautés.
+•	Identifiez les groupes qui ont traditionnellement été absents du processus d'évaluation et assurez-vous de leur inclusion à chaque étape de l'évaluation.
+•	Identifiez les obstacles qui pourraient empêcher la participation de certains sous-groupes (par exemple, les mères, les personnes âgées) et fournissez les ressources nécessaires pour que ces groupes puissent participer à toutes les étapes de l'évaluation (mise à disposition de garderies, etc.).",,EN,TRUE,,,,,
+C0056,Edit Text,Ph. A Step 3 -- Affected Communities,"The communities affected by the project are key stakeholders and should be at the centre of the human rights impact assessment process.
+Keep in mind that not all communities, or parts of a single community, are affected in the same way. Nor do all communities share the same point of view of a project. Some may support it, while others may oppose it. These different perspectives should be represented and analyzed in your assessment.","[Add below the current box and paragraph]:
+•	In assessing human rights impacts, it is easy to see “the community” as a homogenous unit, without considering the differences in roles, rights realization, and asset ownership between men, women and gender diverse peoples. These assumptions about human rights impacts might be a result of perspective or bias from a male/patriarchal point of view. Instead, the team should seek out and understand the different perspectives of young women and old women, women with a disability, women from minority ethnic groups, and young men and old men, men with a disability, men from minority ethnic groups, and so on. Looking at potential overlapping forms of discrimination that may mean that some people are more likely to suffer the negative impacts of an investment project than others. This requires seeking out different perspectives based on varying characteristics such as sex and gender-orientation, age (youth / elderly), (dis)ability, race and ethnicity, socio-economic status, religion and other relevant factors.  For example:
+o	An indigenous woman faces different forms of discrimination to a non-indigenous woman; a woman with assets and title to land faces different forms of discrimination to one without these.  
+o	A young woman from an ethnic minority may be less able than others to access community support, health or legal resources that would enable her to address gender-based violence resulting from the project.
+(Source:  Adapted from Oxfam Australia and Australian Aid, A Guide to Gender Impact Assessment for the Extractive Industries)","•	Lors de l'évaluation des impacts sur les droits humains, il est facile de considérer la ""communauté"" comme une unité homogène, sans tenir compte des différences dans les rôles, la réalisation des droits et la propriété des biens entre les hommes, les femmes et les personnes de genres. Ces hypothèses sur les impacts sur les droits humains peuvent être le résultat d'une perspective ou d'un parti pris d'un point de vue masculin/patriarcal. Au lieu de cela, l'équipe doit rechercher et comprendre les différentes perspectives des jeunes femmes et des femmes âgées, des femmes handicapées, des femmes issues de groupes ethniques minoritaires, et des jeunes hommes et des hommes âgés, des hommes handicapés, des hommes issus de groupes ethniques minoritaires, etc. Examiner les éventuelles formes de discrimination qui se chevauchent et qui font que certaines personnes sont plus susceptibles que d'autres de subir les effets négatifs d'un projet d'investissement. Pour ce faire, il est nécessaire de rechercher différentes perspectives basées sur des caractéristiques variées telles que le sexe et l'orientation de genre, l'âge (jeunes / personnes âgées), les handicaps, la race et l'ethnicité, le statut socio-économique, la religion et d'autres facteurs pertinents.  Par exemple :
+o	Une femme autochtone est confrontée à des formes de discrimination différentes de celles d'une femme non autochtone ; une femme possédant des biens et un titre de propriété foncière est confrontée à des formes de discrimination différentes de celles d'une femme n'en possédant pas.  
+o	Une jeune femme issue d'une minorité ethnique peut être moins à même que les autres d'accéder au soutien communautaire, aux ressources sanitaires ou juridiques qui lui permettraient de faire face à la violence basée sur le genre résultant du projet.
+o	Source :  Adapté d'Oxfam Australie et Australian Aid, A Guide to Gender Impact Assessment for the Extractive Industries","•	Al evaluar los impactos en los derechos humanos, es fácil ver a “la comunidad” como un todo homogéneo, sin considerar las diferencias en roles, realización de derechos y propiedad de activos entre hombres, mujeres y personas de género diverso. Estas suposiciones en cuestión de derechos humanos pueden deberse a perspectiva o sesgo desde un punto de vista masculino / patriarcal. En vez de eso, el equipo debe ir a buscar y entender las distintas perspectivas de las mujeres jóvenes y ancianas, de las mujeres con discapacidad, de mujeres de grupos étnicos minoritarios y de hombres jóvenes y ancianos, de los hombres con discapacidad, de hombres de grupos étnicos minoritarios y así por el estilo. Al fijarse en posibles formas de discriminación traslapadas que puedan significar que haya más gente que sufra los impactos negativos de un proyecto de inversión que otra, hay que buscar distintas perspectivas con base en características que varían, como el sexo y la orientación de género, la edad (juventud / vejez), la (dis)capacidad, la raza y la etnicidad, la situación socioeconómica, la religión y otros factores relevantes. Por ejemplo:
+o	Una mujer indígena enfrenta formas de discriminación diferentes de las de una mujer que no es indígena; una mujer con activos y un título de propiedad enfrenta formas de discriminación que no son las mismas que las que una mujer sin una de tales cosas.  
+o	A una joven de una minoría étnica tal vez se le facilite menos que a otras acceder al apoyo de la comunidad, a la salud o a recursos jurídicos que le permitan atender la violencia de género resultante del proyecto.
+(Fuente:  Adaptado de Oxfam Australia y Australian Aid, A Guide to Gender Impact Assessment for the Extractive Industries)",EN,,TRUE,,,,
+C0057,New Info Box,Ph. A Step 3 -- Affected Communities,,"New onscreen gender box: 
+Men’s and women’s gender roles are societally constructed and often reinforce patriarchal structures. While we aim to break down misconceptions that contribute to these understandings, we recognize that in many communities these norms are the reality and must be addressed as such. These are three common mistakes in understanding women and gender diverse peoples in communities [New Gender Arrow] 
+-	There can be a tendency to treat the entire household as a homogenous unit where everyone has equal power, rights, and responsibilities and the same roles. This is incorrect. To assess the impacts of an investment project, it is important to understand how “the household” functions; that is, the activities, roles and contributions made by individuals comprising the household.
+-	Second, there are often preconceived assumptions about men’s and women’s roles that impact assessments implicitly adopt. For example, men can often be designated as the “breadwinners” and women as “mothers/carers.” However, these views fail to consider that many women work as farmers or act in other ways as the primary subsistence providers. Take time to consider the division of responsibilities in the community and understand the various roles and activities of men, women, and gender diverse peoples.
+-	Third, women-headed households frequently do not receive due consideration in an impact assessment, even though it is well known that many investment projects cause increased in- or out- migration of men, leading to changes in the existing roles of women and men in host communities. These changes can lead to time constraints and work burdens that create barriers to these women’s participation in the assessment process.
+(Source:  Adapted from Oxfam Australia and Australian Aid, A Guide to Gender Impact Assessment for the Extractive Industries)","Les rôles de genre des hommes et des femmes sont construits par la société et renforcent souvent les structures patriarcales. Bien que notre objectif soit de briser les idées fausses qui contribuent à ces conceptions, nous reconnaissons que dans de nombreuses communautés, ces normes sont la réalité et doivent être abordées comme telles. Voici trois erreurs courantes dans la compréhension des femmes et des personnes non-conformes au genre dans les communautés [New Gender Arrow] 
+-	On peut avoir tendance à traiter l'ensemble du foyer comme une unité homogène où chacun a le même pouvoir, les mêmes droits, les mêmes responsabilités et les mêmes rôles. Ceci est incorrect. Pour évaluer les impacts d'un projet d'investissement, il est important de comprendre le fonctionnement du ""ménage"", c'est-à-dire les activités, les rôles et les contributions des individus qui le composent.
+-	Deuxièmement, il existe souvent des hypothèses préconçues sur les rôles des hommes et des femmes que les évaluations d'impact adoptent implicitement. Par exemple, les hommes sont souvent désignés comme les ""soutiens de famille"" et les femmes comme les ""mères/soignantes"". Cependant, ces points de vue ne tiennent pas compte du fait que de nombreuses femmes travaillent comme agricultrices ou agissent d'une autre manière en tant que principaux pourvoyeurs de subsistance. Prenez le temps d'examiner la répartition des responsabilités au sein de la communauté et de comprendre les différents rôles et activités des hommes, des femmes et des personnes non-conformes au genre.
+-	Troisièmement, les ménages dirigés par des femmes ne sont souvent pas pris en compte dans l'évaluation d'impact, même s'il est bien connu que de nombreux projets d'investissement entraînent une augmentation de la migration des hommes vers l'intérieur ou l'extérieur, ce qui entraîne des changements dans les rôles existants des femmes et des hommes dans les communautés d'accueil. Ces changements peuvent entraîner des contraintes de temps et des charges de travail qui créent des obstacles à la participation de ces femmes au processus d'évaluation. (Source:  Adapté d'Oxfam Australie et Australian Aid, A Guide to Gender Impact Assessment for the Extractive Industries.)","Los papeles de género de hombres y mujeres son construcciones sociales que suelen reforzar las estructuras patriarcales. Si bien aspiramos a derribar nociones erróneas que contribuyan a tales entendimientos, reconocemos que en muchas comunidades estas normas son la realidad y como tal se deben tratar. A continuación consignamos tres errores comunes en la comprensión de la mujer y de las personas de género diverso en las comunidades [New Gender Arrow] 
+-	Puede haber la tendencia a tratar a toda la gente de un núcleo familiar como una unidad homogénea donde cada integrante tiene el mismo poder, los mismos derechos, las mismas responsabilidades y los mismos papeles. Esto es incorrecto. Para valorar los impactos de un proyecto de inversión, es importante comprender cómo funciona “el núcleo familiar”, o sea las actividades, los papeles y las aportaciones de cada persona que integra el núcleo familiar.
+-	En segundo lugar, no son raras las suposiciones preconcebidas sobre los papeles de hombres y mujeres que se adoptan implícitamente en las evaluaciones de impacto. Por ejemplo, puede que a menudo se designe a los hombres como “sustentos” y a las mujeres como “madres/cuidadores”. Sin embargo, estos puntos de vista suelen desconsiderar que muchas mujeres trabajan de campesinas o actúan de otros modos como las proveedoras principales del sustento. Es preciso darse tiempo para considerar la división de responsabilidades en la comunidad y entender los distintos papeles y actividades de hombres, mujeres y personas de género diverso.
+-	En tercer lugar, las unidades familiares dirigidas por mujeres suelen no recibir la debida consideración en una evaluación de impacto, aunque es bien sabido que muchos proyectos de inversión causan el aumento de la inmigración o la emigración de hombres, con lo que generan cambios en los papeles existentes de mujeres y hombres en las comunidades anfitrionas. Estos cambios pueden resultar en limitaciones de tiempo y cargas de trabajo que creen barreras para la participación de la mujer en el proceso de evaluación.
+-	(Fuente:  Adaptado de Oxfam Australia y Australian Aid, A Guide to Gender Impact Assessment for the Extractive Industries)",EN,TRUE,,,,,
+C0058,New Popup,Ph. A Step 3- Host government,,"New Worth browsing pop-up called Access to remedy - under Host government
+- OHCHR Accountability and Remedy Project: Improving accountability and access to remedy in cases of business involvement in human rights abuses, https://www.ohchr.org/EN/Issues/Business/Pages/OHCHRaccountabilityandremedyproject.aspx	
+- Amnesty International, Injustice incorporated: Corporate abuses and the human right to remedy, 2014, https://www.amnesty.org/fr/documents/pol30/001/2014/en/",,,EN,TRUE,,,,,
+C0060,Edit Text,Ph. A Step 4 - First paragraph,"“When undertaking a human rights impact assessment, you should be aware that in some cases people hold strong and opposing views. This can generate tension. If the situation is already tense and there are concerns about security, these risks should be taken seriously when undertaking the assessment and when involving local communities in the process.”","Replace with the following text: 
+When undertaking a human rights impact assessment, priority should be given to the security of men, women and gender diverse peoples in your community. If the situation is already tense and there are concerns about their security or the security of team members, these risks should be taken seriously, before undertaking the assessment and involving local communities in the process. There may be situations where it is not strategic to conduct an HRIA because it would put communities or the team at greater risks. In such cases, you may want to contact organizations that can provide guidance and support.","ERASE THE FIRST PARAGRAPH (starting with Au moment d'entreprendre...) AND REPLACE BY THE FOLLOWING: Lors de la réalisation d'une étude d'impact sur les droits humains, la priorité doit être donnée à la sécurité des hommes, des femmes et des personnes de genres différents de votre communauté. Si la situation est déjà tendue et que l'on s'inquiète de leur sécurité ou de celle des membres de l'équipe, il faut prendre ces risques au sérieux, avant d'entreprendre l'évaluation et d'impliquer les communautés locales dans le processus. Il peut y avoir des situations où il n'est pas stratégique de mener une EIDH parce que cela exposerait les communautés ou l'équipe à des risques plus importants. Dans de tels cas, vous pouvez contacter des organisations qui peuvent fournir des conseils et un soutien.","ERASE FIRST PARAGRAPH STARTING WITH: Cuando se comienza una evaluación...
+REPLACE WITH:
+Al emprender una evaluación de impacto en los derechos humanos, hay que dar prioridad a la seguridad de hombres, mujeres y personas de la diversidad de género en la comunidad de usted. Si la situación de por sí ya es tensa y existen inquietudes sobre la seguridad de estas personas o la de los integrantes del equipo, es preciso tomar estos riesgos en serio antes de realizar la evaluación y solicitar la participación de las comunidades locales en el proceso. Puede llegar a haber situaciones en que no sea estratégico realizar una HRIA porque esto exponga a mayores riesgos a las comunidades o al equipo. En tales casos, quizá sea preferible contactar a organizaciones que puedan ofrecer orientación y apoyo.",EN,,TRUE,,,,
+C0061,Edit Text,Ph. A Step 4 -- Here are a few tips,,"Erase one period in the first bullet “. . .potential dangers..”
+Erase one period in the last bullet "". . .work contact details..""",,,EN,,TRUE,,,,
+C0062,Edit Text,Ph. A Step 4 - Definition Who is HRD,,"Add in the Definition Pop-up called ""Who is a Human Rights Defender?"":
+FIDH published an updated version of its long-standing resource “Corporate Accountability for Human Rights Abuses: A Guide for Victims and NGOs on Recourse Mechanisms.” The guide has been revamped in the form of an interactive website to become more accessible and widely used and can be found at https://corporateaccountability.fidh.org/.","ADD IN THE DEFINITION POP-UP CALLED ""WHO IS A HRD?':
+La FIDH a publié une version actualisée de sa ressource de longue date ""Corporate Accountability for Human Rights Abuses : A Guide for Victims and NGOs on Recourse Mechanisms-La responsabilité des entreprises pour les violations des droits de l'homme : Guide des mécanismes de recours à l'intention des victimes et des ONG"". Le guide a été remanié sous la forme d'un site web interactif afin d'être plus accessible et plus largement utilisé et peut être consulté à l'adresse suivante : https://corporateaccountability.fidh.org/.","Add in the definition pop-up called ""¿Quién es un defensor de los derechos humanos?""
+La FIDH publicó una versión actualizada de su ya tradicional recurso “Corporate Accountability for Human Rights Abuses: A Guide for Victims and NGOs on Recourse Mechanisms” (Empresas y Violaciones a los Derechos Humanos: una guía sobre mecanismos de denuncia para víctimas y ONGs). La guía se renovó en formato de sitio web a fin de hacerla más accesible e incrementar su uso y puede encontrarse en https://corporateaccountability.fidh.org/.",EN,,TRUE,,,,
+C0063,Edit Text,Ph. A Step 4- Who is a human rights defender?,We must not forget that human rights are also required to operate peacefully.,"Add the word ""defenders"" after human rights.",,,EN,,TRUE,,,,
+C0064,New Popup,Ph. A Step 4- Who is a human rights defender?,before Organizations working to protect human rights defenders,"To learn more about the protection of human rights defenders (Pop-up title)
+Content:
+Content to add: 
+
+To learn more about the protection of human rights defenders, here are some interesting resources:
+
+Publication developed by Front Line Defenders: Workbook on Security: Practical steps for human rights defenders at risk. (PDF: step4_Frontline_workbook_eng_master)
+
+Important work has been done on digital security and privacy for human rights defenders. To know more about digital security, consult the Front Line publication called Digital Security and Privacy for Human Rights Defenders, Chapter 1.2 on security awareness at: www.frontlinedefenders.org/en/resource-publication/digital-security-privacy-human-rights-defenders (attached PDF stays the same)
+
+Amnesty International, 6 really practical ways to protect your privacy online: www.amnesty.org/en/latest/campaigns/2016/10/really-practical-ways-to-protect-your-privacy-online/?source=techstories.org
+
+Security in a box - Digital security tools and tactics: https://securityinabox.org/en/
+•	the Tactics Guides cover the basic principles, including advice on how to use social networking platforms and mobile phones more safely. 
+•	The Tool Guides offer step-by-step instructions to help you install and use the most essential digital security software and services
+
+For more information about the United Nations Declaration on Human Rights Defenders, you can consult the section on human rights defenders on the web site of the Office of the High Commissioner for Human Rights at, www2.ohchr.org
+
+Some States have adopted guidelines to protect human rights defenders: 
+European Union Guidelines on Human Rights Defenders (PDF: Step4_eu_guidelines_hrd_en)
+
+Voices at risk: Canada’s guidelines on supporting human rights defenders: http://international.gc.ca/world-monde/issues_development-enjeux_developpement/human_rights-droits_homme/rights_defenders_guide_defenseurs_droits.aspx?lang=eng","ONSCREEN TEXT: Pour en savoir plus sur la protection des défenseurs des droits humains.
+CONTENT OF LEARN MORE POP-UP: 
+Pour en savoir plus sur la protection des défenseurs des droits humains, voici quelques ressources intéressantes :
+
+Publication élaborée par Front Line Defenders : Workbook on Security : Étapes pratiques pour les défenseurs des droits humains en danger. (PDF : step4_Frontline_workbook_eng_master)
+
+Un travail important a été réalisé sur la sécurité numérique et le respect de la vie privée pour les défenseurs des droits humains. Pour en savoir plus sur la sécurité numérique, consultez la publication de Front Line intitulée Digital Security and Privacy for Human Rights Defenders, chapitre 1.2 sur la sensibilisation à la sécurité à l'adresse suivante : www.frontlinedefenders.org/en/resource-publication/digital-security-privacy-human-rights-defenders (le PDF joint reste le même)
+
+Amnesty International, 6 moyens vraiment pratiques de protéger votre vie privée en ligne : www.amnesty.org/en/latest/campaigns/2016/10/really-practical-ways-to-protect-your-privacy-online/?source=techstories.org 
+
+Security in a box - Outils et tactiques de sécurité numérique : https://securityinabox.org/en/
+- les Guides tactiques couvrent les principes de base, y compris des conseils sur la manière d'utiliser les plateformes de réseaux sociaux et les téléphones portables de manière plus sûre. 
+- Les guides des outils offrent des instructions étape par étape pour vous aider à installer et à utiliser les logiciels et services de sécurité numérique les plus essentiels.
+
+Pour plus d'informations sur la Déclaration des Nations unies sur les défenseurs des droits de l'homme, vous pouvez consulter la section consacrée aux défenseurs des droits de l'homme sur le site web du Haut-Commissariat aux droits de l'homme, à l'adresse www2.ohchr.org  
+
+Certains États ont adopté des lignes directrices pour protéger les défenseurs des droits de l'homme : 
+Orientations de l'Union européenne concernant les défenseurs des droits de l'homme (PDF : Step4_eu_guidelines_hrd_en)
+
+Voix en danger : Directives du Canada sur le soutien aux défenseurs des droits de la personne: http://international.gc.ca/world-monde/issues_development-enjeux_developpement/human_rights-droits_homme/rights_defenders_guide_defenseurs_droits.aspx?lang=eng","Onscreen text: 
+Para saber más de la protección de los defensores de los derechos humanos.
+Contenido del pop-up - WITH EXISTING PDFs
+Para saber más de la protección de los defensores de los derechos humanos, proponemos unos recursos interesantes:
+
+Publicación elaborada por Front Line Defenders: Workbook on Security: Practical steps for human rights defenders at risk.
+
+Se ha hecho un trabajo importante en torno a la seguridad digital y la privacidad de los defensores de los derechos humanos. Para saber más de seguridad digital, consulte la publicación de Front Line titulada Digital Security and Privacy for Human Rights Defenders (Seguridad digital y privacidad para defensores de los derechos humanos), capítulo 1.2 sobre conciencia de la seguridad, en: www.frontlinedefenders.org/en/resource-publication/digital-security-privacy-human-rights-defenders)
+
+Amnistía Internacional, 6 trucos realmente prácticos de proteger tu privacidad en Internet: https://www.amnesty.org/es/latest/campaigns/2016/10/really-practical-ways-to-protect-your-privacy-online/?source=techstories.org
+
+Security-In-A-Box (Seguridad en una caja)– Herramientas y tácticas para la seguridad digital: https://securityinabox.org/es/
+•	En las Guías Tácticas se abarcan los principios básicos, se ofrecen consejos de cómo usar las plataformas de redes sociales y los teléfonos móviles de manera más segura.
+•	En la Guías de Herramientas se ofrecen instrucciones paso a paso para ayudarle a usted a instalar lo más esencial del software y los servicios de seguridad digital.
+
+Para mayores informes sobre la Declaración de las Naciones Unidas sobre los Defensores de los Derechos Humanos, podrá consultarse la sección sobre defensores de los derechos humanos en el sitio web de la Oficina del Alto Comisionado para los Derechos Humanos en www2.ohchr.org
+
+Algunos Estados han adoptado lineamientos para proteger a los defensores de los derechos humanos:
+European Union Guidelines on Human Rights Defenders (Lineamientos de la Unión Europea sobre los Defensores de los Derechos Humanos)
+
+Voces en Riesgo: Directrices Canadienses para el Apoyo a los Defensores de los Derechos Humanos: https://www.international.gc.ca/world-monde/assets/pdfs/issues_development-enjeux_developpement/human_rights-droits_homme/rights_defenders-guide-defenseurs_droits_sp.pdf",EN,TRUE,,,,,

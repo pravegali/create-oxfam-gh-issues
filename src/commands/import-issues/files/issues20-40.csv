@@ -1,0 +1,247 @@
+﻿ReferenceID,TypeofChange,Location,OldText,NewTextEN,NewTextFR,NewTextES,Language,Change to Structure,Text Change,Owner,LocationofJSON,Priority,Complete
+C0022,Edit Text,Ph. A Step 1- Heading,“Take a preliminary look at the foreign investment project”,"Change title to:
+Take a preliminary look at the investment project",Change title of step to: Examen préliminaire du projet d'investissement,Change title of step to: Examen preliminar del proyecto de inversión,EN,,TRUE,,,,
+C0023,Edit Text,"Ph. A Step 1 -- ""What is foreign Investment?"" info box",Info box title: “What is foreign investment?”,Replace title with: What is an investment project?,Replace title for: Qu'est-ce qu'un projet d'investissement?,Replace title for: ¿Qué significa un proyecto de inversión ?,EN,,TRUE,,,,
+C0024,Edit Text,"Ph. A Step 1 -- ""What is an investment project"" info box (Formerly: What is foreign Investment?)","Foreign investment is when people or companies in one country purchase assets, such as land, natural resources, or existing companies, in another country. In this assessment process, we are looking at cases where a foreign company has purchased assets and is managing them. The end result is called an investment project. It could be a mine, a factory, a water system, or it could take some other form.","Replace text with: 
+An investment project is when people or companies purchase assets, such as land, natural resources, or existing companies. In this assessment process, we are looking at cases where a company has purchased assets and is managing them. The end result is called an investment project. It could be a mine, a factory, a water system, or it could take some other form.","In the text, delete ""a l'etranger"" un the first sentence as well as ""dans un autre pays"".","Delete ""extranjera"" in first sentence as well as ""de otro pais"". Delete extranjera in the following sentence.",EN,,TRUE,,,,
+C0025,Edit Text,Ph. A Step 1 - list of questions,"Answering questions in this section will help you plan your approach, decide who should be on your team, and determine which activities you will need to carry out.
+
+Is the investment project already operational or is it still in the planning stages?                 ...","Add text after 1st question: 
+Is it a national or foreign investment project?",Add text after 1st question: S'agit-il d'un investissement national ou étranger?,Add text after 1st question: ¿Es una inversión nacional o extranjera?,EN,,TRUE,,,,
+C0028,Edit Text,Ph. A Step 2 - Learn more tab -- Examples of expertise needed,,"Add text to pop up list: ""Examples of expertise needed"":                                                                                                                                                                                                                               SKILLS AND KNOWLEDGE: Ability to investigate specific impacts (e.g. health) and how they affect different groups of people differently (e.g. men and women)                                                        WHAT KINDS OF PEOPLE AND GROUPS MAY HAVE THESE: A doctor, environmentalist, NGO specialized in women’s rights or gender issues, scientists, academics, etc.","Add text to pop-up list: 
+Capacité à enquêter sur des impacts spécifiques (par exemple) sur la santé et sur la façon dont ils affectent inégalement différents groupes de personnes (par exemple les hommes et les femmes) : un médecin, un écologiste, une ONG spécialisée dans les questions relatives aux droits des femmes, des scientifiques, des universitaires, etc.","Add text to pop-up list: 
+Capacidad de investigar impactos específicos (v.g.) salud y cómo afectan de distinta manera a distintos grupos de gente (v.g. hombres y mujeres): un médico, ambientalista, ONG especializada en cuestiones de derechos de la mujer, científicos, académicos, etc.",EN,,TRUE,,,,
+C0030,Edit Text,Ph. A Step 2- Experiences pop-up,,"Add within existing pop-up:
+“Our team was composed of pastoral agents of CPT, legal advisors, and com- munity leaders. The participation of these leaders was made possible by the Association of Fisherfolk and Boat Owners of Sirinhaém, by the Franciscan Province of St. Anthony of Brazil/Sirinhaém, and by the Association of Residents of the Outeiro do Livramento district, one of the neighborhoods in which many former residents of the islands are living today.” (Brazil)
+“Our HRIA was conducted from March 2015 to April 2016 by a team made up of an external consultant and foremost investigator, two members of the Observatorio Ciudadano (Citizen Watch), and included the active participation of members of the indigenous community” (Chile)","Add within existing pop-up: 
+""Notre équipe était composée d'agents pastoraux du CPT, de conseillers juridiques et de responsables communautaires. La participation de ces leaders a été rendue possible par l'Association des pêcheurs et propriétaires de bateaux de Sirinhaém, par la Province franciscaine de Saint-Antoine du Brésil/Sirinhaém, et par l'Association des résidents du quartier Outeiro do Livramento, l'un des quartiers dans lesquels vivent aujourd'hui de nombreux anciens résidents des îles."" (Brésil)
+
+""Notre EIDH a été réalisée de mars 2015 à avril 2016 par une équipe composée d'un consultant externe et d'un enquêteur principal, de deux membres de l'Observatorio Ciudadano (veille citoyenne), et a inclus la participation active de membres de la communauté indigène"" (Chili).","Add within existing pop-up:
+""Nuestro equipo estuvo compuesto de agentes pastorales de la CPT, asesores jurídicos y dirigentes comunitarios. La participación de estos dirigentes fue posible gracias a la Asociación de Pescadores y Propietarios de Embarcaciones de Sirinhaém, la Provincia Franciscana de San Antonio de Brasil/Sirinhaém y la Asociación de Habitantes de Outeiro do Livramento, uno de los barrios donde viven muchas familias de exhabitantes de la isla”. (Brasil)
+
+“Nuestra HRIA fue realizada de marzo de 2015 a abril de 2016 por un equipo compuesto de un consultor externo e investigador principal, dos miembros del Observatorio Ciudadano y contó con la participación de miembros de la comunidad indígena” (Chile)",EN,,TRUE,,,,
+C0029,Edit Text,"Ph. A Step 2 - Second Paragraph starting with ""No matter which route you take,..""","No matter which route you take, you need to be clear about what role the outside experts will have in the assessment process, at what point you want them to be involved, and what responsibility you will have to one another. (“Bring in Outside Help” http://hria.equalit.ie/en/phases/index.html#/phase/a/etape/2/)",Delete the paragraph as is appears in double.,,,EN,,TRUE,,,,
+C0031,New Info Box,Ph. A Step 2 - new gender info box called: Adopting a Gender-balanced and Intersectional Approach,"Ideally, your core group should be composed of both men and women. This balance can help establish a comfortable environment for interviews, particularly with members of the affected communities. It also ensures the expression of diverse perspectives in the data analysis.
+
+It is important that one or more team members have knowledge or experience in gender issues.","Add new gender info box called: Adopting a Gender-balanced and Intersectional Approach
+•	Ideally, your core group should be gender-balanced and, if possible, represent the diversity in the affected communities. Gender balancing is context-specific, and its objective is to amplify diverse perspectives. A gender-balanced team where all members contribute to decision-making helps to signal that the contribution of women, men and gender diverse people, as well as individuals from indigenous communities and those expressing other identities, will be valued in the assessment. It can also help to establish a more inclusive environment for interviews, particularly with members of the affected communities and support the expression of diverse perspectives in the data analysis.
+•	To help ensure this occurs, it is important that one or more team members have knowledge or experience in gender- and intersectional- analysis. This person will be responsible for maintaining a focus on gender and diversity issues throughout the assessment project. This includes ensuring the team actively supports the inclusion and effective participation of women, gender diverse people and minorities through the assessment, including setting guidelines for participation that contribute to providing a safe space for all participants, collecting disaggregated data, and ensuring an intersectional approach to the assessment that respects and reflects the experience and views of women, gender diverse people, and minorities.  
+•	When developing a team and determining the governance structure, make sure to create spaces and opportunities for everyone on the team to have agency, voice, and the ability to lead on different aspects of the COBHRA process. The aim is for this process to promote a gender transformative approach, though we recognize that this can’t happen immediately but as long as you are keeping it in mind, you are on the right path.","•	Idéalement, votre groupe principal devrait être équilibré en termes de genre et, si possible, représenter la diversité des communautés affectées. L'équilibre entre les genres est spécifique au contexte, et son objectif est d'amplifier les diverses perspectives. Une équipe équilibrée en termes de genre, dont tous les membres contribuent à la prise de décision, permet de signaler que la contribution des femmes, des hommes et des personnes non-conformes au genre, ainsi que des individus issus des communautés autochtones et de ceux qui expriment d'autres identités, sera valorisée dans l'évaluation. Cela peut également contribuer à établir un environnement plus inclusif pour les entretiens, en particulier avec les membres des communautés affectées, et favoriser l'expression de perspectives diverses dans l'analyse des données.
+•	Pour s'en assurer, il est important qu'un ou plusieurs membres de l'équipe aient des connaissances ou une expérience en matière d'analyse de genre et d'analyse intersectionnelle. Cette personne sera chargée de maintenir l'attention sur les questions de genre et de diversité tout au long du projet d'évaluation. Il s'agit notamment de s'assurer que l'équipe soutient activement l'inclusion et la participation effective des femmes, des personnes non-conformes au genre et des minorités tout au long de l'évaluation, y compris en établissant des directives de participation qui contribuent à fournir un espace sûr pour tous les participants, en collectant des données désagrégées et en garantissant une approche intersectionnelle de l'évaluation qui respecte et reflète l'expérience et les points de vue des femmes, des personnes non-conformes au genre et des minorités.  
+•	Lors de la constitution de l'équipe et de la détermination de la structure de gouvernance, veillez à créer des espaces et des opportunités pour que chaque membre de l'équipe ait un rôle, une voix et la capacité de diriger les différents aspects du processus COBHRA. L'objectif est que ce processus favorise une approche transformatrice de genre, bien que nous reconnaissions que cela ne peut pas se produire immédiatement, mais tant que vous gardez cela à l'esprit, vous êtes sur la bonne voie.","•	Idealmente, su grupo eje debe tener un equilibrio de géneros y, de ser posible, representar la diversidad de las comunidades afectadas. El equilibrio de género es específico a su contexto y su objetivo es amplificar perspectivas diversas. Un equipo con equilibrio de género donde cada integrante contribuya a la toma de decisiones coadyuva a indicar que la aportación de mujeres, hombres y gente de género diverso, así como personas de las comunidades indígenas y quienes expresan otras identidades, sí serán valoradas en la evaluación. Además, puede ayudar a establecer un ambiente más incluyente para las entrevistas, particularmente con miembros de las comunidades afectadas, y a apoyar la expresión de perspectivas diversas en el análisis de datos.
+•	A fin de garantizar que así sea, es importante una o más de las personas que integran el equipo tengan conocimientos o experiencia en el análisis de género e interseccional. Esta persona será responsable de mantener la atención en las cuestiones de género y diversidad durante todo el proceso de evaluación. Esto comprende garantizar que el equipo apoye de manera activa la inclusión y la participación efectiva de mujeres, personas de género diverso y minorías mediante la evaluación, lo cual abarcará fijar lineamientos para la participación que contribuyan a brindar un espacio seguro para todas las personas participantes, recopilar datos desglosados y garantizar que la evaluación tenga un enfoque interseccional que respete y refleje la experiencia y los puntos de vista de las mujeres, las personas de género diverso y las minorías.  
+•	Al desarrollar un equipo y determinar la estructura de gobernanza, hay que asegurarse de crear espacios y oportunidades para que toda la gente del equipo tenga agencia, voz y la capacidad de dirigir en lo tocante a distintos aspectos del proceso COBHRA. El fin es que este proceso promueva un enfoque transformativo de género, aunque reconocemos que esto no se puede dar de inmediato, pero en tanto se tenga en cuenta, van por buen camino.",EN,TRUE,,,,,
+C0033,Edit Text,"Ph. A Step 3 -Top of page, below arrows",,"Add text at top of page before the question ""What is a stakeholder?"": Various stakeholders are gravitating around an investment project and their level of involvement will vary depending on who they are but also depending on the stage in which the investment project is. Among the key stakeholders to involve in the human rights impact assessment process, you will find the local communities, the company, the host government, the home government (in the case of foreign investment) and the workers. Other stakeholders might need to be added depending on your case","Add text at top of the page before the question ""Qu'est-ce qu'un acteur?""
+""Diverses parties prenantes gravitent autour d'un projet d'investissement et leur niveau d'implication variera en fonction de qui elles sont mais aussi en fonction du stade auquel se trouve le projet d'investissement. Parmi les principales parties prenantes à impliquer dans le processus d'étude d'impact sur les droits humains, vous trouverez les communautés locales, l'entreprise, le gouvernement hôte, le gouvernement d'origine (dans le cas d'un investissement étranger) et les travailleurs. Il peut être nécessaire d'ajouter d'autres parties prenantes en fonction de votre cas."" 
+
+""Pour avoir une bonne idée des personnes à inclure dans le processus d'évaluation, il est utile d'identifier les différentes parties prenantes par un processus de cartographie."" 
+AND CONTINUE WITH THE REST OF THE TEXT.","Add text at top page before the question Que es un actor?
+En torno a un proyecto de inversión gravitan diversos interesados cuyo nivel de participación variará según quiénes sean, pero también según la etapa en la que se encuentre el proceso de inversión. Entre los interesados clave con cuya participación debe contarse en el proceso de evaluación de impacto en los derechos humanos estarán las comunidades locales, la compañía, el gobierno anfitrión, el gobierno de origen (en caso de inversión externa) y los trabajadores. Tal vez haga falta agregar a otros interesados según el caso.
+
+Para tener una buena idea de a quiénes incluir en el proceso de valoración, resulta útil identificar a los distintos interesados mediante un proceso de mapeo (y continuar con el resto del párrafo como está).",EN,,TRUE,,,,
+C0035,Move Text,Ph. A Step 3- Host Government,,"Move the following content to Ph. B Step 11C:
+“Also, when thinking about the host government, you should try to look into the relationship it has with the company. Here are some examples of questions you may ask yourself:
+•	What are the laws that govern the relationship between the government and the company?
+•	Has the host government made promises to the company in terms of tax exemptions?
+•	What revenues does the host government expect to receive from the project?
+•	Has it set deadlines or conditions the company must meet?
+•	Are there penalties?
+•	Are some government officials, or their families or friends, involved in or benefiting from the project?”","Move the following content to Phase B - Step 11C:
+ Dans votre analyse du gouvernement hôte, vous devriez essayer de savoir quel type de relation il entretient avec l’entreprise. Voici quelques exemples de questions que vous pourriez vous poser :
+
+Quelles sont les lois qui régissent les relations entre le gouvernement et l’entreprise ?
+L’État hôte a-t-il fait des promesses d’exemptions fiscales à l’entreprise ?
+Quels revenus l’État hôte s’attend-il à obtenir du projet d’investissement ?
+Le gouvernement hôte a-t-il établi des échéances ou des conditions que l’entreprise doit respecter ?
+Des pénalités sont-elles prévues ?
+Des représentants gouvernementaux, des membres de leur famille ou des amis participent-ils au projet d’investissement ou en bénéficient-ils ?",,EN,,TRUE,,,,
+C0036,Edit Text,Ph. A Step 3 -- What is a mapping Exercise?,"What is a mapping exercise?
+It is useful to identify the different stakeholders through a mapping process. This exercise will also help you understand the relationship between the stakeholders and their interests in relation to the project and in relation to the human rights impact assessment. Identifying the different stakeholders may provide a good opportunity to start thinking about when you will contact them and what part they will play in the impact assessment process.","Change for this paragraph (and move the question at the end of the paragraph - so the pop-up is after rather than before).
+To have a good idea of who to include in the assessment process, it is useful to identify the different stakeholders through a mapping process. This exercise will also help you understand the relationship between the stakeholders and their interests in relation to the project and in relation to the human rights impact assessment. Identifying the different stakeholders may provide a good opportunity to start thinking about when you will contact them and what part they will play in the impact assessment process. In step 11, you will develop a power map which will help you further understand the different actors connected to the investment project. This map might influence your initial list of stakeholders. Don’t hesitate to come back and modify this first list.","Change for this paragraph:
+Pour avoir une bonne idee de qui inclure dans le processus d'evaluation, il est utile d’identifier les différents acteurs à l’aide d’une grille. Cet exercice vous aidera également à comprendre la relation entre les différents acteurs ainsi que leurs intérêts à l’égard du projet et de l’étude d’impact sur les droits humains. L’identification des différents acteurs peut constituer une bonne occasion de commencer à songer au moment où vous allez communiquer avec eux et au rôle qu’ils joueront dans le processus d’étude d’impact. À l'étape 11, vous développerez une carte du pouvoir qui vous aidera à mieux comprendre les différents acteurs liés au projet d'investissement. Cette carte peut influencer votre liste initiale de parties prenantes. N'hésitez pas à revenir et à modifier cette première liste.","Change for this paragraph:
+Para tener una buena idea de a quién incluir en el proceso de evaluación, es útil identificar a las diferentes partes interesadas mediante un proceso de mapeo. Este ejercicio ayudará también a comprender la relación que tienen entre ellas y sus intereses relativos al proyecto y a la evaluación de impacto en los derechos humanos. La identificación de las diferentes partes interesadas brindará una buena oportunidad para comenzar a pensar en qué momento se les contactará y qué papel tendrán en el proceso de evaluación.En el Paso 11, usted elaborará un mapa de poder que le ayude a entender mejor a los distintos actores relacionados al proyecto de inversión. Tal vez este mapa influya en su lista inicial de interesados. Más adelante, no dude en modificar primero esta lista.",EN,,TRUE,,,,
+C0037,Edit Text,Ph. A Step 3 - What is a mapping exercise?,It is useful to identify the different stakeholders through a mapping process. This exercise will also help you understand the relationship between the stakeholders and their interests in relation to the project and in relation to the human rights impact assessment. Identifying the different stakeholders may provide a good opportunity to start thinking about when you will contact them and what part they will play in the impact assessment process.,"Add text after the paragraph starting with “To have a good idea…”:
+•	When identifying the various stakeholders, keep in mind that the impacts of corporate investment projects are not experienced equally by all people. Your stakeholder map should recognize the multiple aspects of identity such as gender, class, age, ability, religion, sexual orientation, race, or ethnicity that interact and overlap to shape people’s identities and experiences. These elements can exacerbate marginalization and human rights violations.","Add text after the paragraph starting with ""Pour avoir une bonne idee de qui inclure...""
+Lorsque vous identifiez les différentes parties prenantes, n'oubliez pas que les impacts des projets d'investissement des entreprises ne sont pas neutres en termes de genre. Votre carte des parties prenantes doit tenir compte des hommes, des femmes et des autres groupes marginalisés de la communauté, indépendamment les uns des autres.","Add text after the paragraph starting wth - Al identificar a los distintos interesados, tenga en cuenta que los impactos de los proyectos de inversión de grandes empresas no son neutros desde el punto de vista del género. El mapa que interesados que usted elabore deberá dar cuenta de hombres, mujeres y otros grupos marginados de la comunidad independientemente unos de otros.",EN,,TRUE,,,,
+C0313,New Info Box,Ph. A Step 3 -- new gender info box,,"New gender info box onscreen - after the paragraph about mapping exercise: 
+When identifying the various stakeholders, keep in mind that the impacts of corporate investment projects are not gender neutral. Your stakeholder map should account for men, women, and other marginalized groups of the community independently from each other.","New gender info box onscreen - after the paragraph about exercise de cartographie
+•	Lorsque vous identifiez les différentes parties prenantes, gardez à l'esprit que les impacts des projets d'investissement des entreprises ne sont pas ressentis de la même manière par tous. Votre carte des parties prenantes doit reconnaître les multiples aspects de l'identité, tels que le sexe, la classe sociale, l'âge, les capacités, la religion, l'orientation sexuelle, la race ou l'origine ethnique, qui interagissent et se chevauchent pour façonner les identités et les expériences des personnes. Ces éléments peuvent exacerber la marginalisation et les violations des droits humains.",,EN,TRUE,,,,,
+C0038,Edit Text,"Ph. A Step 3 - sub-title named ""Company representatives""",Company Representatives,"Change to ""Company""","Change ""Les representants de la compagnie"" for ""La compagnie""",Change Representantes de la compania for La compañía,EN,,TRUE,,,,
+C0039,New Info Box,Ph. A Step 3 - Company,"When carrying out your assessment, keep in mind that:
+
+Companies must respect human rights (not commit human rights violations)
+Companies must not benefit from human rights violations
+Companies must not be complicit in human rights abuses by the state","PUT THIS EXISTING TEXT IN AN INFO BOX: 
+When carrying out your assessment, keep in mind that: 
+
+Companies must respect human rights (not commit human rights violations) 
+Companies must not benefit from human rights violations 
+Companies must not be complicit in human rights abuses by the state 
+
+AND ADD THIS NEW TEXT AT THE END:
+As specified in the UNGPs: 
+Principle 11: “Business enterprises should respect human rights. This means that they should avoid infringing on the human rights of others and should address adverse human rights impacts with which they are involved.”
+
+Principle 13: “The responsibility to respect human rights requires that business enterprises: 
+(a) Avoid causing or contributing to adverse human rights impacts through their own activities, and address such impacts when they occur; 
+(b) Seek to prevent or mitigate adverse human rights impacts that are directly linked to their operations, products or services by their business relationships, even if they have not contributed to those impacts.”","Put this existing text in an info box:
+Lors de la réalisation de votre étude d’impact, vous devez garder à l’esprit que les entreprises doivent :
+
+- Respecter les droits humains (Ne pas commettre de violation des droits humains)
+- Ne pas tirer profit des violations des droits humains
+- Ne pas se rendre complices de violations des droits humains commises par l’État
+AND ADD THIS NEXT TEXT:
+Comme spécifié dans les principes directeurs des Nations Unies :
+Principe directeur 11: ""Les entreprises devraient respecter les droits de l'homme. Cela signifie qu’elles devraient éviter de porter atteinte aux droits de l'homme d’autrui et remédier aux incidences négatives sur les droits de l’homme dans lesquelles elles ont une part.""
+
+Principe directeur 13: ""La responsabilité de respecter les droits de l'homme exige des entreprises:
+a) Qu’elles évitent d’avoir des incidences négatives sur les droits de l’homme ou d’y contribuer par leurs propres activités, et qu’elles remédient à ces incidences lorsqu’elles se produisent;
+b) Qu’elles s’efforcent de prévenir ou d’atténuer les incidences négatives sur les droits de l'homme qui sont directement liées à leurs activités, produits ou services par leurs relations commerciales, même si elles n’ont pas contribué à ces incidences.""","Put this existing text in an info box:
+Al realizar la evaluación, hay que tener en cuenta que las compañías deben cumplir con los siguientes puntos :
+
+Respetar los derechos humanos (no cometer ninguna violación a los derechos humanos);
+No deben beneficiarse con violaciones a los derechos humanos
+No deben ser cómplices de los abusos en materia de derechos humanos cometidos por el Estado
+
+AND ADD THIS NEXT TEXT:
+Como se especifica en los UNGPs:
+Principio 11: ""Las empresas deben respetar los derechos humanos. Eso significa que deben abstenerse de infringir los derechos humanos de terceros y hacer frente a las consecuencias negativas sobre los derechos humanos en
+las que tengan alguna participación..""
+
+Principio 13: "" La responsabilidad de respetar los derechos humanos exige que las empresas:
+a) Eviten que sus propias actividades provoquen o contribuyan a provocar consecuencias negativas sobre los derechos humanos y hagan frente a esas consecuencias cuando se produzcan;
+b) Traten de prevenir o mitigar las consecuencias negativas sobre los derechos humanos directamente relacionadas con operaciones, productos o servicios prestados por sus relaciones comerciales, incluso cuando no hayan contribuido a generarlos.""",EN,TRUE,,,,,
+C0040,Edit Text,Ph. A Step 3 - Worth browsing tab,,"Add these resources: 
+- The corporate responsibility to respect human rights: an interpretive guide: https://www.ohchr.org/Documents/Publications/HR.PUB.12.2_En.pdf 
+- BTech: https://www.ohchr.org/Documents/Issues/Business/B-Tech/taking-action-address-human-rights-risks.pdf","Add these resources:
+- La responsabilité des entreprises de respecter les droits de l'homme - Guide interprétatif (2012): https://www.ohchr.org/Documents/Publications/HR_PUB_12_2_fr.pdf
+-  BTech: https://www.ohchr.org/Documents/Issues/Business/B-Tech/taking-action-address-human-rights-risks.pdf","Add this resource: 
+La responsabilidad de las empresas de respetar los derechos humanos -Guía para la interpretación: www.ohchr.org/Documents/Publications/HR.PUB.12.2_sp.pdf",EN,,TRUE,,,,
+C0041,New Popup,Ph. A Step 3 - Learn More tab,"State Obligations
+Company Representatives","Divide into 4 sections: 
+•	Guiding Principles
+•	State duty to protect (new name for ""State obligations""
+•	Company responsibility to respect (new name for ""Company Representatives""
+•	Access to remedy for victims","Divide into 4 sections: 
+Principes directeurs
+Obligation de protéger les droits de l'homme incombant à l'État (NEW NAME FOR ""LES OBLIGATIONS DE L'ÉTAT"") 
+Responsabilité incombant aux entreprises de respecter les droits de l'homme (NEW NAME FOR ""LES REPRÉSENTANTS DE L'ENTREPRISE"")
+Accès à des voies de recours","Divide into 4 sections:
+Principios rectores
+Deber del Estado de proteger (New name for Las obligaciones del Estado)
+Responsabilidad de la empresa de respetar (New name for Los representantes de la compania)
+Acceso a reparación para las víctimas",EN,TRUE,,,,,
+C0042,New Popup,Ph. A Step 3 - Learn More Tab -- Company Responsibility,,"Add pop-up called ""Company responsibility to respect"" under Company.
+To add at the top of Company responsibility to respect:
+""The responsibility to respect human rights is a global standard of expected conduct for all business enterprises wherever they operate. It exists independently of States’ abilities and/or willingness to fulfil their own human rights obligations, and does not diminish those obligations. And it exists over and above compliance with national laws and regulations protecting human rights. 
+
+Addressing adverse human rights impacts requires taking adequate measures for their prevention, mitigation and, where appropriate, remediation.
+
+ Business enterprises may undertake other commitments or activities to support and promote human rights, which may contribute to the enjoyment of rights. But this does not offset a failure to respect human rights throughout their operations. 
+
+Business enterprises should not undermine States’ abilities to meet their own human rights obligations, including by actions that might weaken the integrity of judicial processes.""
+Source: Guiding principles on business and human rights (2011)","Add pop-up called ""Responsabillité des entreprises de respecter"" under Compagnie.
+To add at the top of Responsabilité de respecter:
+""La responsabilité de respecter les droits de l’homme est une norme de conduite générale que l’on attend de toutes les entreprises où qu’elles opèrent. Elle existe indépendamment des capacités et/ou de la détermination des États de remplir leurs propres obligations en matière de droits de l’homme et ne
+restreint pas ces dernières. Elle prévaut en outre sur le respect des lois et règlements nationaux qui protègent les droits de l’homme.
+Pour remédier aux incidences sur les droits de l’homme, il faut prendre des mesures adaptées de prévention, d’atténuation des effets et, le cas échéant,
+de réparation.
+Les entreprises peuvent contracter d’autres engagements ou entreprendre d’autres activités pour appuyer et promouvoir les droits de l’homme, qui
+peuvent favoriser l’exercice de ces droits. Mais cela ne les dispense en rien de respecter les droits de l’homme dans l’ensemble de leurs activités.
+Les entreprises ne doivent pas compromettre les capacités des États à remplir leurs propres obligations en matière de droits de l’homme, y compris par
+des mesures risquant d’affaiblir l’intégrité des processus judiciaires.""
+(Source: Principes directeurs relatifs aux entreprises et aux droits de l'homme des Nations Unies)","Add pop-up called Responsabilidad de respetar los derechos humanos
+Add at the top of Responsabilidad de respetar:
+La responsabilidad de respetar los derechos humanos constituye una
+norma de conducta mundial aplicable a todas las empresas, dondequiera
+que operen. Existe con independencia de la capacidad y/o voluntad de
+los Estados de cumplir sus propias obligaciones de derechos humanos y
+no reduce esas obligaciones. Se trata de una responsabilidad adicional a
+la de cumplir las leyes y normas nacionales de protección de los derechos
+humanos.
+Hacer frente a las consecuencias negativas sobre los derechos humanos
+implica tomar las medidas adecuadas para prevenirlas, mitigarlas y, en su
+caso, remediarlas.
+Las empresas pueden asumir otros compromisos o llevar a cabo otras
+actividades para apoyar y promover los derechos humanos y contribuir
+así a mejorar el disfrute de los derechos. Pero esto no compensa el
+incumplimiento de sus obligaciones de derechos humanos en el desempeño
+de sus actividades.
+Las empresas no deben menoscabar la capacidad de los Estados para
+cumplir sus propias obligaciones en materia de derechos humanos, ni
+emprender acciones que puedan debilitar la integridad de los procesos
+judiciales.",EN,TRUE,,,,,
+C0043,Edit Text,Ph. A Step 3 - Learn More tab -- Company responsibility to respect (formerly: Company representatives),"Here are some of the more common kinds of corporate partnerships or alliances:
+
+Joint venture: A joint venture is the establishment by two or more companies of a separate business that will be operated jointly. For example, companies A, B and C get together to form company D. To understand what D is doing, it helps to know what A, B and C do. For instance, it may help to know that A has a terrible human rights record around the world or that B is fighting a lawsuit in another country for polluting the water around a mine it is operating.
+
+Consortium: A consortium is a group of companies formed to promote a common objective or engage in a project of benefit to all its members. The relationship normally entails cooperation and a sharing of resources, sometimes even common ownership. A consortium can be a joint venture, or it may have a different legal structure.
+
+Subcontractors and suppliers: A subcontractor is a business or person who carries out work for a company as part of a larger project. While it is not the main company responsible for the investment project, the subcontractor has a relationship with the main company. For example, if company D is building a new water system and hires company E to either lay pipes, do an environmental impact assessment, provide engineering services, run the cafeteria, or provide workers, then company E is a subcontractor. Here again, it is important to find out whether company E has a poor human rights record. As well, if company A is buying a large amount of its material from a supplier, you may want to look at the supplier to see whether it upholds labour, environmental and human rights standards in its work. In many cases, companies also subcontract their security needs to local entities.
+
+Another type of alliance or partnership is when company C licences company D to sell its products or services in a certain market. The companies are not sharing ownership, but they have formed a partnership.","Add Content:
+Examples of business impact on human rights 
+Examples of situations where business enterprises may be deemed to have caused adverse human rights impact:
+-	Routine racial discrimination by a restaurant in its treatment of customers;
+-	Exposure of factory workers to hazardous working conditions without adequate safety equipment;
+-	Being the sole or main source of pollution in a community’s drinking water supply due to chemical effluents from production processes. 
+Examples of enterprises being accused of contributing to adverse human rights impact: 
+-	Providing data about Internet service users to a Government that uses the data to trace and prosecute political dissidents contrary to human rights; 
+-	Performing construction and maintenance on a detention camp where inmates were allegedly subject to inhumane treatment; 
+-	Targeting high-sugar foods and drinks at children, with an impact on child obesity; 
+-	Changing product requirements for suppliers at the eleventh hour without adjusting production deadlines and prices, thus pushing suppliers to breach labour standards in order to deliver. 
+Examples of adverse impact that is directly linked to an enterprise’s operations, products or services by its business relationships, but where the enterprise itself may not to have contributed to it: 
+-	Providing financial loans to an enterprise for business activities that, in breach of agreed standards, result in the eviction of communities; 
+-	Embroidery on a retail company’s clothing products being subcontracted by the supplier to child labourers in homes, counter to contractual obligations; 
+-	Use of scans by medical institutions to screen for female foetuses, facilitating their abortion in favour of boys. 
+Human Rights Translated contains further examples of how business enterprises can be involved in adverse impact on human rights.
+Source: The corporate responsibility to respect human rights: an interpretive guide, p.17:  https://www.ohchr.org/Documents/Publications/HR.PUB.12.2_En.pdf","Add content:
+Exemples de situations où l’on peut considérer que des entreprises commerciales ont
+causé une incidence négative sur les droits de l’homme :
+– Faire couramment une discrimination raciale dans le traitement des clients dans
+un restaurant ;
+– Exposer des travailleurs en usine à des conditions de travail à risque sans
+équipement de sécurité adéquat ;
+– Etre l’unique ou principale source de pollution de l’eau potable qui approvisionne
+une collectivité à cause de produits chimiques utilisés dans le processus de
+production.
+Exemples d’entreprises qui sont accusées de contribuer à une incidence négative sur
+les droits de l’homme :
+– Fournir des données sur les utilisateurs des services internet à un gouvernement qui
+les utilise pour retracer et poursuivre les dissidents politiques, et ce en opposition
+avec les droits de l’homme ; 
+
+Que doit faire une entreprise qui risque d’être impliquée dans une incidence négative sur les droits de l’homme ?
+Les réponses appropriées aux différentes situations sont analysées en détail dans le Principe directeur 19. En résumé :
+a) Si une entreprise risque de causer une incidence négative sur les droits de l’homme, ou d’y contribuer, à travers ses activités, elle doit cesser
+ou changer l’activité qui en est la cause, afin de prévenir ou d’atténuer l’éventualité que l’incidence survienne ou se répète. Si toutefois une
+incidence se produit, l’entreprise doit s’engager activement dans sa réparation, soit directement, soit en collaboration avec d’autres (qu’il
+s’agisse de tribunaux, du gouvernement, d’autres entreprises impliquées ou d’autres tiers);
+b) Si une entreprise risque d’être impliquée dans une incidence négative uniquement parce que l’incidence est liée à ses activités, produits ou
+– Assurer la construction et l’entretien d’un camp de détention où l’on prétend que des détenus sont soumis à des traitements inhumains ;
+– Miser sur des aliments et des boissons à forte teneur en sucre à l’attention des enfants, avec une incidence sur l’obésité infantile ;
+– Changer les exigences de production destinées aux fournisseurs à la dernière minute sans adapter les prix et les délais de production, poussant ainsi les fournisseurs à violer les normes du travail afin de pouvoir livrer.
+Exemples d’incidence négative qui est directement liée aux activités, produits ou services d’une entreprise à travers ses relations commerciales, mais à laquelle l’entreprise elle-même n’a pas forcément contribué :
+– Offrir des prêts financiers à une entreprise pour ses activités commerciales qui, en violation des normes acceptées, proviennent de l’expulsion de collectivités ;
+– Confier en sous-traitance la broderie de pièces d’habillement d’un détaillant à un fournisseur qui fait travailler des enfants à domicile, en violation des obligations contractuelles ;
+– Recourir à l’imagerie auprès d’institutions médicales pour détecter les fétus filles et provoquer des avortements, au profit des garçons.
+
+Human Rights Translated contient d’autres exemples qui montrent comment les entreprises commerciales peuvent être impliquées dans une incidence négative sur les droits de l’homme.
+Source: La responsabilité des entreprises de respecter les droits de l'homme: Guide interprétatif: https://www.ohchr.org/Documents/Publications/HR_PUB_12_2_fr.pdf","Add content:
+Ejemplos de situaciones en que puede considerarse que las empresas han provocado consecuencias negativas en los derechos humanos:
+– Discriminación racial habitual por parte de un restaurante en el trato que dispensa a sus clientes;
+– Exposición de los trabajadores de una fábrica a unas condiciones de trabajo peligrosas sin un equipo de seguridad adecuado;
+– Ser la única o la principal fuente de contaminación del suministro de agua potable de una comunidad debido a los efluentes químicos procedentes de los procesos de producción.
+Ejemplos de empresas acusadas de contribuir a la aparición de consecuencias negativas para los derechos humanos:
+– Proporcionar datos sobre los usuarios del servicio de Internet a un Gobierno que los utiliza para rastrear y hostigar a disidentes políticos vulnerando los derechos humanos;
+– Realizar tareas de construcción y mantenimiento de un centro de detención en el que se ha denunciado que los internos reciben un trato inhumano;
+– Fomentar el consumo de alimentos y bebidas con un alto contenido de azúcar entre los niños, con consecuencias negativas para la obesidad infantil;
+– Modificar en el último minuto las especificaciones de los productos adquiridos a los proveedores sin ajustar los precios ni los plazos de entrega, obligándoles con ello a infringir las normas laborales para poder cumplir los contratos.
+Ejemplos de consecuencias negativas directamente vinculadas a las operaciones, productos o servicios de una empresa en virtud de sus relaciones comerciales, aunque la propia empresa tal vez no haya contribuido a ellas:
+– Proporcionar préstamos a una empresa para la realización de actividades comerciales que, en vulneración de las normas acordadas, desemboquen en el desalojo de comunidades;
+– Subcontratación por el proveedor de bordados para las prendas de vestir comercializadas por una empresa, en contra de sus obligaciones contractuales, a hogares en los que son niños los que realizan el trabajo.
+– Uso de instrumentos en centros médicos para detectar fetos femeninos con el fin de facilitar el aborto de esos fetos en favor de los fetos masculinos.
+
+La publicación Human Rigths Translated contiene más ejemplos de cómo las empresas pueden verse involucradas en la aparición de consecuencias negativas sobre los derechos humanos. 
+
+Fuente: La responsabilidad de las empresas de respetar los derechos humanos - Guía para la interpretación: https://www.ohchr.org/Documents/Publications/HR.PUB.12.2_sp.pdf",EN,,TRUE,,,,

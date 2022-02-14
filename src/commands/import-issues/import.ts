@@ -6,7 +6,7 @@ import { CsvItem } from "./helpers/CSVItem";
 import { CreateIssueBody } from "./helpers/createIssueBody";
 
 const path = require("path");
-const octokit = new Octokit({ auth: `PleaseUpdateWithYourToken` });
+const octokit = new Octokit({ auth: `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` });
 
 
 
@@ -25,7 +25,7 @@ hello world! (./src/commands/hello/world.ts)
 
     async run(): Promise<void> {
         // Get the list of issues from the csv
-        const csvFilePath = path.resolve(__dirname, 'files/issues.csv');
+        const csvFilePath = path.resolve(__dirname, 'files/issues100-120.csv');
 
         const headers = [
             'ReferenceID',
@@ -39,6 +39,7 @@ hello world! (./src/commands/hello/world.ts)
             'Change to Structure',
             'Text Change',
             'Owner',
+            'LocationofJSON',
             'Priority',
             'Complete'
         ];
@@ -67,8 +68,7 @@ hello world! (./src/commands/hello/world.ts)
             repo: "HRIA",
             title: title,
             body: CreateIssueBody(resultItem, title),
-            milestone: 2,
-            assignee: "pravegali",
+            milestone: 3,
             labels: ["help wanted", "enhancement"]
         });
 

@@ -1,0 +1,510 @@
+﻿ReferenceID,TypeofChange,Location,OldText,NewTextEN,NewTextFR,NewTextES,Language,Change to Structure,Text Change,Owner,LocationofJSON,Priority,Complete
+C0290,New Popup,"Ph. D Step 20 -- New ""Experiences"" tab",,"Add the following text: “Examples of recommendations: The team from Chile has developed a series of recommendations for the actors involved or concerned by their case. Here is one example of recommendation per actor (note that there are various recommendations for each in the report). 
+
+To the Chilean government: 
+-	Recognize in said legislation and regulations the right of indigenous peoples to free, prior, and informed consent in the face of investment projects or large-scale development, such as the projects under analysis in this HRIA, that have a large impact in their territory, in accordance with the guidelines of applicable international law.
+
+To the home country (where the companies are domiciled):
+-	Ensure that trade agreements, including free trade agreements and bilateral investment agreements signed with other states, do not contain provisions that may result in the restriction of human rights of indigenous peoples.
+
+To the company: 
+-	Establish internal mechanisms to address and process claims of the community and its members for violations of human rights, through which the community can seek redress in face of the abuses of these rights, either directly or indirectly. 
+To the Inter-American Commission on Human Rights
+-	Request information from the State of Chile in relation to the situation of the rights of the community affected by the activities of the Canadian companies that are owners of the investment projects subject to this HRIA.
+To the UN Working Group on Business and Human Rights:
+-	Visit Chile to observe the impact on the human rights of indigenous peoples as a consequence of mining projects that are currently located on indigenous lands and territories, and in particular the impact on human rights of the community affected by the projects referred to in this HRIA","Add the following text:
+"" Exemples de recommandations : L'équipe du Chili a développé une série de recommandations pour les acteurs impliqués ou concernés par leur cas. Voici un exemple de recommandation par acteur (notez qu'il y a plusieurs recommandations pour chacun dans le rapport). 
+
+Au gouvernement chilien : 
+- Reconnaître dans ladite législation et réglementation le droit des peuples autochtones au consentement libre, préalable et éclairé face à des projets d'investissement ou de développement à grande échelle, tels que les projets analysés dans cette EIDH, qui ont un impact important sur leur territoire, conformément aux directives du droit international applicable.
+
+Au pays d'origine (où les entreprises sont domiciliées) :
+- Veiller à ce que les accords commerciaux, y compris les accords de libre-échange et les accords bilatéraux d'investissement signés avec d'autres États, ne contiennent pas de dispositions susceptibles d'entraîner une restriction des droits fondamentaux des peuples autochtones.
+
+A l'entreprise : 
+- Établir des mécanismes internes pour traiter les réclamations de la communauté et de ses membres en cas de violation des droits humains, grâce auxquels la communauté peut demander réparation en cas de violation de ces droits, directement ou indirectement. 
+À la Commission interaméricaine des droits de l'Homme
+- Demander à l'État du Chili des informations sur la situation des droits de la communauté affectée par les activités des entreprises canadiennes propriétaires des projets d'investissement faisant l'objet de la présente EIDH.
+Au groupe de travail de l'ONU sur les entreprises et les droits de l'Homme :
+- Se rendre au Chili pour observer l'impact sur les droits humains des peuples autochtones en conséquence des projets miniers qui sont actuellement situés sur les terres et territoires autochtones, et en particulier l'impact sur les droits humains de la communauté affectée par les projets visés par la présente EIDH.","Add the following text - Ejemplos de recomendaciones: 
+El equipo de Chile ha elaborado una serie de recomendaciones para los actores implicados o interesados por su caso. Aquí está un ejemplo de recomendación por actor (nótese que en el informe vienen varias recomendaciones por cada uno).
+
+Al Gobierno chileno:
+-	Reconocer en dicha legislación y normatividad los derechos de los pueblos indígenas al consentimiento libre, previo e informado de cara a proyectos de inversión o desarrollos de gran escala, como los proyectos que se analizan en la presente HRIA, que tengan un gran impacto en su territorio, conforme a los lineamientos del derecho internacional aplicable.
+
+Al país de origen (donde tienen su domicilio las empresas):
+-	Asegurarse de que en los acuerdos de comercio, como tratados de libre comercio y acuerdos bilaterales de inversión firmados con otros Estados, no vengan disposiciones que resulten en la restricción de los derechos humanos de pueblos indígenas.
+
+A la empresa:
+-	Establecer mecanismos internos para atender y procesar los reclamos de la comunidad y los miembros de esta por violaciones de los derechos humanos, mediante los cuales pueda la comunidad solicitar reparación del daño causado por los abusos de estos derechos, ya sea directa o indirectamente.
+A la Comisión Interamericana de Derechos Humanos
+-	Solicitarle al Estado de Chile información relativa a la situación de los derechos de la comunidad afectada por las actividades de las empresas canadienses propietarias de los proyectos de inversión de los que versa esta HRIA.
+Al Grupo de Trabajo de la ONU sobre la cuestión de los derechos humanos y las empresas:
+-	Que visite Chile para que observe el impacto en los derechos humanos de los pueblos indígenas como consecuencia de los proyectos mineros que actualmente se localizan en tierras y territorios indígenas, y en particular en los derechos humanos de la comunidad afectada por los proyectos referidos en esta HRIA",,TRUE,,,,,
+C0254,Move Text,Ph. D Step 20 -- TBD,,"There is a PDF attached to the current version of the tool. The content of the PDF should be extracted and inserted directly in the popup Models:
+Here are some examples of recommendations made in recently published impact assessments: 
+As for the rights of individuals, communities and peoples to be consulted 
+-	To Government Authorities: As per current legislation, we recommend the State conduct a consultation process in good standing with affected communities and before the start of the project. 
+-	To the Company: We recommend companies refrain from entering into agreements with indigenous communities before they are properly consulted by the government. 
+As for the right to land and territory 
+-	To Government Authorities: We recommend that the State faithfully implement the Mining Code, which provides for... 
+-	To the Home State of the Company: We recommend that the victims of the investment project have access to justice in the country of origin of the company responsible. 
+In general 
+-	To civil society organizations: We recommend that civil society ensures capacity building for members of affected communities by organizing training sessions on their human rights and how to enforce them.","There is a PDF attached to the current version of the tool (within the MODELE pop-up - section recommendations). The content of the PDF should appear directly in the pop-up. HEre is the content:
+
+Voici quelques exemples de recommandations formulées dans des études d’impact récemment
+publiées :
+Droits des individus, des communautés et des peuples d’être consultés
+
+À l’intention des autorités gouvernementales :
+En vertu de sa législation en vigueur, nous recommandons à l’État de mener un processus de
+consultation en bonne et due forme avec les communautés affectées et ce, avant le début du
+projet.
+
+À l’entreprise :
+Nous recommandons aux entreprises de s’abstenir de conclure des accords avec les
+communautés autochtones avant que celles-ci ne soient dûment consultées par le
+gouvernement.
+
+Droit à la terre et au territoire
+À l’intention des autorités gouvernementales :
+Nous recommandons à l’État d’appliquer scrupuleusement le Code minier qui prévoit,
+notamment….
+
+À l’intention de l’État d’origine de l’entreprise :
+Nous recommandons que les victimes du projet d’investissement aient accès à la justice dans le
+pays d’origine de l’entreprise responsable.
+
+De façon générale
+À l’intention de la société civile :
+Nous recommandons à la société civile de veiller à renforcer les capacités des membres
+des communautés affectées en organisant des séances de formation sur leurs droits et
+la façon de pouvoir les faire respecter.","There is a PDF attached to the current version of the tool (within EJEMPLOS tab) - content of the PDF should appear directly in the pop-up rather than in a PDF. HEre is the content: 
+Algunos ejemplos de las recomendaciones presentadas en las
+evaluaciones de impacto que se publicaron recientemente:
+
+En cuanto al derecho a consulta de los individuos, comunidades y
+pueblos
+A las autoridades gubernamentales:
+Según la legislación vigente, recomendamos que antes del comienzo del
+proyecto, el Estado lleve a cabo un proceso de consultación, respetando las
+reglas establecidas, con las comunidades que pudieran verse afectadas.
+
+A la compañía:
+Recomendamos que las compañías eviten firmar acuerdos con las
+comunidades indígenas antes de que el Gobierno lleve a cabo debidamente el
+proceso de consultación.
+
+En cuanto al derecho a la tierra y al territorio
+A las autoridades gubernamentales:
+Recomendamos que el Estado aplique fielmente el Código de Minería que
+establece que…
+Al Estado de procedencia de la compañía:
+Recomendamos que las víctimas del proyecto de inversión tengan acceso a la
+justicia en el país de origen de la compañía responsable.
+
+En general
+A las organizaciones de la sociedad civil:
+Recomendamos que la sociedad civil garantice el desarrollo de capacidades
+para los miembros de las comunidades afectadas organizando sesiones de
+capacitación sobre el tema de sus derechos humanos y cómo defenderlos.",,TRUE,,,,,
+C0245,New Popup,New Step recommendations - New experiences tab,,"(Part 1/2, continued below) To add to a NEW EXPERIENCES TAB within the new step on recommendations
+Examples of previous recommendations companies were advised to implement in HRIAs:  
+•	Create independent body to set, monitor, assess and enforce standards that meet or exceed existing state regulations (national or international); this includes the operation of an effective dispute-settlement or grievance mechanisms easily accessible to the public 
+•	Ensure all working standards and company codes should meet international human rights standards, national regulations and ILO standards (including regarding working conditions, subcontracted labor, and union rights)
+•	Stricter compliance codes 
+o	If the HRIA revealed violations of workers’ rights, this would include new health and safety procedures or provisions on labor rights, e.g. maximum working hours, living wage, company commitments on child labor, etc.
+•	Increase the number of workers from a specific demographic (i.e. workers from surrounding communities, women, workers with a visa, etc.) 
+•	Resolve or hart these human rights violations before continuing with or expanding the project 
+•	Invest in the supply chain: create, enforce and monitor regulations ensuring compliance throughout the supply chain with both company policy and international labor and human rights standards; this may include responsible sourcing audit programs to verify compliance, review and improvement of a company’s supply code 
+•	Cooperate with and assist state efforts to improve the realization of human rights in the community and investment project 
+•	Expand or implement human rights and cultural training programs to company employees 
+
+Examples of previous recommendations host states were advised to implement in HRIAs: 
+•	Under the United Nations Guiding Principles (UNGPs), states have a duty to protect human rights within their country. In fulfilling this obligation, states should: 
+o	Write, adopt or enforce relevant national human rights legislation (including labor laws and National Action Plans) protecting the infringed right(s) and ratify all existing and relevant international human rights standards 
+o	All bi-lateral or multi-lateral agreements (i.e. trade agreements) with other countries must have a human rights component and respect the UNGPs and comply with all ratified international human rights treaties and bodies – amend these if necessary
+o	Assume responsibility for investigating current conflict and human rights abuses relating to the investment project, and then adopting measures to ensure they do not happen again 
+o	Determine the legality of company actions in committing human rights abuses in violation of national legislation or agreements between the government and the company, and sanction appropriately 
+o	Establish oversight mechanisms to monitor the investment progress and the company’s progress to remedy any revealed human rights violations against the local community  
+o	Keep in mind state authorities may need to be briefed or trained on the human rights obligations of the state, responsibilities outlined in the UNGPs, or international human rights standards prior to this step to ensure proper implementation 
+•	Ensure access, affordability and quality of public services in the affected community; this may require the adoption of new standards, strategy to improve access, affordability and/or quality, or amended implementation procedures
+•	Develop an independent body to monitor and report on the implementation of new legislation, regulatory standards, international treaty ratification or public services; this body would also be responsible for guaranteeing efficiency in the process and coordinating interdepartmental action on these state activities","(Part 1/3, continued below) To add to a NEW EXPERIENCES TAB within the new step on recommendations
+Exemples de recommandations précédentes que les entreprises ont été invitées à mettre en œuvre dans les EIDH :
+
+•	Créer un organisme indépendant chargé d’établir, de contrôler, d’évaluer et d’appliquer des normes qui respectent ou dépassent les réglementations publiques existantes (nationales ou internationales) ; cela inclut la mise en place d’un mécanisme efficace de règlement des différends ou des griefs facilement accessible au public.
+•	Veiller à ce que toutes les normes de travail et les codes d’entreprise soient conformes aux normes internationales en matière de droits humains, aux réglementations nationales et aux normes de l’OIT (notamment en ce qui concerne les conditions de travail, le travail en sous-traitance et les droits syndicaux)
+•	Codes de conformité plus stricts
+o	Si l’EIDH a révélé des violations des droits des travailleurs, il s’agira de nouvelles procédures de sante et de sécurité ou de dispositions relatives aux droits du travail, par exemple la durée maximale du travail, le salaire de subsistance, les engagements de l’entreprise concernant le travail des enfants, etc.
+•	Augmenter le nombre de travailleurs issus d’un groupe démographique spécifique (c’est-à-dire les travailleurs des communautés environnantes, les femmes, les travailleurs titulaires d’un visa de travail, etc.)
+•	Résoudre ou stopper ces violations des droits humains avant de poursuivre ou d’étendre le projet.
+•	Investissez dans la chaîne d’approvisionnement : créez, appliquer et surveillez les réglementations garantissant la conformité de l’ensemble de la chaîne d’approvisionnement avec la politique de l’entreprise et les normes internationales en matière de travail et de droits humains ; cela peut inclure des programmes d’audit de l’approvisionnement responsable pour vérifier la conformité, la révision et l’amélioration du code d’approvisionnement de l’entreprise.
+•	Coopérer avec l’Etat et l’aider dans ses efforts pour améliorer la réalisation des droits humains dans la communauté et le projet d’investissement.
+•	Elargir ou mettre en œuvre des programmes de formation aux droits humains et à la culture pour les employés de l’entreprise.
+
+Exemples de recommandations antérieures que les États hôtes ont été invités à mettre en œuvre dans les EIDH : 
+•	En vertu des Principes directeurs des Nations unies (PNG), les États ont le devoir de protéger les humains sur leur territoire. Pour s'acquitter de cette obligation, les États doivent 
+o	Rédiger, adopter ou appliquer la législation nationale pertinente en matière de droits humains (y compris les lois sur le travail et les plans d'action nationaux) protégeant le ou les droits violés et ratifier toutes les normes internationales existantes et pertinentes en matière de droits humains. 
+o	Tous les accords bilatéraux ou multilatéraux (c'est-à-dire les accords commerciaux) avec d'autres pays doivent comporter une composante relative aux droits humains, respecter les principes directeurs des Nations unies et se conformer à tous les traités et organes internationaux relatifs aux droits humains ratifiés - les modifier si nécessaire.
+o	Assumer la responsabilité d'enquêter sur les conflits en cours et les violations des droits humains liées au projet d'investissement, puis adopter des mesures visant à garantir qu'ils ne se reproduisent pas. 
+o	Déterminer la légalité des actions de l'entreprise lorsqu'elle commet des violations des droits humains en violation de la législation nationale ou des accords entre le gouvernement et l'entreprise, et prendre les sanctions appropriées. 
+o	Établir des mécanismes de surveillance pour suivre l'évolution de l'investissement et les progrès de l'entreprise pour remédier à toute violation des droits humains révélée à l'encontre de la communauté locale.","(Part 1/3, continued below) To add to a NEW EXPERIENCES TAB within the new step on recommendations:
+Ejemplos de recomendaciones anteriores que se aconsejó a las empresas implementar en las HRIA: 
+•	Crear un órgano independiente que fije, supervise, evalúe y haga valer normas que cumplan o sean superiores a la normatividad estatal vigente (nacional o internacional); esto comprende la operación de mecanismos eficaces de resolución de controversias o de reclamación que sean de fácil acceso para el público
+•	Garantizar que todas las normas de trabajo y códigos de la empresa cumplan con las normas internacionales de derechos humanos, normatividad nacional y normas de la OIT (incluidas las condiciones de trabajo, la mano de obra subcontratada y los derechos sindicales)
+•	Códigos de cumplimiento más estrictos
+o	Si en la HRIA se revelaron violaciones de los derechos de los trabajadores, esto abarcaría nuevos procedimientos o disposiciones de salud y seguridad en materia de derechos laborales, v.g. máximo de horas hábiles, salario digno, compromisos de la empresa en materia de mano de obra infantil, etc.
+•	Aumentar el número de trabajadores de un grupo demográfico específico (o sea de trabajadores de las comunidades aledañas, mujeres, trabajadores con visa H-2A, etc.)
+•	Resolver o elaborar una tabla de estas violaciones de derechos humanos antes de continuar con el proyecto o expandirlo
+•	Invertir en la cadena de suministros: crear, aplicar y monitorear la normatividad que garantice en la cadena de suministros el cumplimiento tanto de las políticas de la empresa como de las normas internacionales de trabajo y derechos humanos; esto puede abarcar programas de auditoría de abastecimiento responsable para verificar el cumplimiento, la revisión y la mejora del código de suministros de una empresa
+•	Cooperar y prestar asistencia en las labores estatales por mejorar la realización de los derechos humanos en la comunidad y el proyecto de inversión
+•	Ampliar o implementar programas de capacitación en materia de derechos humanos y culturales para empleados de la empresa
+
+Ejemplos de recomendaciones anteriores que se aconsejó a Estados receptores implementar en las HRIA:
+•	Conforme a los Principios Rectores de las Naciones Unidas (UNGPs), los Estados tienen el deber de proteger los derechos humanos dentro de su país. A cumplir esta obligación, los Estados deben:
+o	Redactar, adoptar o aplicar la legislación nacional de derechos humanos relevante (sin faltar las leyes de trabajo y Planes de Acción Nacionales), proteger el/los derecho(s) infringido(s) y ratificar todas las normas internacionales de derechos humanos relevantes
+o	Todos los tratados bilaterales o multilaterales (es decir, acuerdos de comercio) con otros países deben tener un componente de derechos humanos y respetar los UNGPs y cumplir con todos los tratados e instituciones internacionales ratificados de derechos humanos; que se modifiquen estos de ser necesario
+o	Asumir la responsabilidad de investigar conflictos actuales y abusos de derechos humanos relativos al proyecto de inversión, y luego adoptar medidas para garantizar que no se repitan
+o	Determinar la legalidad de los actos de la empresa al cometer abusos de derechos humanos en violación de la legislación nacional o acuerdos entre el Gobierno y la empresa, y sancionar como corresponda
+o	Establecer mecanismos de supervisión para monitorear los avances de la inversión y los avances de la empresa en la reparación de toda violación de derechos humanos revelada contra la comunidad local
+o	Tener en cuenta que las autoridades estatales pueden necesitar que se les informe o capacite sobre las obligaciones del Estado en materia de derechos humanos, las responsabilidades enunciadas en los UNGPs o normas internacionales de derechos humanos antes de este Paso a fin de garantizar su correcta implementación.",,TRUE,,,,,
+C0246,Edit Text,New step recommendation - new Experiences tab,,"(Part 2/2, continuation of below) •	In the event of adverse environmental or health impacts caused by the investment project, the state should conduct research on the impact of released toxins and then work to mitigate those risks appropriately 
+•	Ensure public access to information, enabling all citizen to contribute to decision-making processes; this includes conducting all impact assessment action steps in a transparent and participatory manner
+•	Ensure public access to an effective grievance mechanism (judicial or non-judicial) designed for affected communities to seek remedy when their rights have been violated (not only in the context of this investment project, but in any scenario where a community feels their human rights have been violated); this includes facilitating access to non-state mechanisms and may require the creating of an objective and impartial mechanism to monitor and investigate complaints 
+•	You may also have recommendations targeted at specific government agencies involved with the investment project 
+
+Examples of previous recommendations home states were advised to implement in HRIAs (the legal obligations of home countries are often more complicated than those imposed on host states and vary by country and case; you may need to consult an outside legal expert in determining the human rights responsibilities of the home state if you wish to include these recommendations in your HRIA): 
+•	Write, adopt or enforce relevant national human rights legislation or administrative procedures to prevent negative impact on local rights by transnational companies domiciled in the country (including National Action Plans)
+•	Ratify all existing and relevant international human rights standards; this includes ensuring that all bi-lateral or multi-lateral agreements (i.e. trade agreements) with other countries have a human rights component and must respect the UNGPs and comply with all ratified international human rights treaties and bodies – amend these if necessary
+•	Determine the legality of company actions in committing human rights abuses in violation of national legislation or agreements between the government and the company, and sanction appropriately 
+o	If the company is found to have conducted business illegally, in certain cases, a lawsuit may be filed in the national courts of the home state; the plaintiff must establish jurisdiction of the court and determine appropriate legal responsibility given the structure of the multinational enterprise (note: this step will likely require outside legal council) 
+•	Ensure the national embassy in the host country cooperates with and considers the local community and civil society representatives 
+•	Establish objective and impartial oversight mechanism to monitor the progress of the investment project as well as the company’s progress to remedy any revealed human rights violations against the local community 
+•	Keep in mind state authorities may need to be briefed or trained on the human rights obligations of the state, responsibilities outlined in the UNGPs, or international human rights standards prior to this step to ensure proper implementation 
+•	Withdraw national support of the investment project or the company","(Part 2/3, continuation of below) 
+o	Gardez à l'esprit que les autorités de l'État peuvent avoir besoin d'être informées ou formées sur les obligations de l'État en matière de droits humains, les responsabilités décrites dans les principes directeurs des Nations unies ou les normes internationales en matière de droits humains avant cette étape afin de garantir une mise en œuvre adéquate. 
+•	Garantir l'accès, le caractère abordable et la qualité des services publics dans la communauté affectée ; cela peut nécessiter l'adoption de nouvelles normes, d'une stratégie pour améliorer l'accès, le caractère abordable et/ou la qualité, ou des procédures de mise en œuvre modifiées.
+•	Mettre en place un organisme indépendant chargé de contrôler et de rendre compte de la mise en œuvre de la nouvelle législation, des normes réglementaires, de la ratification des traités internationaux ou des services publics ; cet organisme sera également chargé de garantir l'efficacité du processus et de coordonner l'action interministérielle sur ces activités publiques. 
+•	En cas d'impacts négatifs sur l'environnement ou la santé causés par le projet d'investissement, l'État devrait mener des recherches sur l'impact des toxines libérées, puis s'efforcer d'atténuer ces risques de manière appropriée. 
+•	Garantir l'accès du public à l'information, en permettant à tous les citoyens de contribuer aux processus de prise de décision ; cela implique de mener toutes les étapes de l'évaluation d'impact de manière transparente et participative.
+•	Garantir l'accès du public à un mécanisme de réclamation efficace (judiciaire ou non judiciaire) conçu pour permettre aux communautés affectées de demander réparation lorsque leurs droits ont été violés (pas seulement dans le contexte de ce projet d'investissement, mais dans tout scénario où une communauté estime que ses droits humains ont été violés) ; cela implique de faciliter l'accès à des mécanismes non étatiques et peut nécessiter la création d'un mécanisme objectif et impartial pour suivre et examiner les plaintes. 
+•	Vous pouvez également formuler des recommandations visant des agences gouvernementales spécifiques impliquées dans le projet d'investissement.
+
+Exemples de recommandations antérieures que l'on a conseillé aux États d'origine de mettre en œuvre dans les EIDH (les obligations légales des pays d'origine sont souvent plus compliquées que celles imposées aux États d'accueil et varient selon les pays et les cas ; vous devrez peut-être consulter un expert juridique externe pour déterminer les responsabilités de l'État d'origine en matière de droits de la personne si vous souhaitez inclure ces recommandations dans votre EIDH) : 
+•	Rédiger, adopter ou faire appliquer la législation nationale pertinente en matière de droits humains ou les procédures administratives afin de prévenir les effets négatifs sur les droits locaux des sociétés transnationales domiciliées dans le pays (y compris les plans d'action nationaux).
+•	Ratifier toutes les normes internationales existantes et pertinentes en matière de droits humains ; il s'agit notamment de veiller à ce que tous les accords bilatéraux ou multilatéraux (c'est-à-dire les accords commerciaux) conclus avec d'autres pays comportent un volet ""droits humains"" et doivent respecter les principes directeurs des Nations unies et se conformer à tous les traités et organismes internationaux relatifs aux droits humains qui ont été ratifiés - les modifier si nécessaire.
+•	Déterminez la légalité des actions de l'entreprise lorsqu'elle commet des violations des droits humains en violation de la législation nationale ou des accords entre le gouvernement et l'entreprise, et sanctionnez de manière appropriée.","PArt 2/3 - continuation of below)
+•	Garantizar el acceso, la asequibilidad y la calidad de los servicios públicos en la comunidad afectada; esto tal vez requiera la adopción de nuevas normas, una estrategia para mejorar el acceso, la asequibilidad y/o la calidad, o modificaciones a los procesos de implementación
+•	Crear un organismo independiente que supervise e informe sobre la implementación de nueva legislación, normatividad, ratificación de tratados internacionales o servicios públicos; este organismo sería responsable también de garantizar la eficiencia en el proceso y de coordinar la acción interministerial en estas actividades del Estado
+•	En caso de repercusiones ambientales o de salud adversas causadas por el proyecto de inversión, el Estado debe investigar el impacto de toxinas liberadas y luego trabajar para mitigar esos riesgos como corresponda
+•	Garantizar el acceso público a la información, de modo que todos los ciudadanos puedan contribuir a procesos de toma de decisiones; esto abarca realizar todos los pasos de acción de la evaluación de impacto de manera transparente y participativa
+•	Garantizar el acceso público a un mecanismo de reclamaciones eficaz (judicial o extrajudicial) diseñado para las comunidades afectadas para que estas busquen reparación cuando se hayan violado sus derechos (no solo en el contexto de este proyecto de inversión, sino en cualquier situación donde una comunidad sienta que se violaron sus derechos); esto abarca facilitar el acceso a mecanismos extraestatales y puede requerir la creación de un mecanismo objetivo e imparcial para monitorear e investigar las denuncias
+•	Tal vez usted tenga además recomendaciones dirigidas a agencias de Gobierno específicas que tengan que ver con el proyecto de inversión
+
+Ejemplos de recomendaciones anteriores que se aconsejó a los Estados de origen implementar en las HRIAs (las obligaciones legales de los países de origen suelen ser más complicadas que las impuestas a los Estados receptores y varían según el país y el caso; tal vez haga falta consultar a un experto jurídico externo para determinar las responsabilidades del Estado de origen en materia de derechos humanos si quiere usted incluir estas recomendaciones en su HRIA):
+•	Escribir, adoptar o aplicar leyes o procedimientos administrativos nacionales relevantes de derechos humanos para impedir repercusiones negativas para los derechos locales por parte de empresas transnacionales con domicilio en el país (sin olvidar los Planes de Acción Nacionales)
+•	Ratificar todas las normas de derechos humanos internacionales existentes y relevantes; esto comprende asegurarse de que todos los acuerdos bilaterales y multilaterales (es decir, tratados de comercio) con otros países tengan un componente de derechos humanos y respeten los UNGPs y cumplan con todos los tratados e instituciones internacionales ratificados de derechos humanos; que se modifiquen estos de ser necesario.
+•	Determinar la legalidad de actos de la empresa al cometer abusos de derechos humanos en violación de legislación nacional o de acuerdos entre el Gobierno y la empresa, y sancionar como corresponda.
+o	Si se determina que la empresa realizó actividades empresariales de manera ilegal, se puede en ciertos casos presentar una demanda ante los tribunales nacionales del Estado de origen; la parte demandante debe demostrar la competencia territorial del tribunal y determinar la responsabilidad jurídica que corresponda dada la estructura de la empresa multinacional (nota: es probable que esta medida requiera asesoría jurídica externa) 
+•	Asegurarse de que la embajada nacional del país receptor coopere con la comunidad local y los representantes de la sociedad civil y los considere
+•	Instituir un mecanismo de supervisión objetivo e imparcial para monitorear tanto los avances del proyecto de inversión como los avances de la empresa en la reparación de toda violación de derechos humanos revelada contra la comunidad local",,,TRUE,,,,
+C0247,,SAME AS ABOVE,,,"(Part 3/3, continuation of below)
+o	S'il s'avère que l'entreprise a mené ses activités de manière illégale, dans certains cas, un procès peut être intenté devant les tribunaux nationaux de l'État d'origine ; le plaignant doit établir la compétence du tribunal et déterminer la responsabilité juridique appropriée compte tenu de la structure de l'entreprise multinationale (remarque : cette étape nécessitera probablement un conseil juridique extérieur ). 
+•	Veiller à ce que l'ambassade nationale dans le pays d'accueil coopère avec la communauté locale et les représentants de la société civile et tienne compte de leurs points de vue 
+•	Établir un mécanisme de surveillance objectif et impartial pour suivre l'évolution du projet d'investissement ainsi que les progrès de l'entreprise pour remédier à toute violation des droits humains révélée à l'encontre de la communauté locale. 
+•	Gardez à l'esprit que les autorités de l'État peuvent avoir besoin d'être informées ou formées sur les obligations de l'État en matière de droits humains, les responsabilités décrites dans les principes directeurs des Nations unies ou les normes internationales en matière de droits humains avant cette étape, afin de garantir une mise en œuvre adéquate. 
+•	- Retirer le soutien national au projet d'investissement ou à l'entreprise.","PArt 3/3 - continuation of below: 
+•	Tener en cuenta que las autoridades estatales pueden necesitar que se les informe o capacite sobre las obligaciones del Estado en materia de derechos humanos, las responsabilidades enunciadas en los UNGPs o normas internacionales de derechos humanos antes de este Paso a fin de garantizar su correcta implementación
+•	Retirarle el apoyo nacional al proyecto de inversión o a la empresa",,,TRUE,,,,
+C0248,New Popup,"Ph. D Step 20 -- New ""Worth Browsing"" tab",,"Add text: •	Reference ‘country report’ resources in Step 10: explore the realization of rights in each country and use that existing status as a baseline for developing your recommendations
+•	Individual country National Action Plans (NAPs) on Business and Human Rights can be a helpful source of guidance on drafting recommendations targeted at governments (adopt already declared human rights priorities of the government and supplant HRIA recommendations on those priorities). NAPs can be found here: https://globalnaps.org/country/
+o	Countries with published NAPs: Belgium, Chile, Colombia, Czech Republic, Denmark, Finland, France, Georgia, Germany, Ireland, Italy, Lithuania, the Netherlands, Norway, Poland, Spain, Sweden, Switzerland, United Kingdom, United States 
+o	Countries currently drafting NAPs: Argentina, Indonesia, Japan, Kenya, Malaysia, Mexico, Morocco, Peru, Scotland, Slovenia
+o	Countries with similar non-state initiatives: Australia, Canada, Ghana, Guatemala, Mozambique, Myanmar, Nicaragua, Nigeria, Philippines, Serbia, South Africa, South Korea, Tanzania, Uganda, Zambia 
+•	Country visits and evaluations by the UN Working Group on the issue of human rights and transnational corporations and other business enterprises (include recommendations): https://www.ohchr.org/EN/Issues/Business/Pages/WGCountryVisits.aspx 
+•	How to use judicial and non-judicial recourse mechanisms to address human rights violations: https://www.fidh.org/IMG/pdf/corporate_accountability_guide_version_web.pdf 
+•	UN Global Compact, Responsible Business Advancing Peace: Examples from Companies, Investors, & Global Compact Local Networks: https://d306pr3pise04h.cloudfront.net/docs/issues_doc%2FPeace_and_Business%2FB4P_Resource_Package_company.pdf
+•	If the HRIA reveals potential human rights violations, the indicators listed in this guide may be a good place to start with recommendations for standards a company must develop or implement if they have yet to be met: https://www.business-humanrights.org/sites/default/files/5_%20Community%20Impact_0.pdf & https://www.business-humanrights.org/sites/default/files/5_%20Community%20Impact_0.pdf
+•	Nestlé responsible sourcing guide may help you increase the specificity on your recommendations, as it outlines various requirements by sector: http://www.nestle.com/asset-library/documents/library/documents/corporate_social_responsibility/nestle-responsible-sourcing-guidelines.pdf 
+•	This guide also produced by Nestlé provides helpful action steps based on various human rights: http://www.nestle.com/asset-library/documents/library/documents/corporate_social_responsibility/nestle-hria-white-paper.pdf
+•	This guide, differentiated by various rights and violations, provides case examples as well as suggestions for how to mitigate risks and work towards responsible business: https://hrbdf.org/dilemmas/","Add text:
+Autres ressources : 
+•	Référez-vous aux ressources des "" rapports nationaux "" à l'étape 10 : étudiez la réalisation des droits dans chaque pays et utilisez cette situation existante comme base de référence pour élaborer vos recommandations.
+•	Les plans d'action nationaux (PAN) de chaque pays sur les entreprises et les droits humains peuvent être une source d'orientation utile pour la rédaction de recommandations destinées aux gouvernements (adopter les priorités déjà déclarées du gouvernement en matière de droits humains et remplacer les recommandations de l'EIDH sur ces priorités). Les PAN peuvent être trouvés ici
+o	Pays ayant publié un PAN : Belgique, Chili, Colombie, République tchèque, Danemark, Finlande, France, Géorgie, Allemagne, Irlande, Italie, Lituanie, Pays-Bas, Norvège, Pologne, Espagne, Suède, Suisse, Royaume-Uni, États-Unis. 
+o	Pays en cours de rédaction de PAN : Argentine, Indonésie, Japon, Kenya, Malaisie, Maroc, Mexique, Pérou, Écosse, Slovénie.
+o	Pays ayant des initiatives non étatiques similaires : Australie, Canada, Ghana, Guatemala, Mozambique, Myanmar, Nicaragua, Nigeria, Philippines, Serbie, Afrique du Sud, Corée du Sud, Tanzanie, Ouganda, Zambie. 
+•	Visites de pays et évaluations par le groupe de travail des Nations unies sur la question des droits humains et des sociétés transnationales et autres entreprises commerciales (y compris les recommandations) : https://www.ohchr.org/EN/Issues/Business/Pages/WGCountryVisits.aspx. 
+•	Comment utiliser les mécanismes de recours judiciaires et non judiciaires pour faire face aux violations des droits humains : https://www.fidh.org/IMG/pdf/corporate_accountability_guide_version_web.pdf 
+•	Pacte mondial des Nations unies, Responsible Business Advancing Peace : Exemples d'entreprises, d'investisseurs et de réseaux locaux du Pacte mondial 
+•	Si l'EIDH révèle des violations potentielles des droits humains, les indicateurs énumérés dans ce guide peuvent constituer un bon point de départ, avec des recommandations sur les normes que l'entreprise doit élaborer ou mettre en œuvre si elles ne sont pas encore respectées : https://www.business-humanrights.org/sites/default/files/5_%20Community%20Impact_0.pdf & https://www.business-humanrights.org/sites/default/files/5_%20Community%20Impact_0.pdf.
+•	Le guide Nestlé sur l'approvisionnement responsable peut vous aider à accroître la spécificité de vos recommandations, car il présente diverses exigences par secteur : http://www.nestle.com/asset-library/documents/library/documents/corporate_social_responsibility/nestle-responsible-sourcing-guidelines.pdf 
+•	Ce guide, également produit par Nestlé, propose des mesures utiles basées sur divers droits humains : http://www.nestle.com/asset-library/documents/library/documents/corporate_social_responsibility/nestle-hria-white-paper.pdf
+•	Ce guide, différencié par divers droits et violations, fournit des exemples de cas ainsi que des suggestions sur la manière d'atténuer les risques et d'œuvrer pour une entreprise responsable : https://hrbdf.org/dilemmas/ 
+•	- Compilation de ressources sur la responsabilité des entreprises : https://www.business-humanrights.org/en/corporate-legal-accountability/guidance-for-lawyers","Add text: 
+Otros recursos:
+•	Consultar los recursos de ‘informe de país’ del Paso 10: explorar la realización de los derechos en cada país y emplear esa situación existente como punto de partida para la elaboración de sus recomendaciones
+•	Los Planes de Acción Nacionales (NAPs) sobre Empresas y Derechos Humanos pueden ser una fuente de orientación útil para elaborar recomendaciones preliminares dirigidas a gobiernos (adoptar prioridades de derechos humanos ya declaradas del Gobierno y suplantar recomendaciones de la HRIA según esas prioridades). Los NAPs se pueden encontrar aquí
+o	Países que ya publicaron su NAP: Alemania, Bélgica, Chile, Colombia, Dinamarca, España, Finlandia, Francia, Georgia, Irlanda, Italia, Lituania, Noruega, Países Bajos, Polonia, Reino Unido, República Checa, Suecia, Suiza, Estados Unidos
+o	Países que están elaborando su NAP: Argentina, Escocia, Eslovenia, Indonesia, Japón, Kenia, Malasia, México, Marruecos, Perú
+o	Países con iniciativas extraestatales parecidas: Australia, Canadá, Corea del Sur, las Filipinas, Ghana, Guatemala, Mozambique, Myanmar, Nicaragua, Nigeria, Serbia, Sudáfrica, Tanzania, Uganda, Zambia
+•	Visitas a países y evaluaciones de países de parte del Grupo de Trabajo de la ONU sobre la cuestión de los derechos humanos y las empresas transnacionales y otras empresas (incluir recomendaciones): https://www.ohchr.org/SP/Issues/Business/Pages/WGCountryVisits.aspx
+•	Cómo usar mecanismos de denuncia judiciales y extrajudiciales para atender violaciones de los derechos humanos: https://www.fidh.org/IMG/pdf/corporate_accountability_guide_version_web.pdf
+•	Pacto Mundial de la ONU, Responsible Business Advancing Peace: Examples from Companies, Investors, & Global Compact Local Networks (Empresas responsables que promueven la paz: ejemplos de empresas, inversionistas y redes locales del Pacto Mundial; disponible solo en inglés)
+•	Si la  HRIA revela posibles violaciones de derechos humanos, los indicadores enunciados en esta guía pueden ser un buen punto de partida con recomendaciones de normas que una empresa debe elaborar o implantar si aún no se cumplen: https://www.business-humanrights.org/sites/default/files/5_%20Community%20Impact_0.pdf & https://www.business-humanrights.org/sites/default/files/5_%20Community%20Impact_0.pdf
+•	La guía de abastecimiento responsable de Nestlé puede servir para aumentar la especificidad de las recomendaciones que usted proponga, pues contiene distintos requisitos por sector: http://www.nestle.com/asset-library/documents/library/documents/corporate_social_responsibility/nestle-responsible-sourcing-guidelines.pdf
+•	En esta otra guía de Nestlé se reseñan pasos de acción útiles a partir de distintos sitios de derechos humanos: http://www.nestle.com/asset-library/documents/library/documents/corporate_social_responsibility/nestle-hria-white-paper.pdf
+•	En esta guía, diferenciada según distintos derechos y violaciones, constan distintos ejemplos, así como sugerencias para mitigar los riesgos y trabajar rumbo a actividades empresariales responsables: https://hrbdf.org/dilemmas/
+•	Recopilación de recursos sobre rendición de cuentas empresarial: https://www.business-humanrights.org/en/corporate-legal-accountability/guidance-for-lawyers",,,TRUE,,,,
+C0255,New Info Box,Ph. D Step 20 -- New gender info box called: Developing recommendations to address gender inequality,,"Add new gender info box called: Developing recommendations to address gender inequality                                                                                                                                                                                                          The recommendations included in your report will form the basis of your advocacy work, beyond the publication of the report. It is therefore very important that you include recommendations that will address the specific gender impacts documented in your process. For each human rights impact, there should be at least one recommendation for the government and the company that aim at eliminating the gender inequality and the violation of women’s rights. 
+For examples of recommendations to company and governments to increase respect and protection of women’s rights, please consult the Examples from previous case studies section. ICON 
+Also see ActionAid report We mean Business – Protecting Women’s Rights in Global Supply Chain: https://actionaid.org/sites/default/files/publications/We%20Mean%20Business%20-%20Protecting%20Womens%20Rights%20in%20Global%20Supply%20Chains_ActionAid_March%202020.pdf","Élaboration de recommandations pour lutter contre les inégalités de genres
+Les recommandations incluses dans votre rapport constitueront la base de votre travail de plaidoyer, au-delà de la publication du rapport. Il est donc très important que vous incluiez des recommandations qui abordent les impacts de genre spécifiques documentés dans votre processus. Pour chaque impact sur les droits humains, il doit y avoir au moins une recommandation pour le gouvernement et l'entreprise qui vise à éliminer l'inégalité de genres et la violation des droits des femmes. 
+Pour des exemples de recommandations à l'entreprise et aux gouvernements pour accroître le respect et la protection des droits des femmes, veuillez consulter la section Exemples d'études de cas précédentes. ICON 
+
+Voir également le rapport d'ActionAid intitulé We mean Business - Protecting Women's Rights in Global Supply Chain : https://actionaid.org/sites/default/files/publications/We%20Mean%20Business%20-%20Protecting%20Womens%20Rights%20in%20Global%20Supply%20Chains_ActionAid_March%202020.pdf","Elaborar recomendaciones para atender la desigualdad de género
+Las recomendaciones incluidas en su informe serán la base de su trabajo de activismo, más allá de la publicación del informe. Es por ello de gran importancia que incluyan recomendaciones que aborden los impactos de género específicos documentados en su proceso. Por cada impacto de derechos humanos, debe haber al menos una recomendación para el gobierno y la empresa con la finalidad de eliminar la desigualdad de género y la violación de los derechos de la mujer.
+Para ver ejemplos de recomendaciones a empresa y gobiernos para aumentar el respeto y la protección de los derechos de la mujer, favor de consultar los Ejemplos de la sección anterior de casos de estudio. ICON 
+Véase también el informe de ActionAid We mean Business – Protecting Women’s Rights in Global Supply Chain: https://actionaid.org/sites/default/files/publications/We%20Mean%20Business%20-%20Protecting%20Womens%20Rights%20in%20Global%20Supply%20Chains_ActionAid_March%202020.pdf",EN,TRUE,,,,,
+C0256,New Popup,Ph. D Step 20 -- New gender pop up with table called: Examples from previous case studies – Uganda and Tanzania,,"Add new gender pop up (with table) called: Examples from previous case studies – Uganda and Tanzania                                                                                                                                                                                                      Text: When developing their recommendations, the teams in Uganda and Tanzania developed recommendations addressing the specific issues faced by women, in addition to the broader recommendations covering both men and women. Here are examples of specific gender recommendations addressing two different issues.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+Access to land:
+Recommendation for the company:
+- Total/EACOP should use its influence at different levels to support the practical implementation of mechanisms for women’s full participation, including supporting women’s security of land tenure.
+Recommendation for the government:
+- Increase protections for women by broadening the definition of spouses under the law to accommodate partners in long-term cohabitation arrangements                       
+
+Security risks
+Recommendations for the company:
+- Communicate mitigation strategies developed to address the risks for women and girls. 
+- Monitor the implementation and effectiveness of those measures to decrease risks for women and girls.
+- Provide ongoing human rights training of security company hired along the pipeline (in compliance with UN VPSHR). 
+- In collaboration with the government, invest in sensitization of workers on high-risks sexual behavior.
+Recommendations for the government:
+- Make human rights training of security personnel a mandatory and routine requirement. 
+- Invest in programs to reduce gender-based violence.","Lors de l'élaboration de leurs recommandations, les équipes d'Ouganda et de Tanzanie ont développé des recommandations traitant des problèmes spécifiques rencontrés par les femmes, en plus des recommandations plus larges couvrant à la fois les hommes et les femmes. Voici des exemples de recommandations spécifiques au genre traitant de deux problèmes différents. 
+Accès à la terre - Recommandation pour l'entreprise
+-	Total/EACOP devrait user de son influence à différents niveaux pour soutenir la mise en œuvre pratique des mécanismes de pleine participation des femmes, y compris le soutien à la sécurité foncière des femmes.
+Accès à la terre - Recommandation pour le gouvernement
+-	Accroître la protection des femmes en élargissant la définition de conjoint au sens de la loi afin de tenir compte des partenaires qui cohabitent depuis longtemps
+
+Risques de sécurité - Recommandation pour l'entreprise
+-	Communiquer les stratégies d'atténuation développées pour faire face aux risques pour les femmes et les filles. 
+-	Contrôlez la mise en œuvre et l'efficacité de ces mesures pour réduire les risques pour les femmes et les filles.
+-	Fournir une formation continue sur les droits humains aux entreprises de sécurité engagées le long du pipeline (conformément aux PVSDH de l'ONU). 
+-	En collaboration avec le gouvernement, investir dans la sensibilisation des travailleurs aux comportements sexuels à haut risque.
+
+Risques de sécurité- Recommandation pour le gouvernement
+-	Faire de la formation aux droits de l'homme du personnel de sécurité une exigence obligatoire et de routine. 
+-	Investir dans des programmes visant à réduire la violence sexiste","Al elaborar sus recomendaciones, los equipos de Uganda y Tanzania elaboraron recomendaciones para atender las cuestiones específicas que enfrentaban las mujeres, además de las recomendaciones más amplias que abarcaban tanto a hombres como a mujeres. Los siguientes son ejemplos de recomendaciones específicas de género que atienden dos cuestiones diferentes.
+Acceso a la tierra - Recomendación para la empresa
+-	Total/EACOP debe aprovechar su influencia en distintos niveles para apoyar la implementación práctica de mecanismos para la plena participación de la mujer, como apoyar la seguridad de la mujer en la tenencia de la tierra.
+Acceso a la tierra - Recomendación para el gobierno
+-	Aumentar las protecciones para las mujeres mediante la ampliación de la definición de cónyuges en la ley a fin de incluir a las parejas de hecho en cohabitación de largo plazo.
+
+Riesgos de seguridad - Recomendación para la empresa
+-	Comunicar estrategias de mitigación elaboradas para atender los riesgos para mujeres y niñas. 
+-	Monitorear la implementación y efectividad de esas medidas a fin de aminorar los riesgos para las mujeres y las niñas.
+-	Proporcionar capacitación continua en derechos humanos a la empresa de seguridad contratada sobre el ducto (en cumplimiento con los Principios Voluntarios de Seguridad y Derechos Humanos de la ONU). 
+-	En colaboración con el gobierno, invertir en la sensibilización de los trabajadores a las conductas sexuales de alto riesgo.
+Riesgos de seguridad - Recomendación para el gobierno
+-	Convertir en requisito obligatorio y sistemático la capacitación en materia de derechos humanos para el personal de seguridad.
+-	Invertir en programas para reducir la violencia de género.",EN,TRUE,,,,,
+C0257,Edit Text,Ph. E Step 21 -- Step Title,Analysis and report,Rename to: ANALYSE YOUR FINDINGS,"●	Rename: Comment assurer l'intersectionnalité dans l'analyse des données  
+
+Add text: Pour préparer une analyse intersectionnelle, il peut être judicieux de réunir votre équipe, des membres de la communauté, des organisations de défense des droits des femmes ou des activistes et tout autre détenteur clé de droits affecté par le projet d'investissement que vous évaluez. C'est l'occasion de regarder ensemble les données que vous avez recueillies et d'identifier les similitudes et les différences dans les expériences vécues par les hommes, les femmes et les personnes non-conformes au genre. Le responsable des questions de genre de votre équipe devrait participer à cet exercice. 
+
+Lorsque vous examinez vos résultats clés, voici quelques questions importantes à vous poser : 
+-	Qu'est-ce que les données sur l'égalité de genres et les données intersectionnelles indiquent en termes de groupes de femmes et d'hommes, de filles et de garçons, et de personnes non-conformes au genre qui seront spécifiquement touchés par le projet d'investissement.
+-	Comment ces résultats augmentent-ils ou réduisent-ils les inégalités de genre ? 
+-	Comment les données intersectionnelles ont-elles un impact sur les pratiques et systèmes discriminatoires actuels ?
+Source : Adapté du Guide féministe de l'influence d'Oxfam, https://policy-practice.oxfam.org/resources/oxfams-guide-to-feminist-influencing-620723/ 
+
+
+o	Analyse des causes profondes de l'inégalité de genre 
+Les causes sous-jacentes de l'inégalité de genre et de la marginalisation des femmes et des personnes non-conformes au genre se trouvent dans la plupart, sinon dans toutes les institutions de la société, notamment la famille, la communauté, la religion, le marché et l'État. Chacune de ces institutions peut être discriminatoire envers les femmes et les personnes non-conformes au genre (délibérément ou non) et perpétuer l'inégalité de genre. Par leurs interactions avec ces institutions, les entreprises peuvent, par inadvertance, excuser ou tolérer la discrimination à l'encontre des femmes et des personnes non-conformes au genre. Lorsque vous réalisez votre étude d'impact, essayez de comprendre ces facteurs plus larges (ou causes systémiques) qui contribuent à l'inégalité de genre, et identifiez comment les interactions de l'entreprise avec les institutions concernées contribuent à perpétuer ou à accroître l'inégalité, mais aussi comment ces interactions pourraient garantir que l'entreprise a un impact plus positif sur tous les individus des communautés affectées par les projets d'investissement. Gardez ces causes profondes à l'esprit tout au long du processus, car ces inégalités peuvent être perpétuées par les préjugés ou les structures en place. Vous pouvez vous référer à l'analyse du pouvoir que vous avez effectuée à l'étape 11 pour vous aider à identifier ces causes systémiques.
+Source :  Adapté d'Oxfam Australie et Australian Aid, A Guide to Gender Impact Assessment for the Extractive Industries","●	Rename: Cómo garantizar la interseccionalidad en el análisis de datos 
+
+Add text: A fin de preparar un análisis interseccional, puede ser buena idea reunir a su equipo, integrantes de la comunidad, organizaciones o activistas pro derechos de la mujer y todo otro titular de derechos afectado por el proyecto de inversión que se esté valorando. Esta es una oportunidad para que juntos examinen los datos que ustedes hayan recabado e identifique similitudes y diferencias en las vivencias de hombres, mujeres y personas de género diverso. La persona de su equipo a cargo de cuestiones de género debe participar en ese ejercicio.
+
+Al examinar sus hallazgos principales, cada integrante del equipo puede hacerse preguntas importantes como las siguientes:
+-	¿Qué indican los datos de igualdad de género e interseccionales respecto a cuáles grupos de mujeres y hombres, niñas y niños y personas de género diverso sufrirán un impacto directo del proyecto de inversión?
+-	¿Cómo aumentan o disminuyen estos hallazgos la desigualdad de género? 
+-	¿Qué impacto tienen los datos interseccionales en las prácticas y los sistemas discriminatorios actuales?
+Fuente: Adaptado de la Guía de Oxfam a la influencia feminista (Oxfam’s Guide to Feminist Influencing): https://policy-practice.oxfam.org/resources/oxfams-guide-to-feminist-influencing-620723/ 
+
+
+o	Análisis de las causas de raíz de la desigualdad de género
+Las causas fundamentales de la desigualdad de género y de la marginación de las mujeres y personas de género diverso se encuentran en la mayoría de las instituciones de la sociedad, si no es que en todas; aquí caben la familia, la comunidad, la religión, el mercado y el Estado. Cada una de estas puede discriminar contra la mujer y las personas de género diverso (deliberadamente o no) y perpetuar la desigualdad de género. A través de sus interacciones con estas instituciones, las empresas pueden, sin darse cuenta, condonar o tolerar la discriminación contra la mujer y las personas de género diverso. Al llevar a cabo su evaluación de impacto, procuren entender esos factores (o causas sistémicas) de mayor amplitud que contribuyen a la desigualdad de género e identificar cómo contribuyen las interacciones de una empresa con instituciones relevantes a perpetrar o incrementar la desigualdad, pero también cómo esas interacciones podrían asegurar que la empresa tuviera un impacto más positivo en todas las personas de las comunidades afectadas por los proyectos de inversión. Tengan presentes estas causas de origen a lo largo de todo el proceso, pues estas desigualdades tal vez se perpetúen mediante sesgos o estructuras existentes. Pueden remitirse al análisis de poder que ya hicieron en el Paso 11, que les ayudara a identificar esas causas sistémicas.
+Fuente:  Adaptado de Oxfam Australia y Australian Aid, A Guide to Gender Impact Assessment for the Extractive Industries",EN,,TRUE,,,,
+C0258,New Info Box,Ph. E Step 21 -- New gender info box called: How to ensure intersectionality in data analysis,,"Add new gender info box called: How to ensure intersectionality in data analysis                                                                                                                                                                                           To prepare an intersectional analysis, it can be a good idea to bring together your team, members of the community, women’s rights organizations or activists and any other key rights holders affected by the investment project you are assessing. This is an opportunity to look together at data you have collected and identify similarities and differences in the lived experiences of men, women and gender-diverse people. The gender lead from your team should be part of that exercise. 
+
+As you look at your key findings, here are some important questions to ask yourself: 
+-	What does the gender equality and intersectional data indicate in terms of which groups of women and men, girls and boys, and gender-diverse peoples will be specifically impacted by the investment project.
+-	How are those findings increasing or reducing gender inequality? 
+-	How are the intersectional data impacting current discriminatory practices and systems?
+Source: Adapted from Oxfam’s Feminist Guide to Influencing, https://policy-practice.oxfam.org/resources/oxfams-guide-to-feminist-influencing-620723/ 
+
+o	Root cause analysis of gender inequality 
+The underlying causes of gender inequality and women’s and gender diverse peoples’ marginalization are found in most, if not all, institutions in society — this includes the family, community, religion, market and state. Each of these may discriminate against women and gender diverse peoples (deliberately or not) and perpetuate gender inequality. Through their interactions with these institutions, companies may inadvertently condone or tolerate discrimination against women and gender diverse peoples. As you conduct your impact assessment, try to understand those broader factors (or systemic causes) that contribute to gender inequality, and identify how a company’s interactions with relevant institutions is contributing to perpetrating or increasing the inequality, but also how those interactions could ensure the company has a more positive impact on all individuals from communities affected by investment projects. Keep these root causes in mind throughout the process because these inequalities might be perpetuated through existing bias or structures in place. You can refer to the power analysis you have done in step 11 to help you identifying those systemic causes.
+Source: Adapted from Oxfam Australia, Gender Impact Assessment Guide",,,EN,TRUE,,,,,
+C0263,Edit Text,Ph. E Step 22 -- Examples of Published Reports,,See Getting Started page to review examples of COBHRA reports,,,EN,,TRUE,,,,
+C0264,New Info Box,Ph. E Step 23 -- New gender info box called: Getting feedback from women and gender diverse peoples,,"Add new gender info box called: Getting feedback from women and gender diverse peoples  
+If your team choses to circulate the draft report for feedback among stakeholders outside of the intimate team, make sure to consult with all relevant stakeholders when inviting comment on your report. This includes seeking out feedback from women, gender diverse peoples and other marginalized groups as well as those with expertise in gender or minority rights to ensure their voices are integrated into the assessment and needs addressed.","[New box title]: Obtenir les commentaires des femmes et des personnes non-conformes au genre 
+Si votre équipe choisit de faire circuler le projet de rapport pour obtenir un retour d'information auprès de parties prenantes autres que l'équipe intime, veillez à consulter toutes les parties prenantes concernées lorsque vous les invitez à faire des commentaires sur votre rapport. Il s'agit notamment de solliciter l'avis des femmes, des personnes issues de la diversité sexuelle et d'autres groupes marginalisés, ainsi que des personnes spécialisées dans les questions de genre ou les droits des minorités, afin de s'assurer que leurs voix sont prises en compte dans l'évaluation et que les besoins sont satisfaits.","[New box title]: Obtener comentarios de las mujeres y las personas de género diverso
+Si su equipo decide circular el anteproyecto para que los interesados fuera del equipo íntimo hagan comentarios al respecto, cerciórense de consultar a todos los interesados relevantes al solicitar comentarios sobre su informe. Esto comprende solicitar comentarios de mujeres, personas de género diverso y otros grupos marginados, así como de personas con experticia en género o derechos de la minoría a fin de garantizar que sus voces se integren a la evaluación y se atiendan sus necesidades.",EN,TRUE,,,,,
+C0265,Edit Text,"Ph. F Step 25 -- Before table named ""Examples of follow-up actions""",,Add text on gender: You can also find interesting tools and guidance in Oxfam’s feminist guide to influencing - https://policy-practice.oxfam.org/resources/oxfams-guide-to-feminist-influencing-620723/,,,EN,,TRUE,,,,
+C0266,Edit Text,"Ph. F Step 25 -- Table named ""Examples of follow-up actions""",,"Delete ""Ensure conflict resolution or mediation of differences""",Delete: Résolution des conflits ou médiation des différences,Delete: garantizar la resolución del conflicto o la mediación;,,,TRUE,,,,
+C0268,Edit Text,"Ph. F Step 25 -- ""Worth Browsing"" tab -- Corporate Accountability for Human Rights Abuses: A Guide for Victims and NGOs on Recourse Mechanisms",,"Add text: FIDH published an updated version of its long-standing resource “Corporate Accountability for Human Rights Abuses: A Guide for Victims and NGOs on Recourse Mechanisms.” The guide has been revamped in the form of an interactive website to become more accessible and widely used and can be found at https://corporateaccountability.fidh.org/.
+
+With this guide, FIDH seeks to provide a practical tool for victims and their representatives, NGOs, and other civil society groups, including unions, social movements, and activists, to seek justice and obtain reparation for victims of human rights abuses involving multinational corporations.
+
+The guide explores the different avenues available to victims, including judicial and non-judicial recourse mechanisms. It focuses primarily on violations committed by or with the involvement of transnational corporations, their subsidiaries, or their commercial partners in third countries where they operate.","Add text:
+La FIDH publie une version mise à jour de son guide “Entreprises et violations des droits humains : un guide sur les recours existants à l’attention des victimes et ONGs”.Le guide a été remanié sous la forme d'un site Web interactif pour devenir plus accessible et plus largement utilisé et peut être consulté à l'adresse suivante : https://corporateaccountability.fidh.org/.
+A travers ce guide, la FIDH souhaite fournir un outil pratique pour les victimes, leurs représentants, les ONG et les autres acteurs de la société civile y compris les syndicats, les mouvements sociaux et les activistes, afin qu’ils puissent obtenir justice et réparation pour les violations des droits humains commises par ou avec la complicité des entreprises multinationales.
+Ce guide présente les différentes voies à la disposition des victimes, y compris les mécanismes de recours judiciaires ou non-judiciaires. Le guide met principalement l’accent sur les violations commises dans des pays tiers par ou avec le soutien d’entreprises multinationales, leurs filiales ou partenaires commerciaux.","Add text: La FIDH publica una versión actualizada de su guía ""Empresas y violaciones de los derechos humanos: una guía de los recursos existentes para las víctimas y las ONG"". La guía ha sido rediseñada en forma de un sitio web interactivo para que sea más accesible y más ampliamente utilizada y accesible. en: https://corporateaccountability.fidh.org/.
+A través de esta guía, la FIDH desea brindar una herramienta práctica a las víctimas, sus representantes, ONG y otros actores de la sociedad civil, incluidos sindicatos, movimientos sociales y activistas, para que puedan obtener justicia y reparación por las violaciones de derechos humanos cometidas por o con el complicidad de empresas multinacionales.
+Esta guía presenta las diferentes vías disponibles para las víctimas, incluidos los mecanismos de reparación judiciales y extrajudiciales. La guía se centra principalmente en las infracciones cometidas en terceros países por o con el apoyo de empresas multinacionales, sus filiales o socios comerciales.",,,TRUE,,,,
+C0261,Edit Text,"Ph. F Step 25 -- ""Experiences"" tab",,"(Part 1/2, continued below) Add text to the existing pop-up Experiences: 
+Examples of follow-up actions to the assessment report for community and civil society organizations 
+The following suggestions are based on previous CSO activity intended to complement impact assessments. Options will vary depending on the project by sector, geographic location, home and host country legislation or policy agenda, CSO capacity and knowledge, etc. You can use these suggestions to research possible similar tools across other sectors and governments. :  
+•	Raise public awareness about the company’s abuse of the community’s human rights and exert pressure on both the company and government authorities (Note: This does not have to be a large public campaign in order to be successful. Simply working to mobilize the community and demonstrate against the project, attracting attention, can exert pressure on the government or the company to listen to the concerns of the community).   
+o	Research the company’s activities: the company may have developed a pattern of behavior and partnering with another community fighting against the same company or industry, or for the realization of the same rights within the country, can amplify the community’s voice and increase pressure 
+o	Write and publish articles or blog posts about the findings of the HRIA and the case  
+•	Conduct periodic studies monitoring the activities of the company or industry; this includes strengthening an organization’s capacity to conduct an HRIA 
+•	If companies and national governments are unwilling to engage, consider turning your advocacy efforts towards investors. For example, PODER launched an investor campaign out of an HRIA conducted on a mining project in Mexico, writing letters to investors of the company and publishing articles in media outlets targeting finance and investments to build pressure. This may require seeking external expertise in investor strategy or partnering with another organization with this specific capacity and knowledge. 
+•	You may choose to target the home country of the company. Advocacy strategies could include campaigning for meetings with the relevant government authorities or members of the government’s legislative body. There are also special offices or authorities depending on the country. For example, Canada has created the Canada Target Ombudsperson for Responsible Enterprise (CORE) and the Extractive Sector CSR Counselor, two offices particularly relevant to corporate human rights abuses and business activities overseas. 
+•	If the company is party to any CSR initiatives (i.e. MSIs such as the UN Global Compact or industry body), seek to partner with the initiative to exert pressure on the company to change policy and improve practice 
+•	If the company offers a grievance mechanism, the community can file a complaint directly with the company. Most companies should offer remedy, however even if they do, these mechanisms vary widely in their accessibility and effectiveness. 
+Filing Complaints: 
+•	File an appeal with the UN Working Group on the issue of human rights and transnational corporations and other business enterprises (the working group will then write to the relevant state and business, with the expectation the state and business are to investigate the allegations and work to redress any human rights violations): follow these instructions published by the Business and Human Rights Resource Center  
+o	Based on which rights your HRIA focuses on, there may be other relevant UN Working Groups to contact. For example, if the assessment focuses on the right to gender equality and indicated potential adverse impacts on women, consider submitting information with the Working Group on the issue of discrimination against women. 
+•	File a complaint with a relevant UN rapporteur (more information on UN Special Procedures can be found here).","(Part 1/2, continued below) Add text to the existing pop-up Experiences: 
+Exemples d'actions de suivi du rapport d'évaluation pour les organisations communautaires et de la société civile. Les options suivantes offrent des suggestions basées sur des activités antérieures des OSC, destinées à compléter les évaluations d'impact. Les options varieront en fonction du projet, du secteur, de la situation géographique, de la législation ou de l'agenda politique du pays d'origine et du pays hôte, des capacités et des connaissances des OSC, etc. Vous pouvez utiliser ces suggestions pour rechercher d'éventuels outils similaires dans d'autres secteurs et gouvernements :  
+•	Sensibiliser le public aux violations des droits humains de la communauté par l'entreprise et faire pression sur l'entreprise et les autorités gouvernementales. (Il n'est pas nécessaire d'organiser une grande campagne publique pour réussir. Le simple fait de travailler à la mobilisation de la communauté et de manifester contre le projet, en attirant l'attention, peut exercer une pression sur le gouvernement ou l'entreprise pour qu'ils écoutent les préoccupations de la communauté.) 
+o	Faire des recherches sur les activités de l'entreprise : l'entreprise peut avoir développé un modèle de comportement et s'associer à une autre communauté luttant contre la même entreprise ou industrie, ou pour la réalisation des mêmes droits dans le pays, peut amplifier la voix de la communauté et augmenter la pression. 
+o	Rédigez et publiez des articles ou des billets de blog sur les conclusions de l'EIDH et sur l'affaire.  
+o	Réaliser des études périodiques pour surveiller les activités de l'entreprise ou de l'industrie ; cela inclut le renforcement de la capacité d'une organisation à réaliser une EIDH. 
+•	Si les entreprises et les gouvernements nationaux ne sont pas disposés à s'engager, envisagez de tourner vos efforts de plaidoyer vers les investisseurs. Par exemple, PODER a lancé une campagne auprès des investisseurs à partir d'une EIDH menée sur un projet minier au Mexique, en écrivant des lettres aux investisseurs de l'entreprise et en publiant des articles dans des médias ciblant les finances et les investissements pour faire pression. Cela peut nécessiter de rechercher une expertise externe en matière de stratégie d'investissement ou de s'associer à une autre organisation disposant de cette capacité et de ces connaissances spécifiques. 
+•	Vous pouvez choisir de cibler le pays d'origine de l'entreprise. Les stratégies de plaidoyer peuvent consister à faire campagne pour obtenir des réunions avec les autorités gouvernementales compétentes ou les membres de l'organe législatif du gouvernement. Il existe également des bureaux ou des autorités spéciales en fonction du pays. Par exemple, le Canada a créé le Médiateur pour l'entreprise responsable (CORE) et le Conseiller RSE pour le secteur extractif, deux bureaux particulièrement pertinents pour les violations des droits humains par les entreprises et les activités commerciales à l'étranger. 
+•	Si l'entreprise participe à des initiatives de RSE (c'est-à-dire à des initiatives multilatérales telles que le Pacte mondial des Nations unies ou à des organismes sectoriels), cherchez à vous associer à ces initiatives pour faire pression sur l'entreprise afin qu'elle modifie sa politique et améliore ses pratiques. 
+•	Si l'entreprise propose un mécanisme de réclamation, la communauté peut déposer une plainte directement auprès de l'entreprise. La plupart des entreprises devraient offrir un recours, mais même si elles le font, ces mécanismes varient considérablement en termes d'accessibilité et d'efficacité.","PArt 1/2
+Ejemplos de acciones de seguimiento posteriores al informe de evaluación para organizaciones comunitarias y de la sociedad civil:
+•	Crear conciencia pública del abuso de la empresa contra los derechos humanos de la comunidad y presionar tanto a la empresa como a las autoridades de gobierno. (Nota: No hace falta que sea una gran campaña pública para que tenga éxito; trabajar para movilizar a la comunidad, manifestarse contra el proyecto y llamar la atención pueden ser actos bastantes para ejercer presión a fin de que el Gobierno o la empresa escuchen las inquietudes de la comunidad.)
+o	Investigar las actividades de la empresa: es posible que la empresa haya actuado y actúe así en otros casos, por lo que aliarse con otra comunidad que luche contra la misma empresa o industria, o por la realización de los mismos derechos dentro del país, puede amplificar la voz de la comunidad y aumentar la presión
+o	Escribir y publicar artículos o publicaciones en blogs sobre las conclusiones de la HRIA y el caso
+•	Realizar estudios periódicos para monitorear las actividades de la empresa o industria; esto incluye fortalecer la capacidad de una organización para realizar una HRIA
+•	Si empresas y gobiernos nacionales no están dispuestos a hacer contacto, considere dirigir su trabajo de cabildeo hacia los inversionistas. Por ejemplo, PODER puso en marcha una campaña dirigida a inversionistas a partir de una HRIA realizada sobre un proyecto de minería en México; se les escribieron cartas a inversionistas de la empresa y se publicaron en distintos medios artículos sobre finanzas e inversión para aumentar la presión. Para esto, tal vez haga falta recurrir a un asesoramiento externo en materia de estrategias con inversionistas o formar alianza con otra organización que cuente con esta capacidad y conocimiento específicos.
+•	Usted puede decidir poner la mira en el país de origen de la empresa. Entre las estrategias de promoción podría haber campañas para concertar reuniones con las autoridades del Gobierno relevantes o miembros del órgano legislativo del Gobierno. También hay oficinas o autoridades especiales según el país. Por ejemplo, Canadá ha creado la Defensoría del Pueblo de Canadá para la Conducta Empresarial Responsable (CORE) y la Consejería de Responsabilidad Social del Sector Extractivo, dos agencias de particular relevancia para los abusos empresariales contra los derechos humanos y las actividades empresariales en el extranjero.
+•	Si la empresa forma parte de cualquier iniciativa de responsabilidad social empresarial (es decir, MSIs como el Pacto Mundial de la ONU o algún órgano de la industria), procure formar alianza con la iniciativa para presionar a la empresa a que cambie de políticas y mejore sus prácticas
+•	Si la empresa ofrece un mecanismo de reclamaciones, la comunidad puede levantar una denuncia directamente ante la empresa. La mayoría de las empresas seguramente ofrecerán reparación pero, aún si lo hacen, estos mecanismos varían ampliamente en su accesibilidad y efectividad.
+Presentación de denuncias:
+•	Presentar una apelación ante al Grupo de Trabajo de la ONU sobre el asunto de derechos humanos y empresas transnacionales y otras empresas (el grupo de trabajo escribirá luego al Estado y empresa correspondientes, con la expectativa de que tanto Estado como empresa investiguen la denuncia y trabajen para reparar cualquier violación a los derechos humanos): siga estas instrucciones publicadas por el Centro de Información sobre Empresas y Derechos Humanos
+o	Según los derechos que sean el tema principal de su HRIA, tal vez se pueda contactar a otros Grupos de Trabajo de la ONU que sean relevantes. Por ejemplo, si la evaluación versa del derecho a la igualdad de género e indica posibles repercusiones adversas para la mujer, considere remitirle información al Grupo de Trabajo sobre el tema de discriminación de la mujer.",,,TRUE,,,,
+C0259,Edit Text,"Ph. F Step 25 -- ""Experiences"" tab",,"(Part 2/2, continuation of above) Add text:
+File a shadow report with the UN: these reports can be presented to all UN human rights treaty bodies or the Human Rights Council (These can be very labor and resource intensive, so ensure you have the time and resources to devote to this option) http://hrlibrary.umn.edu/iwraw/reports.html http://hrlibrary.umn.edu/iwraw/proceduralguide-08.html; https://www.ushrnetwork.org/sites/ushrnetwork.org/files/10_steps_to_writing_a_shadow_report_-_iccpr.pdf;  https://www.ohchr.org/EN/Issues/IPeoples/IPeoplesFund/Pages/TreatyBodies.aspx)  
+
+Examples of shadow reports:  
+http://www2.ohchr.org/english/bodies/hrc/docs/ngos/NCHR_shadow_report_ICCPR_Norway_HRC101.pdf  
+http://www2.ohchr.org/english/bodies/cescr/docs/cescr40/ActionAid_India.pdf  
+https://wilpf.org/wp-content/uploads/2016/10/CEDAW-Canada-report_final.pdf 
+
+File complaints to regional human rights bodies. By region: 
+o	Inter-American Commission on Human Rights & Inter-American Court of Human Rights 
+o	African Commission on Human and People’s Rights & African Court on Human and People’s Rights
+o	Arab Human Rights Committee
+o	ASEAN Intergovernmental Commission on Human Rights
+o	European Court of Human Rights & European Committee of Social Rights
+•	File a complaint with the Organization for Economic Cooperation and Development (OECD) National Contact Point
+•	If the HRIA reveals threats to workers’ rights and the country has ratified ILO conventions, file a complaint or representation to the ILO and its the Governing Body 
+o	If your HRIA documents a concern regarding the right to freedom of association and collective bargaining, file a complaint with the ILO Committee on Freedom of Association 
+•	Filed amicus curiae brief to investment arbitration dispute-settlement body (ex CELS and ACIJ filed amicus curiae brief to the Tribunal of the International Centre for the Settlement of Investment Disputes (ICSID re HRIA in Argentina, 2006)","(Part 2/2, continuation of above)
+•	Déposer une plainte : 
+•	Déposez un appel auprès du groupe de travail des Nations unies sur la question des droits humains et des sociétés transnationales et autres entreprises (le groupe de travail écrira ensuite à l'État et à l'entreprise concernés, en espérant que l'État et l'entreprise enquêteront sur les allégations et s'efforceront de remédier à toute violation des droits humains) : suivez les instructions publiées par le Business and Human Rights Resource Center  
+o	En fonction des droits sur lesquels porte votre EIDH, il peut y avoir d'autres groupes de travail de l'ONU à contacter. Par exemple, si l'évaluation porte sur le droit à l'égalité des sexes et indique des effets négatifs potentiels sur les femmes, envisagez de soumettre des informations au groupe de travail sur la question de la discrimination à l'égard des femmes. 
+•	Déposez une plainte auprès d'un rapporteur des Nations Unies (vous trouverez plus d'informations sur les procédures spéciales des Nations Unies ici).
+•	Déposez un rapport alternatif  auprès des Nations unies : ces rapports peuvent être présentés à tous les organes de traités des droits humains des Nations unies ou au Conseil des droits de l'Homme (http://hrlibrary.umn.edu/iwraw/reports.html ; http://hrlibrary.umn.edu/iwraw/proceduralguide-08.html ; https://www.ushrnetwork.org/sites/ushrnetwork.org/files/10_steps_to_writing_a_shadow_report_-_iccpr.pdf ; https://www.ohchr.org/EN/Issues/IPeoples/IPeoplesFund/Pages/TreatyBodies.aspx). 
+o	Exemples de rapports alternatifs : 
+o	http://www2.ohchr.org/english/bodies/hrc/docs/ngos/NCHR_shadow_report_ICCPR_Norway_HRC101.pdf 
+o	http://www2.ohchr.org/english/bodies/cescr/docs/cescr40/ActionAid_India.pdf 
+o	https://wilpf.org/wp-content/uploads/2016/10/CEDAW-Canada-report_final.pdf
+-	Déposer des plaintes auprès des organes régionaux des droits humains. Par région : 
+•	Commission interaméricaine des droits de l'homme & Cour interaméricaine des droits de l'homme 
+•	Commission africaine des droits de l'homme et des peuples & Cour africaine des droits de l'homme et des peuples
+•	Comité arabe des droits de l'homme
+•	Commission intergouvernementale des droits de l'homme de l'ANASE
+•	Cour européenne des droits de l'homme et le Comité européen des droits sociaux.
+-	Déposer une plainte auprès du point de contact national de l'Organisation de coopération et de développement économiques (OCDE).
+-	Si l'EIDH révèle des menaces pour les droits des travailleurs et que le pays a ratifié les conventions de l'OIT, déposez une plainte ou une réclamation auprès de l'OIT et de son Conseil d'administration. 
+o	Si votre EIDH révèle une préoccupation concernant le droit à la liberté d'association et à la négociation collective, déposez une plainte auprès du Comité de la liberté d'association de l'OIT. 
+•	Dépôt d'un mémoire d'amicus curiae auprès d'une instance d'arbitrage des différends relatifs aux investissements (ex CELS et ACIJ ont déposé un mémoire d'amicus curiae auprès du Tribunal du Centre international pour le règlement des différends relatifs aux investissements (CIRDI concernant l'EIDH en Argentine, 2006).","Part 2/2 - continuation of above:
+•	Levantar una denuncia ante un relator de la ONU relevante al tema (para mayores informes sobre Procedimiento Especiales de la ONU, consulte aquí).
+•	Levantar un informe paralelo ante la ONU; estos informes se pueden presentar ante todos los organismos de tratados de derechos humanos de la ONU o el Consejo de Derechos Humanos  (http://hrlibrary.umn.edu/iwraw/reports.html; http://hrlibrary.umn.edu/iwraw/proceduralguide-08.html; https://www.ushrnetwork.org/sites/ushrnetwork.org/files/10_steps_to_writing_a_shadow_report_-_iccpr.pdf; https://www.ohchr.org/EN/Issues/IPeoples/IPeoplesFund/Pages/TreatyBodies.aspx)
+o	Ejemplos de informes paralelos:
+	http://www2.ohchr.org/english/bodies/hrc/docs/ngos/NCHR_shadow_report_ICCPR_Norway_HRC101.pdf
+	http://www2.ohchr.org/english/bodies/cescr/docs/cescr40/ActionAid_India.pdf
+	https://wilpf.org/wp-content/uploads/2016/10/CEDAW-Canada-report_final.pdf
+•	Presentar denuncias ante organismos de derechos humanos regionales. Por región:
+o	Comisión Interamericana de Derechos Humanos y Corte Interamericana de Derechos Humanos
+o	Comisión Africana de Derechos Humanos y de los Pueblos y Corte Africana de Derechos Humanos y de los Pueblos
+o	Comité Árabe de Derechos Humanos
+o	Comisión Intergubernamental de la ASEAN sobre Derechos Humanos
+o	Corte Europea de Derechos Humanos y Comité Europeo de Derechos Sociales
+•	Presentar una denuncia con el Punto de Contacto Nacional de la Organización para la Cooperación y el Desarrollo Económico (OCDE)
+•	Si la HRIA revela amenazas a los derechos de los trabajadores y el país ha ratificado convenios de la OIT, presentar una queja o reclamación ante la OIT y su Consejo de Administración
+o	Si su HRIA documenta una inquietud sobre el derecho a la libertad de asociación o la negociación colectiva, presentar una queja ante el Comité de Libertad Sindical de la OIT
+•	Presentar un escrito en calidad de amicus curiae (“amigo del tribunal”) ante un organismo de arbitraje de inversiones y resolución de controversias (v.g. el CELS y la ACIJ presentaron un escrito de amici curiae al Centro Internacional de Arreglo de Diferencias Relativas a Inversiones (CIADI re HRIA en Argentina, 2006)",,,TRUE,,,,
+C0269,New Popup,Ph. F Step 25 - Before  the onscreen table,,"Onscreen: Things to consider if the company and/or the government do not appear to be receptive to the findings
+Content of pop-up:
+- How will the team publicize the report to get some attention?
+- What media outlets would be interested in the story? Think especially about media that cover the industry in question.","Onscreen: Éléments à considérer si la compagnie ou le gouvernement ne semble pas réceptif aux conclusions:
+•	Comment l’équipe rendra-t-elle le rapport public afin d’attirer l’attention ? 
+•	Quels diffuseurs pourraient être intéressés par le cas ? Pensez particulièrement aux médias qui couvrent l’industrie en question.","Onscreen:
+Factores a considerar si la compañía o el Gobierno no se muestran receptivos a las conclusiones:
+−	¿De qué modo puede publicitar el equipo el informe para lograr captar la atención?
+−	¿Qué medios de comunicación estarían interesados en la historia? Piense especialmente en los medios de comunicación que cubren el sector en cuestión.",,,TRUE,,,,
+C0270,New Popup,Ph. F Step 25 - Before the onscreen table,,"Title of new Lean more pop-up: Is the government the one that you should consider campaigning against?
+Content of pop-up:
+- If the objective is to put pressure on the government, there are several strategies that can be developed. – You can set up a multipartite roundtable to share recommendations and discuss ways to implement them.  
+- You can participate in parliamentary hearings.  
+- You can also establish a dialogue with the government through bilateral or multipartite meetings. You might want to develop a strategy to include the different levels of government (local, regional, national) and the different agencies.  
+-  It might be strategic to team up with other organizations to help push your recommendations within the government. It is important to make sure that all the organizations involved agree about the process and the ideas to promote.  
+- Has the local government developed and committed to a National Action Plan on Business and Human Rights? If so, there could be opportunities to influence the government on its business and human rights strategies. (For more information: http://accountabilityroundtable.org/about/publications/#nap)  
+- If the government is scheduled to be reviewed by a human rights body (e.g., Universal Periodic Review, Committee on Economic, Social and Cultural Rights, Committee on the Elimination of Racial Discrimination, etc.) you can decide to submit a communication or a report highlighting the issues and violations that have been documented with the HRIA process.","New learn more POP-UP TITLE: Est-ce que votre campagne devrait être contre le gouvernement ? 
+CONTENT OF POP-UP:
+•	Si l’objectif est de faire pression sur le gouvernement, plusieurs stratégies peuvent être développées. 
+•	Vous pouvez créer une table ronde multipartite pour partager les recommandations et échanger sur les façons de les mettre en œuvre. 
+•	Vous pouvez participer à des audiences parlementaires. 
+•	Vous pouvez aussi établir un dialogue avec le gouvernement dans le cadre de réunions bilatérales ou multilatérales. Vous pouvez aussi développer une stratégie incluant différents paliers de gouvernements (local, régional, national) et les différents ministères. 
+•	Il pourrait s’avérer stratégique de faire équipe avec d’autres organisations pour aider à faire avancer les recommandations au sein du gouvernement. Il est important de s’assurer que toutes les organisations impliquées s’entendent sur le processus et les idées à promouvoir. 
+•	Est-ce que le gouvernement local a développé et s’est engagé dans le cadre d’un plan d’action national sur les entreprises et les droits humains ? Si c’est le cas, il pourrait y avoir des opportunités d’influencer le gouvernement sur ses stratégies sur les entreprises et droits humains. (Pour plus d’information : http://accountabilityroundtable.org/about/publications/nonap) 
+•	Si la révision du gouvernement devant un organe de droits humains est prévue (par exemple, l’Examen périodique universel, le Comité sur les droits économiques, sociaux et culturels, le Comité pour l’élimination de la discrimination raciale, etc.), vous pourriez décider de soumettre une communication ou un rapport présentant les enjeux et les violations qui ont été documentés dans le cadre du processus EIDH.","Question onscreen: ¿Piensa en realizar una campaña contra el Gobierno?
+CONTENT OF POP-UP:
+−	Si el objetivo es presionar al Gobierno se pueden aplicar diversas estrategias.
+−	Puede organizar una mesa tripartita para difundir las recomendaciones y debatir la forma de aplicarlas.
+−	Puede participar en audiencias parlamentarias.
+−	También puede establecer un diálogo con el Gobierno a través de encuentros bilaterales o multilaterales. Puede que desee elaborar una estrategia que tenga en cuenta los diferentes niveles de la Administración (local, regional, nacional) y los diferentes organismos.
+−	Puede que resulte estratégico colaborar con otras organizaciones para contribuir a impulsar sus recomendaciones en el seno del Gobierno. Es importante asegurarse de que las organizaciones implicadas están conformes con el proceso y con las ideas que se desea promover.
+−	¿El Gobierno local ha elaborado y se ha comprometido a aplicar un Plan de Acción Nacional sobre compañías y derechos humanos? De ser así, podrían existir oportunidades para ejercer influencia sobre el Gobierno, sobre sus compañías y sobre las estrategias de derechos humanos. (Para más información, véase la siguiente publicación [en inglés]: http://accountabilityroundtable.org/about/publications/#nap)
+−	Si está previsto que el Gobierno se someta a un examen por parte de un organismo de derechos humanos (p.ej., el Examen Periódico Universal, el Comité de Derechos Económicos, Sociales y Culturales, el Comité para la Eliminación de la Discriminación Racial, etc.) puede decidir presentar un comunicado o un informe en el que se pongan de manifiesto las cuestiones y las violaciones documentadas en el proceso de EIDH.",,TRUE,,,,,
+C0271,Edit Text,Ph. F Step 25 -- Before the onscreen table,,"Title of new pop-up: Is the company the one that you should consider a campaign against?
+Content of pop-up:
+- If you are targeting the company in a public campaign be sure to do a thorough power analysis of the company to understand where the decision makers are within the company and where you have influence. It is smart to consult with a lawyer before launching a campaign to minimize defamation risks.  
+- Is the company publicly held? If so, consider bringing in investors, especially socially responsible ones that would be willing to have a dialogue with the company on your behalf or even file a resolution.  
+- Does the company have a formal grievance process that you can access? If not, are there local, national, regional or international bodies that have grievance processes and have jurisdiction over the company, (e.g., the OECD mediation process).  
+- Could the company be legally liable for the violations in the country in which it is operating or in its home country? Consult attorneys that have experience in litigating human rights violations.  
+- What are other actors have influence over the company? For example, are there government agencies, or other bodies that may be able to persuade the company to change its behavior or address the issues? Perhaps you can call upon a legislative body to hold a hearing on the issue, or ask an agency to investigate the situation. Is the company a member of any certification body, industry association, corporate social responsibility organizations or the UN Global Compact that has principles or standards to which you could appeal?  
+- If launching a campaign against the company: Consult a lawyer to minimize defamation risks.","Title of new pop-up: Est-ce que votre campagne devrait être contre la compagnie ? 
+CONTENT OF POP-UP:
+•	Si vous visez la compagnie dans une campagne publique, assurez-vous de faire une analyse des pouvoirs approfondie de la compagnie afin de bien comprendre qui sont les décideurs au sein de la compagnie et où vous pouvez avoir de l’influence. Il est stratégique de consulter un avocat avant de lancer une campagne afin de minimiser les risques de diffamation. 
+•	Est-ce que la compagnie est ouverte ? Si c’est le cas, considérer l’implication d’investisseurs, surtout ceux qui sont responsables socialement qui pourraient accepter d’entrer en dialogue avec la compagnie en votre nom, voire même déposer une résolution. 
+•	Est-ce que la compagnie a un processus formel de plaintes auquel vous pourriez avoir accès ? Si non, existe-t-il des entités locales, nationales, régionales ou internationales qui ont un processus de plaintes et ont juridiction sur la compagnie (par exemple, le processus de médiation de l’OCDE) ?
+•	Est-ce que la compagnie pourrait être légalement responsable des violations commises dans le pays où elle opère ou dans son pays d’origine ? Consultez des avocats ayant de l’expérience en poursuite pour violations de droits humains. 
+•	Quels autres acteurs ont de l’influence sur la compagnie ? Par exemple, est-ce que certaines agences gouvernementales ou d’autres entités pourraient être capables de convaincre la compagnie de changer son comportement ou régler les enjeux ? Peut-être pourriez-vous demander à un organe législatif de tenir une audience sur le sujet ou demander à une agence de faire enquête sur la situation. Est-ce que la compagnie est membre d’une entité de certification, association de l’industrie, organisation de responsabilité sociale ou du Pacte mondial des Nations Unies qui ont des principes ou des standards auxquels vous pourriez faire appel ? 
+•	Si vous lancez une campagne contre la compagnie : Consultez un avocat pour minimiser les risques de poursuite en diffamation.","Title of new pop-up (question osncreen): ¿Piensa en realizar una campaña contra la compañía?
+CONTENT OF POP-UP:
+−	Si su objetivo, en el marco de una campaña pública es la compañía, asegúrese de realizar un análisis de poder exhaustivo para entender en qué parte de la compañía se sitúan las personas responsables de la toma de decisiones y dónde tiene usted influencia. Es recomendable que consulte con un abogado o abogada antes de lanzar una campaña, para minimizar así los riesgos de una demanda por difamación.
+−	¿Se trata de una compañía de capital público? En caso afirmativo, considere la posibilidad de implicar a inversores, especialmente aquellos inversores socialmente responsables que podrían querer establecer un diálogo para apoyarle ante la compañía o incluso presentar una resolución.
+−	¿Tiene la compañía algún procedimiento de reclamación al que usted tenga acceso? Si no es así, existen organismos locales, nacionales o internacionales que disponen de procedimientos de reclamación y tienen competencia sobre la compañía (p.ej., proceso de mediación de la OCDE).
+−	¿Podría la compañía ser legalmente responsable de las violaciones cometidas en el país en el que desarrolla su actividad o en su país de origen? Consulte con juristas que tengan experiencia en litigios relacionados con violaciones de los derechos humanos.
+−	¿Qué otros actores influyen en la compañía? Por ejemplo, ¿hay organismos del Estado u otros órganos que puedan ser capaces de convencer a la compañía de que cambie su actitud o de que resuelva las cuestiones planteadas? Tal vez pueda usted instar a un órgano legislativo a que celebre una audiencia sobre el asunto o pedir a un organismo que investigue la situación. ¿La compañía es miembro de algún órgano de certificación, asociación sectorial, organización de responsabilidad social corporativa o del Pacto Mundial de las Naciones Unidas a cuyos principios o normas se podría apelar?
+−	Si lanza una campaña contra la compañía consulte con un abogado o abogada para minimizar los riesgos de una demanda por difamación.",,TRUE,,,,,

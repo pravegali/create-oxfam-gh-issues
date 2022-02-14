@@ -16,6 +16,6 @@ export function CreateIssueBody(resultItem: CsvItem, title: string) {
         + resultItem.NewTextSP
         + "<br />"
         + "<h2>" +"New Text French Version" +"</h2>"
-        + resultItem.NewTextFr;
+        + resultItem.NewTextFR;
     return bodyString;
 }

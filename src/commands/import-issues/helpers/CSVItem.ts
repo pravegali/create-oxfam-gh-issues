@@ -5,11 +5,12 @@ export interface CsvItem {
     OldText: string
     NewTextEN: string
     NewTextSP: string
-    NewTextFr: string
+    NewTextFR: string
     Language: string
     ChangeToStructure: boolean
     TextChange: boolean
     Owner: string
+    LocationofJSON: string
     Priority: string
     Status: string
 }

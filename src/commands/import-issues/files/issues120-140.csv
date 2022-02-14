@@ -1,0 +1,116 @@
+﻿ReferenceID,TypeofChange,Location,OldText,NewTextEN,NewTextFR,NewTextES,Language,Change to Structure,Text Change,Owner,LocationofJSON,Priority,Complete
+C0126,New Popup,"Ph. B Step 10 -- 10A -- new ""learn more"" pop up below first paragraph",,"- Making a reservation means that the state makes an exception to the treaty or on specific issues or set of issues, excludes or modifies how certain provisions are applied, or wishes to ensure a certain interpretation of a provision.
+Source: UN Treaty Handbook https://treaties.un.org/doc/source/publications/THB/English.pdf","Add the question: Où puis-je trouver des informations sur les traités qui ont été signés ou ratifiés par mon gouvernement et savoir si mon gouvernement a émis des réserves ou des déclarations sur le traité ?
+CONTENT OF POP_UP:
+Vous pouvez savoir si votre pays a signé ou ratifié l'un des traités mentionnés ci-dessous sur le tableau de bord interactif de l'état de ratification du HCDH http://indicators.ohchr.org/.
+
+Vous pouvez également trouver les réserves ou les déclarations qu'un État a faites en cliquant sur le pays, puis sur l'onglet ""Déclarations"" de la fenêtre qui s'ouvre.","Add the question:
+¿Dónde puedo encontrar información sobre qué tratados ha firmado o ratificado mi gobierno y si este le ha hecho alguna reserva o declaración al tratado?
+CONTENT OF POP-UP:
+Para averiguar si su país ha firmado o ratificado cualquiera de los tratados mencionados a continuación, puede consultar el Tablero Interactivo de Situación de Ratificación de la ACNUR, que está disponible en http://indicators.ohchr.org/
+
+También podrá encontrar las reservas o declaraciones formuladas por un Estado al hacer clic en el país y luego en la pestaña de aclaraciones de la ventana que emerja.",EN,TRUE,,,,,
+C0127,Edit Text,"Ph. B Step 10 -- 10A -- Table titled ""Core International Human Rights Instruments""",,"Add ""and other relevant instruments"" to the title of the table","Add : et autres instruments pertinents"" to the title of the table.",Add y otros instrumentos relevantes - to the title of the table,EN,,TRUE,,,,
+C0129,Edit Text,"Ph. B Step 10 -- 10A -- Table titled ""Core International Human Rights Instruments""",,"Add ""United Nations Declaration on the Rights of Indigenous Peoples"" at the bottom of the table","Add at the end of the table: ""Declaration des Nations Unies sur les droits des peuples autochtones""","Add at the end of the table:
+Declaración sobre los Derechos de los Pueblos Indígenas",EN,,TRUE,,,,
+C0131,New Popup,"Ph. B Step 10 -- 10A -- Table titled ""Core International Human Rights Instruments""",,"Add ""worth browsing"" pop up to the entry ""United Nations Declaration on the Rights of Indigenous Peoples"" at the bottom of the table. https://www.un.org/development/desa/indigenouspeoples/wp-content/uploads/sites/19/2018/11/UNDRIP_E_web.pdf","Add ""worth browsing pop-up"" to the entry Declaration des Nations Unies sur les droits des peuples autochtones""","Add ""worth browsing pop-up"" to the entry Declaración sobre los Derechos de los Pueblos Indígenas",EN,TRUE,,,,,
+C0134,New Popup,"Ph. B Step 10 -- 10A -- Table titled ""Core International Human Rights Instruments""",,"[Move the pdf links from the Worth Browsing tabs to the Definition tabs and remove the Worth Browsing tabs and arrows. To the definition tabs, prior to the pdf link add “Text of the Convention:” per the edits below]","[Move the pdf links from the Worth Browsing tabs to the Definition tabs and remove the Worth Browsing tabs and arrows. To the definition tabs, prior to the pdf link add “Texte de la convention:” per the edits below]","[Move the pdf links from the Worth Browsing tabs to the Definition tabs and remove the Worth Browsing tabs and arrows. To the definition tabs, prior to the pdf link add “Texte de la convention:” per the edits below]",EN,TRUE,,,,,
+C0137,Edit Text,"Ph. B Step 10 -- 10A -- Table titled ""Core International Human Rights Instruments"" -- Convention on the Elimination of All Forms of Racial Discrimination -- worth browsing tab",,"Change the PDF attachment (Fact sheet No.12) for this link: www.refworld.org/topic,50ffbce51b1,50ffbce51de,47a034692,0,OHCHR,THEMREPORT,.html",Change the PDF attachment (Fiche d'information 12) for this link: https://www.refworld.org/cgi-bin/texis/vtx/rwmain/opendocpdf.pdf?reldoc=y&docid=47a034922,Change the PDF attachment (Folleto informativo 12 for this link: https://www.refworld.org/cgi-bin/texis/vtx/rwmain/opendocpdf.pdf?reldoc=y&docid=47a0349f2,EN,,TRUE,,,,
+C0136,Edit Text,"Ph. B Step 10 -- 10A -- Table titled ""Core International Human Rights Instruments"" -- International Covenant on Civil and Political Rights (1966) -- Definition tab","For more information about this covenant, please refer to Fact Sheet No. 2. of the Office of the United Nations High Commissioner of Human Rights.","Replace last sentence with: For more information about this covenant, please refer to Fact Sheet No. 15 on the International Covenant on Civil and Political Rights, and Fact Sheet 2 on the International Bill of Human Rights
+http://www.refworld.org/topic,50ffbce51b1,50ffbce51e7,4794773c0,0,OHCHR,,.html","Replace last sentence with: 
+Pour plus d'informations sur ce pacte, veuillez consulter la fiche d'information n° 15 sur le Pacte international relatif aux droits civils et politiques et la fiche d'information n° 2 sur la Charte internationale des droits de l'homme.
+http://www.refworld.org/topic,50ffbce51b1,50ffbce51e7,4794773c0,0,OHCHR,,.html","replace last sentence with:
+Para mayores informes sobre este pacto, favor de consultar el Folleto Informativo N.° 15 del Pacto Internacional sobre Derechos Civiles y Políticos, así como el Folleto Informativo N.° 2 sobre la Carta Internacional de Derechos Humanos
+http://www.refworld.org/topic,50ffbce51b1,50ffbce51e7,4794773c0,0,OHCHR,,.html",EN,,TRUE,,,,
+C0139,Edit Text,"Ph. B Step 10 -- 10A -- Table titled ""Core International Human Rights Instruments"" -- International Covenant on Civil and Political Rights (1966) -- Worth Browsing tab",,"[PDF Not working] 
+Replace with this link: www.ohchr.org/en/professionalinterest/pages/ccpr.aspx",,,EN,,TRUE,,,,
+C0128,Edit Text,"Ph. B Step 10 -- 10A -- Table titled ""Core International Human Rights Instruments"" -- Convention on the Protection of the Rights of Migrant Workers and Members of Their Families -- Definition tab","Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families (1990)
+This convention ensures that persons who qualify as migrant workers under its provisions are entitled to enjoy their human rights regardless of their legal status. It expresses the rights in question in ways that relate directly to the situation of migration for employment. It reflects an up-to-date understanding of migratory trends as seen from the point of view of both states of origin and host states of migrant workers and their families. The convention imposes a series of obligations on states in the interest of promoting 'sound, equitable, humane and lawful conditions' for the international migration of workers and members of their families. It establishes rules for the recruitment of migrant workers, and for their return to their states of origin. It also details the steps to be taken to combat illegal or clandestine migration.
+
+The convention breaks new ground in defining those rights that apply to certain categories of migrant workers and their families, including:
+
+border workers, who reside in a neighbouring state to which they return daily or at least once a week
+seasonal workers
+seafarers employed on vessels registered in a state other than their own
+workers on offshore installations which are under the jurisdiction of a state other than their own
+itinerant workers
+migrants employed for a specific project
+self-employed workers
+
+For more information on this convention, please refer to Fact Sheet No 24.","Replace last sentence with: For more information on this convention, please refer to Fact Sheet No 24 (Rev.1).
+http://www.refworld.org/topic,50ffbce51b1,50ffbce51e1,479477420,0,OHCHR,,.html","Replace last sentence with: Pour plus d'information sur la convention, veuillez consulter la Fiche d'information No 24 (Rev.1).
+http://www.refworld.org/topic,50ffbce51b1,50ffbce51e1,479477420,0,OHCHR,,.html",,EN,,TRUE,,,,
+C0130,Edit Text,"Ph. B Step 10 -- 10A -- Table titled ""Core International Human Rights Instruments"" -- Convention on the Rights of Persons with Disabilities -- Definition tab",,"Take out: ""For more information on this convention, visit the following website, www.un.org"" and replace with the following at the end of the page: You will find all relevant information about the Convention on the following website:
+www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html","Add the following sentence at the end of the page: Vous trouverez toutes les informations importantes au sujet de la convention en vous rendant au site suivant:
+www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html","Add at the end of the page:Toda la información relevante sobre la Convención se encuentra en el sitio web siguiente:
+www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html",EN,,TRUE,,,,
+C0132,Edit Text,"Ph. B Step 10 -- 10A -- Table titled ""Core International Human Rights Instruments"" -- International Covenant on Civil and Political Rights  -- Worth Browsing tab",,"Add in the tab (before the PDF):
+-	International Covenant on Civil and Political Rights - Text of the convention: 
+-	International Covenant on Economic, Social, and Cultural Rights Text of the convention:
+-	Convention on the Elimination of All Forms of Discrimination against Women (1979) Text of the convention:","Add in the tab (before the PDF):
+-	Pacte international relatif aux droits civils et politiques - Texte de la convention: 
+-	Pacte international relatif aux  droits économiques, sociaux et culturels - Texte de la convention:
+-	Convention sur l’élimination de toutes les formes de discrimination à l’égard des femmes (1979) - Texte de la convention","For each entrey, in the tab, add ""texto de la convención"" before the PDF.",EN,,TRUE,,,,
+C0133,Edit Text,"Ph. B Step 10 -- 10A -- Table titled ""Core International Human Rights Instruments"" -- Convention on the Rights of Persons with Disabilities (2006)  -- Definitions tab",,Here it would be useful to link directly to the Convention’s page on the UN website: https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html.,,,EN,,TRUE,,,,
+C0135,Edit Text,"Ph. B Step 10 -- 10A -- Below table titled ""Core International Human Rights Instruments""",,Add the following text below the table: What are the optional protocols?,Add the following question below the table: Que sont les protocoles facultatifs?,"Add the following question below the table 
+¿Qué son los protocolos facultativos?
+(connecting to pop-up content below)",EN,,TRUE,,,,
+C0138,New Popup,Ph. B Step 10 -- 10A -- Below writing added in above entry,,"Add the following text to a Definition pop up Connecting to the Question : What are optional protocols?
+Optional protocols are also drafted to complement or add to existing human rights treaties either to provide for procedures about the treaty or address a substantive issue.  States that have already agreed to be bound by a treaty can decide to be parties to optional protocols by signing, accessing or ratifying those treaties. Here are the main optional protocols relevant to human rights: 
+- Optional Protocol of the Covenant on Economic Social and Cultural Rights https://www.ohchr.org/en/professionalinterest/pages/opcescr.aspx  
+-	Optional Protocol to the International Covenant on Civil and Political Rights https://www.ohchr.org/en/professionalinterest/pages/opccpr1.aspx 
+-	Second Optional Protocol to the International Covenant on Civil and Political Rights, aiming at the abolition of the death penalty https://www.ohchr.org/EN/ProfessionalInterest/Pages/2ndOPCCPR.aspx
+-	Optional Protocol to the Convention on the Elimination of All Forms of Discrimination against Women https://www.un.org/womenwatch/daw/cedaw/protocol/text.htm 
+-	 Optional protocol to the Convention on the Rights of the Child on the involvement of children in armed conflict https://www.ohchr.org/EN/ProfessionalInterest/Pages/OPACCRC.aspx 
+-	Optional protocol to the Convention on the Rights of the Child on the sale of children, child prostitution and child pornography https://www.ohchr.org/EN/ProfessionalInterest/Pages/OPSCCRC.aspx 
+-	Optional Protocol to the Convention on the Rights of the Child on a communications procedure https://www.ohchr.org/EN/ProfessionalInterest/Pages/OPICCRC.aspx 
+-	Optional Protocol to the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment https://www.ohchr.org/EN/ProfessionalInterest/Pages/OPCAT.aspx 
+-	Optional Protocol to the Convention on the Rights of Persons with Disabilities https://www.ohchr.org/EN/HRBodies/CRPD/Pages/OptionalProtocolRightsPersonsWithDisabilities.aspx 
+
+To learn more about optional protocols: https://www.escr-net.org/resources/section-2-improving-supervision-icescr-optional-protocol","Content of pop-up:
+Les protocoles facultatifs sont rédigés pour compléter ou ajouter aux traités existants relatifs aux droits humains, soit pour prévoir des procédures concernant le traité, soit pour traiter une question de fond.  Les États qui ont déjà accepté d'être liés par un traité peuvent décider d'être parties aux protocoles facultatifs en signant, en accédant ou en ratifiant ces traités. Voici les principaux protocoles facultatifs relatifs aux droits humains : 
+- Protocole facultatif du Pacte international relatif aux droits économiques, sociaux et culturels https://www.ohchr.org/en/professionalinterest/pages/opcescr.aspx   
+- Protocole facultatif au Pacte international relatif aux droits civils et politiques https://www.ohchr.org/en/professionalinterest/pages/opccpr1.aspx   
+- Deuxième protocole facultatif au Pacte international relatif aux droits civils et politiques, visant à abolir la peine de mort https://www.ohchr.org/EN/ProfessionalInterest/Pages/2ndOPCCPR.aspx 
+- Protocole facultatif à la Convention sur l'élimination de toutes les formes de discrimination à l'égard des femmes https://www.un.org/womenwatch/daw/cedaw/protocol/text.htm  
+- Protocole facultatif à la Convention relative aux droits de l'enfant, concernant l'implication d'enfants dans les conflits armés https://www.ohchr.org/EN/ProfessionalInterest/Pages/OPACCRC.aspx  
+- Protocole facultatif à la Convention relative aux droits de l'enfant, concernant la vente d'enfants, la prostitution des enfants et la pornographie mettant en scène des enfants https://www.ohchr.org/EN/ProfessionalInterest/Pages/OPSCCRC.aspx  
+- Protocole facultatif à la Convention relative aux droits de l'enfant concernant une procédure de communication https://www.ohchr.org/EN/ProfessionalInterest/Pages/OPICCRC.aspx  
+- Protocole facultatif à la Convention contre la torture et autres peines ou traitements cruels, inhumains ou dégradants https://www.ohchr.org/EN/ProfessionalInterest/Pages/OPCAT.aspx  
+- Protocole facultatif à la Convention relative aux droits des personnes handicapées https://www.ohchr.org/EN/HRBodies/CRPD/Pages/OptionalProtocolRightsPersonsWithDisabilities.aspx  
+
+Pour en savoir plus sur les protocoles facultatifs : https://www.escr-net.org/resources/section-2-improving-supervision-icescr-optional-protocol","Content of pop-up: Los protocolos facultativos se redactan a fin de complementar o completar los tratados de derechos humanos ya existentes, ya sea para disponer procedimientos sobre el tratado o para ocuparse de un asunto sustantivo. Los Estados que ya hayan accedido a obligarse conforme a un tratado pueden decidir ser partes de protocolos facultativos al firmar, acceder o ratificar dichos tratados. A continuación presentamos los protocolos facultativos pertinentes para los derechos humanos:
+-	Protocolo Facultativo del Pacto Internacional de Derechos Económicos, Sociales y Culturales https://www.ohchr.org/SP/professionalinterest/pages/opcescr.aspx
+-	Protocolo Facultativo del Pacto Internacional de Derechos Civiles y Políticos https://www.ohchr.org/SP/professionalinterest/pages/opccpr1.aspx
+-	Segundo Protocolo Facultativo del Pacto Internacional de Derechos Civiles y Políticos, destinado a abolir la pena de muerte https://www.ohchr.org/SP/ProfessionalInterest/Pages/2ndOPCCPR.aspx
+-	Protocolo Facultativo de la Convención Sobre la Eliminación de Todas las Formas de Discriminación Contra la Mujer https://www.un.org/womenwatch/daw/cedaw/protocol/text.htm
+-	Protocolo Facultativo de la Convención sobre los Derechos del Niño relativo a la participación de niños en los conflictos armados https://www.ohchr.org/SP/ProfessionalInterest/Pages/OPACCRC.aspx
+-	Protocolo facultativo de la Convención sobre los Derechos del Niño relativo a la venta de niños, la prostitución infantil y la utilización de niños en la pornografía https://www.ohchr.org/SP/ProfessionalInterest/Pages/OPSCCRC.aspx 
+-	Protocolo Facultativo de la Convención sobre los Derechos del Niño relativo al procedimiento de comunicaciones https://www.ohchr.org/EN/ProfessionalInterest/Pages/OPICCRC.aspx
+-	Protocolo Facultativo de la Convención contra la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes https://www.ohchr.org/SP/ProfessionalInterest/Pages/OPCAT.aspx
+-	Protocolo facultativo de la Convención sobre los derechos de las personas con discapacidad https://www.ohchr.org/SP/HRBodies/CRPD/Pages/OptionalProtocolRightsPersonsWithDisabilities.aspx
+
+Para saber más de protocolos facultativos: https://www.escr-net.org/resources/section-2-improving-supervision-icescr-optional-protocol",EN,TRUE,,,,,
+C0140,Edit Text,Ph. B Step 10 -- 10B -- Table title ILO Human Rights,ILO Human rights,Replace title with: Core ILO Human Rights Standards,Replace title of table with : Principales conventions de l'OIT sur les droits humains,Replace title of table with : Convenciones principales de la OIT sobre los derechos humanos,EN,,TRUE,,,,
+C0202,Edit Text,Ph. B Step 10 -- 10B -- Table title ILO Human Rights,,Remove the reservations column,Remove the reservations column,Remove the reservations column,EN,TRUE,,,,,
+C0201,New Popup,Ph. B Step 10 -- 10B -- Table title ILO Human Rights,,"Add new learn more tab with the following content: 
+About ILO and reservations: 
+ILO Standards do not allow for reservations. Some conventions, though, contain specific provisions that allow for the state party to limit to what it agrees. 
+Source: https://www.ilo.org/global/about-the-ilo/how-the-ilo-works/departments-and-offices/jur/legal-instruments/lang--en/index.htm","Add new learn more tab with the following content: 
+A propos de l'OIT et des réserves: 
+Les normes de l'OIT n'autorisent pas les réserves. Cependant, certaines conventions contiennent des dispositions spécifiques qui permettent à l'État partie de limiter son accord.
+Source: https://www.ilo.org/global/about-the-ilo/how-the-ilo-works/departments-and-offices/jur/legal-instruments/lang--en/index.htm","Add new learn more tab with the following content: 
+A cerca de la OIT y las reservas:
+Las normas de la OIT no dan cabida a reservas. Sin embargo, algunas convenciones sí contienen disposiciones específicas que le permiten al Estado Parte limitar lo que acuerda.",EN,TRUE,,,,,
+C0200,Edit Text,Ph. B Step 10 -- 10C,"Quel système de protection des droits humains existe-t-il en:
+
+Americas
+Africa
+Asia
+Europe","Replace the following sentence: “Quel système de protection des droits humains existe-t-il en:"" with ""What human rights protection system exists in:""",NA,NA,EN,,TRUE,,,,
+C0163,Edit Text,Ph. B Step 10 -- 10C -- What is Africa’s regional human rights protection system,"What is Africa’s regional human rights protection system?
+Here are the main human rights treaties in Africa. You can find out whether your country has signed or ratified any of these treaties by visiting the African Union’s website www.africa-union.org. On the homepage, go to Quick Links on the left, and click on Treaties, Conventions and Protocols. You will find the status list of several treaties.",Replace link to AU website with the following: https://au.int,,,EN,,TRUE,,,,
+C0164,Edit Text,Ph. B Step 10 -- 10C -- What is Africa’s regional human rights protection system,"What is Africa’s regional human rights protection system?
+Here are the main human rights treaties in Africa. You can find out whether your country has signed or ratified any of these treaties by visiting the African Union’s website www.africa-union.org. On the homepage, go to Quick Links on the left, and click on Treaties, Conventions and Protocols. You will find the status list of several treaties.","Replace ""On the homepage, go to Quick Links on the left, and click on Treaties, Conventions and Protocols. You will find the status list of several treaties."" with ""On the homepage, click on the Key Documents tab and click on OAU/AU Treaties, Conventions, Protocols & Charters. You will the status list of several treaties.""","Replace ""À partir de la page d’accueil, allez à Documents, puis sélectionnez Traités, Conventions et Protocoles dans le menu correspondant. Vous trouverez l’état actuel des ratifications pour plusieurs traités."" with:
+Sur la page d'accueil, cliquez sur l'onglet Documents clés et cliquez sur Traités, Conventions, Protocoles et Chartes de l'OUA/UA. Vous verrez la liste d'état de plusieurs traités.","Replace ""En la página de inicio vayan a “Documents”. En el menú a la izquierda escojan “Treaties, Conventions and Protocols”. Encontrarán la situación de ratificación de numerosos tratados."" with:
+En la página principal, haga clic en la pestaña de Documentos clave y haga clic en “OAU/AU Treaties, Conventions, Protocols & Charters”(Tratados, convenios, protocolos y cartas de la OUA/UA). Verá entonces la lista de la situación de diversos tratados.",EN,,TRUE,,,,
