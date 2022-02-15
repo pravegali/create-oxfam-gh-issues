@@ -1,4 +1,26 @@
 ﻿ReferenceID,TypeofChange,Location,OldText,NewTextEN,NewTextFR,NewTextES,Language,Change to Structure,Text Change,Owner,LocationofJSON,Priority,Complete
+C0150,New Right,"Ph. C Step 13 -- Table named ""Human Rights""",,"Add row called ""The Right to a Healthy Environment"" (questions to be included in step 14 in document in box))",,,EN,TRUE,,,,,
+C0152,New Info Box,Ph. C Step 13 -- onscreen-- New gender info box,,"Add within section :How to proceed"", as the last paragraph: 
+Right to gender equality
+Gender considerations are embedded within each human right, though if you have reason to believe the company is not respecting basic principles of gender equality and are discriminating against women or gender minorities, or the investment project adversely impacts women and gender minorities, you may want to investigate more deeply. In that case, we recommend you to select the right to gender equality below.","Add within section :How to proceed"", as the last paragraph: 
+Les considérations de genre sont intégrées dans chaque droit humain, mais si vous avez des raisons de croire que l'entreprise ne respecte pas les principes de base de l'égalité des sexes et pratique une discrimination à l'égard des femmes ou des minorités de genre, ou que le projet d'investissement a un impact négatif sur les femmes et les minorités de genre, vous voudrez peut-être approfondir votre enquête. Dans ce cas, nous vous recommandons de sélectionner le droit à l'égalité des sexes ci-dessous.","Add within section: Como proceder? - as the last paragraph
+Las consideraciones de género son parte intrínseca de cada derecho humano, aunque si se tienen motivos para creer que la empresa no respeta principios fundamentales de igualdad de género y discrimina a la mujer o a las minorías de género, o que el proyecto de inversión afecta a la mujer y a las minorías de género, tal vez convenga investigar más a fondo. En tal caso, le recomendamos que seleccione el derecho a la igualdad de género",EN,TRUE,,,,,
+C0153,New Right,"Ph. C Step 13 -- Table named ""Human Rights""",,"Add row called ""The Right to Adequate Standard of Living"" (questions to be included in step 14 in document Questions_Adequate Standard of living)","Add row called ""Droit à un niveau de vie adéquat"" (questions to be included in step 14 in document FR- Questions_Adequate Standard of living)","Add row called ""Derecho a un nivel de vida adecuado"" (questions to be included in step 14 in document SP-Questions_Adequate Standard of living)",EN,TRUE,,,,,
+C0154,Edit Text,"Ph. C Step 14 -- Selection of Rights Table -- the right to just and favorable working conditions, planning, the community and human rights -- question #1.2",Why?,"If so, why?",NA,NA,EN,,TRUE,,,,
+C0156,New Popup,"Ph. C Step 13 -- Table named ""Human Rights"" -- The Right to Adequate Standard of Living",,"Add definition pop up to text created in above entry ""Right to adequate standard of living"", stating: Everyone has the right to his or her basic needs. This means that an individual and his or her family should not be denied health care or food due to lack of income. Everyone should have adequate clothes and housing. Everyone should receive assistance when unemployed, ill, aged, widowed, or incapable of earning a living due to other reasons. Expectant mothers and their children are entitled to special care. All children have the same rights, whether or not their mother is married.","Add definition pop up to text created in above entry ""droit a un niveau de vie adequat"", stating: Toute personne a droit à la satisfaction de ses besoins de base. Cela signifie qu’un individu et sa famille ne doivent pas être privés de soins de santé ou de nourriture en raison d’un revenu insuffisant. Toute personne devrait posséder un vêtement et un logement suffisants, et recevoir de l’aide quand elle est sans emploi, malade, âgée, veuve ou incapable de gagner sa vie pour d’autres raisons. Les mères enceintes et leurs enfants ont droit à des soins spéciaux. Tous les enfants ont les mêmes droits, que leur mère soit mariée ou non.","Add definition pop-up ""derecho a un nivel de vida adecuado"": Toda persona tiene el derecho de satisfacer sus necesidades básicas. Ello significa que una persona o su familia tienen el derecho de que no se les niegue alimentación adecuada por falta de ingresos. Todos deben tener vestido y vivienda adecuados. Toda persona debe recibir asistencia cuando esté desempleada, enferma, anciana, viuda o incapaz de ganarse el sustento por otras razones. Las mujeres embarazadas tienen derecho a disfrutar de cuidados especiales. Todos los niños tienen los mismos derechos, estén o no sus madres unidas en matrimonio.",EN,TRUE,,,,,
+C0157,Edit Text,"Ph. C Step 14 -- Selection of Rights Table -- the right to just and favorable working conditions, planning, the community and human rights -- question #2.2","If so, why","If so, why?",NA,NA,EN,,TRUE,,,,
+C0158,New Right,"Ph. C Step 13 -- Table named ""Human Rights""",,"Add row called ""The Right to Gender Equality"" (questions to be included in step 14 in document Questions_Gender euqality_FINAL)","Add row called ""Le droit à l'égalité des sexes"" (questions to be included in step 14 in document Questions_Egalite des sexes French FINAL)","Add row called ""Derecho a la egualidad de genero"" (questions to be included in step 14 in document SP_Questions_Gender equality FINAL)",EN,TRUE,,,,,
+C0160,Edit Text,Ph. C Step 14 -- Selection of Rights Table -- The Right to Just and Favourable Working Conditions- operational – community and human rights,"10. Do you have the possibility of being promoted? 
+11. Do you consider your working hours to be reasonable?","10. Do you have the possibility of being promoted? 
+11. Do women and gender-diverse peoples have the possibility of being promoted?
+12. Do you consider your working hours to be reasonable?",,,EN,,TRUE,,,,
+C0162,Edit Text,"Ph. C Step 14 -- Selection of Rights Table -- the right to freedom from child labor, operational",The Right to Freedom from Child Labou,The right to Freedom from Child Labour,NA,NA,EN,,TRUE,,,,
+C0163,Edit Text,Ph. B Step 10 -- 10C -- What is Africa’s regional human rights protection system,"What is Africa’s regional human rights protection system?
+Here are the main human rights treaties in Africa. You can find out whether your country has signed or ratified any of these treaties by visiting the African Union’s website www.africa-union.org. On the homepage, go to Quick Links on the left, and click on Treaties, Conventions and Protocols. You will find the status list of several treaties.",Replace link to AU website with the following: https://au.int,,,EN,,TRUE,,,,
+C0164,Edit Text,Ph. B Step 10 -- 10C -- What is Africa’s regional human rights protection system,"What is Africa’s regional human rights protection system?
+Here are the main human rights treaties in Africa. You can find out whether your country has signed or ratified any of these treaties by visiting the African Union’s website www.africa-union.org. On the homepage, go to Quick Links on the left, and click on Treaties, Conventions and Protocols. You will find the status list of several treaties.","Replace ""On the homepage, go to Quick Links on the left, and click on Treaties, Conventions and Protocols. You will find the status list of several treaties."" with ""On the homepage, click on the Key Documents tab and click on OAU/AU Treaties, Conventions, Protocols & Charters. You will the status list of several treaties.""","Replace ""À partir de la page d’accueil, allez à Documents, puis sélectionnez Traités, Conventions et Protocoles dans le menu correspondant. Vous trouverez l’état actuel des ratifications pour plusieurs traités."" with:
+Sur la page d'accueil, cliquez sur l'onglet Documents clés et cliquez sur Traités, Conventions, Protocoles et Chartes de l'OUA/UA. Vous verrez la liste d'état de plusieurs traités.","Replace ""En la página de inicio vayan a “Documents”. En el menú a la izquierda escojan “Treaties, Conventions and Protocols”. Encontrarán la situación de ratificación de numerosos tratados."" with:
+En la página principal, haga clic en la pestaña de Documentos clave y haga clic en “OAU/AU Treaties, Conventions, Protocols & Charters”(Tratados, convenios, protocolos y cartas de la OUA/UA). Verá entonces la lista de la situación de diversos tratados.",EN,,TRUE,,,,
 C0165,Edit Text,Ph. B Step 10 -- 10C -- Is there a regional human rights system in Asia?,"Is there a regional human rights system in Asia?
 Unlike in the Americas or Africa, there is no regional human rights body in Asia. Despite the lack of a regional mechanism, there are however a number of existing processes that could potentially serve the needs of individuals and groups seeking reparation for human rights violations in Asia. These include both national provisions coordinated regionally by the Office of the High Commissioner for Human Rights (OHCHR) and various sub-regional cooperation arrangements such as the South Asian Association for Regional Cooperation (SAARC) and the Association of Southeast Asian Nations (ASEAN).
 
@@ -27,360 +49,55 @@ Convention d'Istanbul (Europe) (2011)
 Convention du Conseil de l'Europe sur la prévention et la lutte contre la violence à l'égard des femmes et la violence domestique (2014).","Add at the end of the table “Principales tratados de derechos humanos en Europa”]:
 Convención de Estambul (Europa) (2011)
 Convenio del Consejo de Europa sobre la prevención y el combate a la violencia contra la mujer y la violencia doméstica (2014)",EN,,TRUE,,,,
-C0204,New Popup,"Ph. B Step 10 -- 10C -- What is Europe’s human rights protection system? -- table titled “Main human rights treaties in Europe"" -- Istanbul Convention (Europe) (2011)",,Add .pdf files in the worth browsing pop up for the additions in the above entry,,,EN,TRUE,,,,,
-C0203,Edit Text,"Ph. B Step 10 -- 10D, At the end of the bulleted list, before the two ""learn more titles""","Why is it important to look at national laws in your country?
-Companies operating in your country must abide by its laws. It helps to know what the laws of your country say about the environment, labour standards, respect for human rights and other relevant areas in order to decide whether the company is honouring its legal obligations. You may need to ask a legal specialist about which particular laws are relevant to the project you are looking at.
+C0170,Edit Text,Ph. C Step 14 -- Learn More Tab – Cross-cutting principles -- Gender Equality,"Cross-cutting principles
+While these principles first and foremost constitute specific human rights, they should also be seen as applying to every right. For example, there might be a negative impact on a woman’s right to food if she does not have access to information about where food may be obtained or if women are discriminated against when it comes to food. The right in question is the right to food, but the cross-cutting principle is gender equity. Each right raises some issues that can be viewed as cross-cutting principles. These are core principles that must be addressed. In selecting and developing questions, your team should make sure to cover these principles.
 
-So far your government’s obligations under international and regional human rights law have been covered. The next step is to explore how well your government has incorporated these obligations into its own national system. To learn more about the integration of international and regional human rights protection mechanisms in your country, a first step would be to look at the country’s constitution. Here are some key questions to consider:
+Participation and access to information
+A human rights framework requires the meaningful participation of the right holders, be they individuals or communities. This reflects people’s right to take part in public affairs, directly or through chosen representatives. In order to truly enjoy their rights, individuals must be able to participate in any decision-making process about their rights. Individuals must be able to access important information about decisions that might affect the enjoyment of their rights.
 
-Does the constitution mention human rights? If so, which ones?
-What national laws, regulations or agencies are most relevant to the human rights context of the investment project? (e.g. labour laws, anti-discrimination laws, health and safety regulations, environmental regulations)
-Is there a human rights charter?
-What are the formal and informal ways of obtaining redress in the country?
-Does your country have its own human rights institution (e.g. human rights commission, ombudsperson’s office)? If so, what is its mandate","Add: •	Does the country have specific legislation protecting women’s rights and non-discrimination?
-•	Has the national government created or sponsored the development of any women’s rights organizations?
-•	Do the country’s policies and practices promote the rights of LGBTQIA+ persons and gender diverse peoples?
-•	Which institutions and networks provide support for women or gender diverse peoples? 
-•	Does national legislation work to realize gender equality? (Add Pop Up discussed in C0088 here)","•	Le pays dispose-t-il d'une législation spécifique protégeant les droits des femmes et la non-discrimination ?
-•	- Le gouvernement national a-t-il créé ou parrainé le développement d'organisations de défense des droits des femmes ?
-•	- Les politiques et les pratiques du pays promeuvent-elles les droits des personnes LGBTQIA+ et des personnes de genre différent ?
-•	- Quels sont les institutions et les réseaux qui soutiennent les femmes ou les personnes non-conformes au genre? 
-•	- La législation nationale contribue-t-elle à la réalisation de l'égalité de genre ? [New Gender Arrow]","•	¿El país cuenta con legislación específica que proteja los derechos y la no discriminación de la mujer?
-•	¿El gobierno nacional ha creado o patrocinado el desarrollo de alguna organización de derechos de la mujer?
-•	¿Las políticas y prácticas del país promueven los derechos de las personas LGBTQIA+ y las personas de género diverso?
-•	¿Qué instituciones y redes brindan apoyo a la mujer y las personas de género diverso? 
-•	¿La legislación nacional trabaja por concretar la igualdad de género?",EN,,TRUE,,,,
-C0142,Edit Text,Ph. B Step 10 -- Worth Browsing tab,,"To add to the existing worth browsing pop up called International human rights obligations. 
-Use these sites to research the international human rights treaties that apply to each country and to map relevant national human rights legislation: 
--	ILO : You will find important information about the most recent legislations passed in the country you are researching on ILO’s website. On the landing page, click on “Countries” and then select the country of your choice and you will find laws and policies, ILO standards ratified, etc. (www.ilo.org)
-•	Universal Human Rights Index: summary by country of commitments to UN human rights mechanisms and documents/legislation (http://uhri.ohchr.org)
-•	National Action Plans (NAPs): NAPs are government led policy documents outlining priorities and future commitments regarding the country’s implementation of the UNGPs, as well as other business and human rights frameworks. They can help guide your understanding of a country’s (both home and host) adoption of various human rights initiatives and its progress towards realizing these rights. (Note: These are not legally binding): https://globalnaps.org/ 
-•	University of Minnesota Human Rights Library: quick access to full-text version of major international human rights documents (including UN document database): http://hrlibrary.umn.edu/ 
-o	Women’s rights in particular: http://hrlibrary.umn.edu/instree/auoe.htm 
-o	Research by country, including national constitution, human rights institutions, jurisprudence, ratifications of international human rights treaties: http://hrlibrary.umn.edu/research/ 
-•	Cornell Law Library: reference to various international and national legislation, including national constitutions and courts & case law, UN International Human Rights Law, environmental law, ICJ jurisprudence, ILO Standards and more: https://www.law.cornell.edu/world 
-•	UN database: search by country and/or document type (including state party’s report, concluding observations, working group report, country visit report, jurisprudence, etc.): http://tbinternet.ohchr.org/_layouts/treatybodyexternal/TBSearch.aspx?Lang=en","To add to the existing worth browsing pop up called Les obligations au chapitre des droits humains internationaux:
-Utilisez ces sites pour rechercher les traités internationaux relatifs aux droits humains qui s'appliquent à chaque pays et pour cartographier la législation nationale pertinente en matière de droits humains : 
--	OIT : Vous trouverez des informations importantes sur les législations les plus récentes adoptées dans le pays sur lequel vous faites des recherches sur le site de l'OIT. Sur la page d'accueil, cliquez sur ""Pays"" puis sélectionnez le pays de votre choix et vous trouverez les lois et politiques, les normes de l'OIT ratifiées, etc. (www.ilo.org)
-•	Index universel des droits de l'homme : résumé par pays des engagements envers les mécanismes des droits humains de l'ONU et des documents/législations (http://uhri.ohchr.org)
-•	Plans d'action nationaux (PAN) : Les PAN sont des documents politiques dirigés par le gouvernement qui décrivent les priorités et les engagements futurs concernant la mise en œuvre par le pays des principes directeurs des Nations unies, ainsi que d'autres cadres relatifs aux entreprises et aux droits humains. Ils peuvent vous aider à comprendre l'adoption par un pays (d'origine et d'accueil) de diverses initiatives en matière de droits humains et les progrès accomplis dans la réalisation de ces droits. (Remarque : ces documents ne sont pas juridiquement contraignants) : https://globalnaps.org/ 
-•	Bibliothèque des droits humainse de l'Université du Minnesota : accès rapide à la version intégrale des principaux documents internationaux relatifs aux droits humains (y compris la base de données des documents de l'ONU) : http://hrlibrary.umn.edu/ 
-o	Les droits des femmes en particulier : http://hrlibrary.umn.edu/instree/auoe.htm 
-o	Recherche par pays, y compris la constitution nationale, les institutions des droits humains, la jurisprudence, les ratifications des traités internationaux relatifs aux droits humains : http://hrlibrary.umn.edu/research/ 
-•	Cornell Law Library : référence à diverses législations internationales et nationales, y compris les constitutions et les tribunaux nationaux et la jurisprudence, le droit international des droits humains des Nations unies, le droit de l'environnement, la jurisprudence de la CIJ, les normes de l'OIT, etc. : https://www.law.cornell.edu/world 
-•	Base de données de l'ONU : recherche par pays et/ou par type de document (y compris le rapport de l'État partie, les observations finales, le rapport du groupe de travail, le rapport de visite du pays, la jurisprudence, etc.) : http://tbinternet.ohchr.org/_layouts/treatybodyexternal/TBSearch.aspx?Lang=en","To add to the existing worth browsing pop up called Obligaciones internacionales sobre derechos humanos:
-Recurra a estos sitios para investigar los tratados de derechos humanos internacionales que se aplican a cada país y para localizar información relevante sobre legislación nacional en materia de derechos humanos:
--	OIT: Aquí se encontrará información importante sobre la legislación de más reciente aprobación en el país que investigue en el sitio web de la OIT. En la página de llegada, dé clic en “Países” y luego seleccione el país de su interés y encontrará leyes y políticas, normas ratificadas de la OIT, etc. (www.ilo.org)
-•	Índice Universal de Derechos Humanos: resumen por país de compromisos a mecanismos y documentos/legislación de derechos humanos de la ONU (http://uhri.ohchr.org)
-•	Planes de Acción Nacionales (NAP): Los NAP son documentos de políticas cuya elaboración encabezan los gobiernos y en los que se reseñan prioridades y compromisos futuros en cuanto a la implementación de los UNGP por parte de los gobiernos, así como de otros marcos empresariales y de derechos humanos. Pueden servir de orientación para comprender la adopción de distintas iniciativas de derechos humanos en un país (tanto originador como receptor) y de sus avances hacia la realización de estos derechos. (Nota: carecen de obligatoriedad legal): https://globalnaps.org/
-•	Biblioteca de Derechos Humanos de la Universidad de Minnesota: acceso pronto a versiones de texto completo de importantes documentos internacionales de derechos humanos (incluida la base de datos de documentos de la ONU): http://hrlibrary.umn.edu/
-o	Derechos de la mujer en particular: http://hrlibrary.umn.edu/instree/auoe.htm
-o	Investigación por país, así como constitución nacional, instituciones de derechos humanos, jurisprudencia, ratificaciones de tratados internacionales de derechos humanos: http://hrlibrary.umn.edu/research/
-•	Biblioteca de Derecho de Cornell: referencia sobre diversas legislaciones internacionales y nacionales, como constituciones nacionales y precedentes judiciales, Derecho Internacional de Derechos Humanos de la ONU, derecho ambiental, jurisprudencia de la CIJ, Normas de la OIT y más: https://www.law.cornell.edu/world
-•	Base de datos de la ONU: aquí se puede buscar por país y/o por tipo de documento (incluidos informe sobre el Estado Parte, observaciones finales, informe del grupo de trabajo, informe de visita al país, jurisprudencia, etc.): http://tbinternet.ohchr.org/_layouts/treatybodyexternal/TBSearch.aspx?Lang=es",EN,,TRUE,,,,
-C0145,Edit Text,Ph. B Step 11 -- This section may be a challenging one!,"This section may be a challenging one!
-You may require assistance from an outside expert to answer some of these questions and analyze the information you gather. The sub-steps suggest key elements that you can include in your report.","Add the following text at bottom of paragraph: Multinational companies often organize themselves in intentionally confusing ways and this extends to their projects, which can be even more confusing if multiple companies are involved.  It might be helpful to note that step 11A is probably the easiest and steps 11B and 11C potentially significantly more difficult.","Add the following text at bottom of paragraph: 
-Les entreprises multinationales s'organisent souvent de manière intentionnellement confuse et cela s'étend à leurs projets, qui peuvent être encore plus confus si plusieurs entreprises sont impliquées.  Il peut être utile de noter que l'étape 11A est probablement la plus facile et que les étapes 11B et 11C sont potentiellement beaucoup plus difficiles.","Add the following text at the bottom of paragraph:
-Las empresas multinacionales suelen organizarse de maneras adrede confusas y esto se extiende a sus proyectos, que tanto más confusos pueden ser si hay múltiples compañías de por medio. Puede ser útil observar que el Paso 11A es probablemente el más sencillo y que los Pasos 11B y 11C pueden ser considerablemente más difíciles.",EN,,TRUE,,,,
-C0146,Edit Text,Ph. B Step 11 -- 11A,"Where can you find information about the company?
+Non-discrimination
+The right to non-discrimination is protected under Article 2 of both the International Covenant on Economic, Social and Cultural Rights and the International Covenant on Civil and Political Rights. No discrimination should be made on the basis of race, colour, sex, language, religion, political or other opinion, national or social origin, property, birth or other status. A human rights framework will give special attention to policies and practices that result in discriminatory outcomes for specific groups.
 
-It is important to find out as much as possible about the company so that you know what you are dealing with. To help you find the most relevant information, here are some key questions about the company that should be answered:","Move ""Where can you find information about the company?"" section to below the list of questions.","Move ""Ou trouver l'information sur la compagnie?"" section to below the list of questions.",MOVE ¿Dónde se puede encontrar información sobre la compañía? after the list of questions.,EN,,TRUE,,,,
-C0147,Edit Text,Ph. B Step 11 -- 11A -- Where can you find information about the company? -- Learn more tab,"There are a number of places you can go to find out more information about a company, or group of companies, involved in a particular investment project. The Internet has made this process much easier than it used to be. However, language can sometimes be a problem, especially when you are looking for information about a foreign company. You may need to find a translator if information available is in another language. Here are some places to look for information about a company and about a particular investment project:","PART 1 **Add at the end of the first paragraph: 
-Where to start?
-The company's website:
-Initial inquiries for those questions should be conducted on the company website: answer the questions to the best of your ability based on the information publicly available on the company website (begin with the ‘About Us’ page or ‘Who We Are’ page, then ‘Contact’ and ‘Investor Relations’ pages).
-***THEN THE CURRENT PARAGRAH STARTING WITH ""What information will a company provide?...""
-**THEN ADD:
-If the company lists an investment partner, explore that partner’s website for their information as well as information on the partnership and the original company. 
-If it is a state-owned company, research the government’s website and look for information on the company and the relationship between the two bodies (this may require looking through the relevant government agency’s website – the relevant agency will depend on the country and the industry).
-**AND THEN THE PARAGRAPH ON GOVERNMENT REGISTRIES
-**THE REST OF THE POP-UP WILL BE ADDRESS IN NEXT ENTRY","PART 1: ADD AT THE END OF FIRST PARAGRAPH:
-Par où commencer? Le site web de l'entreprise:
-Les recherches initiales pour ces questions doivent être menées sur le site web de l’entreprise : répondez aux questions du mieux que vous pouvez en vous basant sur les informations disponibles sur le site web de l’entreprise (commencez par la page « A propos de nous » ou « Qui sommes-nous », puis les pages « Contact » et « Relations avec les investisseurs »).
-***THEN THE CURRENT PARAGRAH STARTING WITH ""Quels renseignements une entreprise fournira-t-elle ?...""
-**THEN ADD:
-Si l'entreprise mentionne un partenaire d'investissement, explorez le site Web de ce partenaire pour obtenir des informations sur lui ainsi que sur le partenariat et l'entreprise d'origine. 
-S'il s'agit d'une entreprise d'État, recherchez sur le site Web du gouvernement des informations sur l'entreprise et sur la relation entre les deux organismes (cela peut nécessiter de consulter le site Web de l'agence gouvernementale compétente - l'agence compétente dépendra du pays et du secteur).
+Gender equality
+Gender equality is protected under Article 3 of both the International Covenant on Economic, Social and Cultural Rights and the International Covenant on Civil and Political Rights. A human rights framework gives special attention to equality between men and women by looking carefully at how women might be affected differently than men.
 
-**AND THEN THE PARAGRAPH ON Les registres gouvernementaux
-**THE REST OF THE POP-UP WILL BE ADDRESS IN NEXT ENTRY","PART 1: ADD AT THE END OF FIRST PARAGRAPH:
-¿Por dónde empezar? El sitio web de la empresa
-Las primeras investigaciones para contestar estas preguntas se deben realizar en el sitio web de la empresa: conteste las preguntas al máximo de su capacidad a partir de la información que la empresa pone a disposición del público en su sitio web (comience por la página “Acerca de nosotros” o la página “Quiénes somos”, y luego siga a las páginas “Contacto” y “Relaciones con inversionistas”).
+Sex or gender inequality is a problem experienced primarily by women. The systems and assumptions that lead to women’s inequality in the enjoyment of their economic, social and cultural rights are often invisible, because they are deeply embedded in social relations, both public and private, in all states. Acknowledging this systemic and entrenched discrimination is an essential step in implementing guarantees of non-discrimination and equality.
 
-***THEN THE CURRENT PARAGRAH STARTING WITH ""¿qué información puede proporcionar una compañía? Muchas emp...""
-**THEN ADD:
-Si la empresa menciona a un socio de inversión, explore el sitio web de ese socio para obtener información de este, así como información sobre la alianza de inversión y la empresa original.
-Si se trata de una empresa paraestatal, investigue en el sitio web del Gobierno y busque información sobre la empresa y la relación entre ambas entidades (esto puede requerir hurgar por el sitio web del organismo de gobierno relevante, el cual dependerá del país y del sector industrial).
+Source: Montréal Principles on Women’s Economic, Social and Cultural Rights 
 
-
-**AND THEN THE PARAGRAPH ON Registros de los Gobiernos:
-**THE REST OF THE POP-UP WILL BE ADDRESS IN NEXT ENTRY",EN,,TRUE,,,,
-C0190,Edit Text,Ph. B Step 11 -- 11A -- Where can you find information about the company? -- Learn more tab,,"PART 2 (Continuation of previous entry)
-Where to next?
-Media and news sources
-***PARAGRAPH ON MEDIA REPORTS TO INCLUDE HERE. 
-THEN:
-Begin research by exploring the company website and reading through media reports 
-a.	Wikipedia can be a good place to look first to read a very brief overview of the company – only use as a first resource to introduce yourself to the company before going on to the company website or other reports, as it can contextualize more specific details within the broader business model and objectives of the corporation.
-b.	Familiarize yourself with the human rights record of the company by searching the name of the company on civil society websites such as Human Rights Watch, Amnesty International, and Oxfam to determine if they have been involved in human rights violations or reports in the past in any way (these organizations not only produce long, detailed reports but also shorter briefs and news articles perfect for preliminary research exploration)
-c.	News media sites (search for the name of the company, or one of their most senior executives, in the search bar of the media websites): 
-- The Guardian, The Atlantic, FP (www.foreignpolicy.com): generally produce longer articles and reports exploring corporate conduct or allegations of inappropriate/abusive behavior 
-- New York Times, Washington Post, NPR, BBC: Even just skimming the article titles will give you some background on the company and its public media perception or contested business activity 
-- Wall Street Journal, Bloomberg, the Economist, Business Insider, Forbes: focus of these publications is, in general, more on economics and business; considered to be more aligned with corporations, and may present more pro-business opinions than more fiscally liberal sources like the NY Times: valuable sources to consult if looking to understand the business case (or for contextual reading before meeting with the company) 
-
-Lastly, given the long-term nature of the project, it can be helpful to set up a google alert using the name of the company, which will send you emails each morning scanning the Internet for recent news or articles using your specific term.
-
-Conferences: Speeches and presentations made by company representatives at conferences can sometimes include a great deal of information about a particular project. Many conferences, or their sponsors, have a website where these presentations are available. The easiest way to find this information is through an Internet search of the company name, or of an individual that you know is associated with the project. This step may be time consuming and the results are uncertain. However, if you find a speech that directly pertains to the investment you are interested in, it could be worth taking the time.
-
-Major lenders, such as the development banks: Unlike commercial banks, development banks, such as the World Bank or the African Development Bank, publish information about the projects they are funding. It is worth visiting their website or contacting their local office to find out what information is available. It is more difficult to get this information from a commercial bank.","PART 2 (Continuation of previous entry)
-Où aller ensuite ? Médias et sources d'information
-***EXISTING PARAGRAPH ON ""Les reportages des médias"" TO INCLUDE HERE. 
-THEN:
-Commencez vos recherches en explorant le site Web de l'entreprise et en lisant les rapports des médias. 
-a.	Wikipedia peut être un bon point de départ pour lire un bref aperçu de l'entreprise - à n'utiliser qu'en tant que première ressource pour se présenter à l'entreprise avant de consulter le site Web de l'entreprise ou d'autres rapports, car il permet de replacer les détails plus spécifiques dans le contexte plus large du modèle commercial et des objectifs de la société.
-b.	Familiarisez-vous avec le bilan de l'entreprise en matière de droits humains en recherchant le nom de l'entreprise sur des sites Web de la société civile tels que Human Rights Watch, Amnesty International et Oxfam afin de déterminer si elle a été impliquée dans des violations des droits humains ou des rapports dans le passé, de quelque manière que ce soit (ces organisations produisent non seulement des rapports longs et détaillés, mais aussi des mémoires et des articles d'actualité plus courts, parfaits pour une exploration préliminaire de la recherche).
-c.	Sites des médias d'information (recherchez le nom de l'entreprise, ou de l'un de ses plus hauts dirigeants, dans la barre de recherche des sites des médias) : 
-- The Guardian, The Atlantic, FP (www.foreignpolicy.com) : produisent généralement des articles et des rapports plus longs explorant la conduite des entreprises ou les allégations de comportement inapproprié/abusif. 
-- New York Times, Washington Post, NPR, BBC : Le simple fait de parcourir les titres des articles vous donnera un aperçu de l'entreprise et de sa perception dans les médias publics ou de son activité commerciale contestée. 
-- Wall Street Journal, Bloomberg, the Economist, Business Insider, Forbes : ces publications se concentrent, en général, davantage sur l'économie et les affaires ; elles sont considérées comme plus proches des entreprises et peuvent présenter des opinions plus favorables aux entreprises que des sources plus libérales sur le plan fiscal comme le NY Times : des sources précieuses à consulter si vous cherchez à comprendre l'analyse de rentabilité (ou pour une lecture contextuelle avant de rencontrer l'entreprise). 
-
-Enfin, étant donné la nature à long terme du projet, il peut être utile de mettre en place une alerte Google en utilisant le nom de l'entreprise, ce qui vous enverra des courriels chaque matin pour rechercher sur Internet des nouvelles ou des articles récents utilisant votre terme spécifique. 
-
-Les conférences : Les discours et les allocutions faits par les représentants de l’entreprise dans le cadre de conférences contiennent parfois beaucoup d’information sur un projet en particulier. De nombreuses conférences, ou leurs commanditaires, ont un site Web où sont affichées ces présentations. La façon la plus facile de trouver cette information est de procéder à une recherche sur Internet à partir du nom de l’entreprise ou de celui d’une personne dont vous savez qu’elle est associée au projet. Ce type de démarche exige parfois beaucoup de temps, et ses résultats demeurent incertains. Toutefois, si vous trouvez un discours qui porte directement sur le projet d’investissement qui vous intéresse, toutes vos recherches en auront valu la peine.
-
-Les prêteurs importants, comme les banques de développement : Contrairement aux banques commerciales, les banques de développement telles que la Banque mondiale ou la Banque africaine de développement publient de l’information sur les projets qu’elles financent. Il vaut la peine de visiter leur site Web ou de communiquer avec leur succursale locale pour déterminer quels sont les renseignements disponibles. Il est plus difficile d’obtenir ce type d’information auprès d’une banque commerciale.","PART 2 (Continuation of previous entry)
-¿Y luego, adónde? Medios y fuentes de noticias
-***EXISTING PARAGRAPH ON ""Informes de los medios de comunicación"" TO INCLUDE HERE. 
-THEN:
-Comience su investigación explorando el sitio web de la empresa y leyendo lo que se escribe de ella en los medios
-a.	Wikipedia puede ser un buen punto de partida para leer un resumen muy breve y general de la empresa; conviene usar esta fuente exclusivamente como primer recurso a modo de introducción a la empresa antes de acudir al sitio web de esta u otros escritos sobre ella, pues así se contará con el contexto de detalles más específicos del modelo de negocios y los objetivos de la empresa en general.
-b.	Familiarícese con el historial de derechos humanos de la empresa mediante una búsqueda del nombre de la empresa en sitios de la sociedad civil como Human Rights Watch, Amnistía Internacional y Oxfam a fin de determinar si la empresa ha estado implicada en violaciones a los derechos humanos o en algún informe anterior del modo que haya sido (estas organizaciones no solo generan informes extensos y detallados, sino también resúmenes y artículos de noticias más breves que son perfectos para la exploración de la investigación preliminar).
-c.	Sitios de medios noticiosos (se puede buscar el nombre de la empresa, o el de alguno de sus directivos, en la barra de búsqueda de los sitios web de medios):
-- The Guardian, The Atlantic, FP (www.foreignpolicy.com): por lo común generan artículos y reportajes más extensos donde se explora la conducta empresarial o las acusaciones de conducta indebida o abusiva.
-- The New York Times, The Washington Post, NPR, BBC: basta con leer por encima los encabezados de los artículos de estos medios para darse una idea de la empresa y de cómo se la percibe en los medios públicos o de su actividad empresarial disputada.
-- The Wall Street Journal, Bloomberg, The Economist, Business Insider, Forbes: estas publicaciones, por lo general, se concentran más en economía y negocios; se les considera más afines a las grandes empresas y pueden presentar opiniones más a favor de estas que otras fuentes de ánimo más liberal en lo fiscal como The New York Times; son fuentes de consulta valiosas si se quiere entender el caso de negocios (o como lectura de contextualización antes de reunirse con la empresa).
-
-Por último, dado el carácter de largo plazo del proyecto, puede ser de utilidad configurar una alerta de Google que responda al nombre de la empresa; así recibirá usted cada mañana un correo electrónico con un vaciado de noticias o artículos recientes de Internet donde se mencione el término que usted especifique.
- ADD AT THE END: 
-Conferencias: los discursos y las presentaciones de los representantes de la empresa en conferencias pueden incluir a veces una gran cantidad de información sobre un proyecto en particular. Numerosas conferencias, o sus patrocinadores, tienen sitios Web en los cuales dichas presentaciones están disponibles. La manera más fácil de encontrar esta información es mediante una búsqueda en Internet por el nombre de la compañía o el de alguna persona que se sepa que está asociado con el proyecto. Esta etapa puede ser larga y los resultados inciertos. Sin embargo, si encontraran un discurso que se refiera directamente a la inversión en la que están interesados, valdrá la pena haber tomado el tiempo para buscarlo.
-
-Principales prestamistas, tales como bancos de desarrollo: a diferencia de los bancos comerciales, los bancos de desarroll",EN,,TRUE,,,,
-C0273,New Popup,Ph.B Ste 11B - What commitment has the company made regarding this investment project?,,"New Lean more Pop-up called: Where can you find information about the investment project and the commitments made by the company?
-Search the company's website for information on the project, and then go to governmental and external resources
-Sources from the company: Begin with the company website 
-- Press releases 
-Annual report to shareholders 
-Speeches by company executives 
-
-Reports filed by the company with the regulator of the stock exchange: most stock exchanges require that a company whose shares are listed on the exchange file regular reports with the body that regulates or oversees the exchange. Such reports include the annual report, news releases, financial updates, and other important information for people interested in buying the company’s shares. Each stock exchange has different rules on how much information is required and when the company should file it. Some regulators, such as the Securities and Exchange Commissions in the United States, put this information on a website where everyone can see it. (If traded on the US stock exchange: report filed with the federal Securities and Exchange Commission at www.sec.gov and if traded on the Canadian stock exchange: report filed with the Canadian Securities Administrators at www.sedar.com; detailed in GIR)
-- Annual report 
-- News releases 
-- Financial updates 
-- Rank and Filed (www.rankandfiled.com) processes SEC filings and can be a good access point
-
-External Research Services 
-Business & Human Rights Resource Centre (https://www.business-humanrights.org): Find Companies à Company Profile 
-- Search legal news related to business and human rights: https://www.business-humanrights.org/en/corporate-legal-accountability
-- Search by issue/industry: https://www.business-humanrights.org/en/discover-big-issues 
-- Business and Human Rights Resource Center - Chinese Investment Overseas: https://www.business-humanrights.org/en/big-issues/chinese-investment-overseas/guidance-by-government-business-and-civil-society/
-
-Department of State (for businesses incorporated in the US): Division of Corporations: Corporations and Business Entity database: Search for Company 
-The Business Journals: www.bizjournals.com: brief company and executive profiles (People&Companies bar at top) 
-Bloomberg BNA/Law Lexis; Nexis (Lexis Uni); Thomson Reuters (Thomson One) (need subscription access): Company Profiles  
-- A lot of information on company’s profiles available through Bloomberg can be publicly accessed through Edgar by SEC, however Bloomberg is considered much easier to use and navigate.
-- Some analyst reports are available through Bloomberg or Thomson Reuters databases
-Strategic corporate research: This website presents various ways and a large number of resources to collect information about companies from the United States, Canada and United Kingdom.  (http://strategiccorporateresearch.org)
-
-Sources from governments or international governance institutions: 
-Follow up with the government website of the country in which the investment project will occur: search the website for the name of the company 
-Search the host government website 
-Government registries: governments usually require companies operating in a particular country to file basic information about the company with a government office. This information may not be very detailed, but should include the name and address of the company, what type of company it is, and its owners.
-
-If looking into US-based companies: 
-- Political media sites: Politico, the Hill 
-- US government financial commitments: www.usaspending.gov 
-- Corporate money spent lobbying the US government: www.opensecrets.org  
-- US government documents and legislation: www.govtrack.us; www.federelregister.gov; www.congress.gov","New Lean more Pop-up called: Où trouver des informations sur le projet d'investissement?
-Recherchez des informations sur le projet sur le site web de l'entreprise, puis consultez les ressources gouvernementales et externes.
-Les sources de l'entreprise - Commencez par le site web de l'entreprise: 
-- Communiqués de presse 
-- Rapport annuel aux actionnaires 
-- Discours des dirigeants de l'entreprise 
-
-Les rapports fournis par l’entreprise à l’organisme de réglementation des marchés financiers :
-La plupart des bourses de valeurs mobilières demandent que toutes les entreprises dont les actions sont inscrites à la cote officielle soumettent des rapports à intervalles réguliers à l’organisme de réglementation du marché boursier. Ces documents comprennent le rapport annuel, les communiqués de presse, les rapports financiers et d’autres renseignements importants pouvant être utiles aux personnes qui voudraient se procurer des actions de l’entreprise. Chaque bourse a ses propres règles sur la quantité d’information requise et sur le moment où l’entreprise est tenue de fournir cette information. Certains organismes de réglementation, comme la Securities and Exchange Commission, aux États-Unis, affichent ces exigences sur un site Web accessible à tous. 
-
-Si l'entreprise est négociée à la bourse américaine : rapport déposé auprès de la commission fédérale des valeurs mobilières et des changes à l'adresse www.sec.gov et si elle est négociée à la bourse canadienne : rapport déposé auprès des Autorités canadiennes en valeurs mobilières à l'adresse www.sedar.com ; détaillé dans le RIB)
-- Rapport annuel 
-- Communiqués de presse 
-- Mises à jour financières 
-- Rank and Filed (www.rankandfiled.com) traite les dépôts de la Securities and Exchange Commission (SEC) et peut être un bon point d'accès.
-
-Services de recherche externes:
-a) Business & Human Rights Resource Centre (https://www.business-humanrights.org): Find Companies à Company Profile 
-- Recherche d'actualités juridiques liées aux entreprises et aux droits humains : https://www.business-humanrights.org/en/corporate-legal-accountability
-- Recherche par thème/industrie : https://www.business-humanrights.org/en/discover-big-issues 
-
-b) Département d'État (pour les entreprises constituées en société aux États-Unis) : Division of Corporations : Corporations and Business Entity database (base des données des boites et entreprises) : Recherche d'une société 
-c) The Business Journals : www.bizjournals.com : brefs profils d'entreprises et de dirigeants (barre « People&Companies » en haut) 
-d) Bloomberg BNA/Law Lexis Nexis (Lexis Uni) ; Thomson Reuters (Thomson One) (accès par abonnement nécessaire) : Profils d'entreprises  
-- De nombreuses informations sur les profils d'entreprises disponibles sur Bloomberg sont accessibles au public sur Edgar de la SEC, mais Bloomberg est considéré comme beaucoup plus facile à utiliser et à naviguer.
-- Certains rapports d'analystes sont disponibles dans les bases de données de Bloomberg ou de Thomson Reuters.
-
-Sources provenant de gouvernements ou d'institutions de gouvernance internationale : 
-a.	Consultez le site Web du gouvernement du pays dans lequel le projet d'investissement aura lieu : recherchez le nom de l'entreprise sur le site Web. 
-b.	Recherchez le site web du gouvernement du pays d'accueil 
-
-Si vous cherchez des entreprises basées aux États-Unis : 
-a.	Sites de médias politiques : Politico, the Hill 
-b.	Engagements financiers du gouvernement américain : www.usaspending.gov 
-c.	Argent des entreprises dépensé en lobbying auprès du gouvernement américain : www.opensecrets.org  
-d.	Documents et législation du gouvernement américain : www.govtrack.us ; www.federelregister.gov ; www.congress.gov","(1/2) New Learn more Pop-up:
-Busque en el sitio web de la empresa información sobre el proyecto y luego proceda a recursos de gobierno y externos
-Fuentes de la empresa: Comience por el sitio web de la empresa
-- Comunicados de prensa
-- Informe anual para los accionistas
-- Discursos de ejecutivos de la empresa
-
-1. Informes presentados por la compañía ante el ente regulador de la bolsa de valores: La mayoría de las bolsas requieren que las empresas cuyas acciones figuran en sus listas presenten informes regularmente ante la entidad que reglamenta o supervisa la actividad bursátil. Tales documentos incluyen el informe anual, comunicados de prensa, actualizaciones financieras y otra información importante para quienes están interesados en comprar las acciones de la compañía. Cada bolsa de valores tiene reglas diferentes sobre la cantidad de información que deben presentar las empresas. Algunas entidades, como la Comisión de Valores y Bolsa de Estados Unidos, publican esta información en un sitio Web para que todos puedan consultarla.
-Si la empresa se cotiza en la bolsa de valores de Estados Unidos: informe presentado ante la Comisión de Bolsa y Valores federal (Securities and Exchange Commission o SEC) en el sitio web www.sec.gov, y si se cotiza en la bolsa de valores canadiense: informe presentado ante los Administradores de Valores Canadienses (Canadian Securities Administrators) en el sitio web www.sedar.com; se detalla en GIR)
-- Informe anual
-- Boletines de prensa
-- Actualizaciones de información financiera
-- Rank and Filed (www.rankandfiled.com) procesa la documentación presentada ante la SEC y puede ser un buen punto de acceso
-
-2. Servicios de investigación externos
-Centro de Información sobre Empresas y Derechos Humanos (https://www.business-humanrights.org/es/): aquí se podrán encontrar empresas y perfiles de empresas
-- Buscar noticias jurídicas relacionadas con empresas y derechos humanos: https://www.business-humanrights.org/en/corporate-legal-accountability
-- Buscar por tema / sector industrial: https://www.business-humanrights.org/es/temas-centrales/
-
-Departamento de Estado de Estados Unidos (si se trata de empresas constituidas en Estados Unidos): Division of Corporations (División de Sociedades): Corporations and Business Entity database (base de datos de Sociedades y Entidades Empresariales): Búsqueda por Empresa
-
-The Business Journals: www.bizjournals.com: empresa de resúmenes y perfiles ejecutivos (buscar en lo alto la barra People&Companies (Gente y Empresas)
-
-Bloomberg BNA/Law Lexis Nexis (Lexis Uni); Thomson Reuters (Thomson One) (acceso previa suscripción): Company Profiles (Perfiles de Empresas)
-- Se puede acceder a mucha información sobre perfiles de empresas disponibles en Bloomberg mediante EDGAR, un servicio de la SEC; sin embargo, Bloomberg se considera mucho más fácil de usar y de navegar (yo no sabría cómo orientar a los usuarios en el sitio de la SEC)
-- Se puede acceder a algunos informes de analistas mediante las bases de datos de Bloomberg o de Thomson Reuters",EN,TRUE,,,,,
-C0294,Edit Text,SAME AS BEFORE,,,,"(2/2): 
-3.	Fuentes de gobiernos o instituciones de gobernanza internacionales:
-Continúe la investigación en el sitio web del Gobierno del país donde se vaya a realizar el proyecto de inversión: busque en el sitio web el nombre de la empresa
-Busque el sitio web del Gobierno anfitrión
-Registros de los Gobiernos: los Gobiernos requieren en general que las empresas que operan en un país particular registren la información de la compañía en una oficina gubernamental. Esta información puede no ser muy detallada, perodebe incluir el nombre y la dirección de la empresa, qué tipo de compañía es y quiénes son sus propietarios.
-Si se trata de empresas con sede en Estados Unidos:
-- Sitios de medios sobre política: Politico, The Hill
-- Obligaciones financieras del Gobierno estadounidense: www.usaspending.gov
-- El dinero que gastan las empresas en cabildear al Gobierno estadounidense: www.opensecrets.org
-- Documentos del Gobierno y legislación de Estados Unidos:www.govtrack.us www.federelregister.gov; www.congress.gov .",,,TRUE,,,,
-C0189,Edit Text,Ph. B Step 11 -- 11A -- end of the list of questions,,"Add at the end of the list of questions: 
-•	Does the company have a gender policy?
-•	Do corporate codes of conduct mention gender equality, interdiction of discrimination and gender-based violence? 
-•	Has the company made a commitment to the United Nations Women’s Empowerment Principles? (https://www.weps.org/) 
-•	Has the company concluded any international framework agreements regarding gender equality?
-•	Is there a history of or reported pattern of workplace discrimination in terms of work opportunity and development? Is political, physical or sexual harassment part of workplace or community environments? 
-•	Does the company work with private security?","•	 L'entreprise a-t-elle une politique en matière de genre ?
-•	 Les codes de conduite des entreprises mentionnent-ils l'égalité de genre, l'interdiction de la discrimination et de la violence basée sur le genre ? 
-•	 L'entreprise s'est-elle engagée à respecter les principes d'autonomisation des femmes des Nations unies ? (https://www.weps.org/) 
-•	 L'entreprise a-t-elle conclu des accords-cadres internationaux concernant l'égalité de genre ?
-•	Existe-t-il des antécédents ou un modèle signalé de discrimination sur le lieu de travail en termes d'opportunités de travail et de développement ? Le harcèlement politique, physique ou sexuel fait-il partie de l'environnement de travail ou de la communauté ? 
-•	L'entreprise travaille-t-elle avec des services de sécurité privés ?","•	¿La empresa tiene una política de género?
-•	¿Los códigos de conducta de la empresa mencionan la igualdad de género, la prohibición de la discriminación y de la violencia de género? 
-•	¿La empresa ha hecho un compromiso con los Principios de Empoderamiento de la Mujer de las Naciones Unidas? (https://www.weps.org/) 
-•	¿La empresa ha concluido algún acuerdo de marco internacional respecto a la igualdad de género?
-•	¿Hay un historial o una tendencia reportada de discriminación en el lugar de trabajo en cuanto a oportunidades de trabajo y desarrollo? ¿El acoso político, físico o sexual es parte de entornos del lugar de trabajo o de la comunidad? 
-•	¿La empresa cuenta con seguridad privada?",EN,,TRUE,,,,
-C0194,Move Text,Ph. D Step 17 -- The company and human rights in theory --> Ph. B Step 11 -- 11A,,"Move the following text and ""Worth browsing"" info from Step 17 to bottom of 11A: The company and human rights in theory
-•	How does the company deal with human rights on paper (including its policies, codes of conduct and the clauses in its agreement with the host government)?
-•	What commitments has it made?
-•	Is it aware of human rights issues in the area where it operates?
-•	Is it integrating human rights concerns into its operations?
-
-AND ADD THE FOLLOWING QUESTIONS: 
-- Do corporate codes of conduct mention gender equality and promotion of women within their company? 
-- Does the company have a gender policy?","Move the following text and ""Worth browsing"" info from Step 17 to bottom of 11A: La compagnie et les droits humains en théorie:
-Quelle est la position de l’entreprise en ce qui a trait aux droits humains sur papier (ses politiques, son code de déontologie et les clauses contenues dans l’accord conclu avec l’État hôte) ?
-Quels types d’engagements a-t-elle pris ?
-Est-elle au courant des enjeux en matière de droits humains dans la région où elle exerce ses activités ?
-Intègre-t-elle à ses activités certaines préoccupations relatives aux droits humains ?
- 
-AND ADD THE FOLLOWING QUESTIONS:
-- Les codes de conduite des entreprises mentionnent-ils l'égalité des sexes et la promotion des femmes au sein de leur entreprise ? 
-- L'entreprise dispose-t-elle d'une politique de genre ?","Move the following text and ""Worth browsing"" info from Step 17 to bottom of 11A: 
-La empresa y los derechos humanos en teoria
-De qué manera la compañía trata los derechos humanos en “el papel”, en sus documentos, (incluyendo sus políticas, códigos de conducta y cláusulas en los acuerdos con el Gobierno anfitrión).
-¿Qué tipo de compromiso tiene?
-¿Está enterada de los problemas de derechos humanos en el área donde opera?
-¿Está integrando las inquietudes sobre derechos humanos en sus actividades?
- 
-AND ADD THE FOLLOWING QUESTIONS:
--- ¿Los códigos de conducta empresariales mencionan la igualdad de género y la promoción de la mujer dentro de su compañía?
--¿La compañía tiene una política de genero?",EN,TRUE,,,,,
-C0193,Move Text,Ph. A Step 3 - Host Government --> Ph. B Step 11C,,"If not done already in entry C0033, move the following content from Ph. A Step 3 to Ph. B Step 11C:
-“Also, when thinking about the host government, you should try to look into the relationship it has with the company. Here are some examples of questions you may ask yourself:
-•	What are the laws that govern the relationship between the government and the company?
-•	Has the host government made promises to the company in terms of tax exemptions?
-•	What revenues does the host government expect to receive from the project?
-•	Has it set deadlines or conditions the company must meet?
-•	Are there penalties?
-•	Are some government officials, or their families or friends, involved in or benefiting from the project?”",,,EN,TRUE,,,,,
-C0192,Edit Text,Ph. B Step 11 -- 11B -- International Codes of Conduct -- Learn More tab,"There are also international codes of conduct that companies endorse. One such code is the United Nations Global Compact, which can be found at: www.unglobalcompact.org.","Replace text on left with: There are also international codes of conduct that companies endorse. Here are some examples of such codes of conduct:
--	United Nations Global Compact: www.unglobalcompact.org
--	The Voluntary Principles on Security and Human Rights: www.voluntaryprinciples.org
--	Principles for Responsible Investment: www.unpri.org
--	OECD Guidelines: www.oecd.org/corporate/mne/
--	The United Nations Guiding Principles Reporting framework www.ungpreporting.org","Replace this text: ""Il existe aussi des codes de déontologie internationaux auxquels les entreprises peuvent adhérer. L’un d’entre eux est le Pacte mondial des Nations Unies, que l’on peut trouver à : www.unglobalcompact.org."" by:
-Il existe également des codes de conduite internationaux auxquels les entreprises souscrivent. Voici quelques exemples de ces codes de conduite :
-- Le Pacte mondial des Nations unies : www.unglobalcompact.org
-- Les principes volontaires sur la sécurité et les droits de l'homme : www.voluntaryprinciples.org
-- Principes pour l'investissement responsable : www.unpri.org
-- Les principes directeurs de l'OCDE : www.oecd.org/corporate/mne/
-- Les Principes directeurs des Nations Unies : www.ungpreporting.org","Replace this text:
-Existen también códigos de conducta internacionales a los que las empresas adhieren. Uno de ellos es el Pacto Mundial de las Naciones Unidas, que puede encontrarse en www.unglobalcompact.org.
-with:
-También existen códigos de conducta internacionales que las empresas respaldan.Los siguientes son algunos ejemplos de tales códigos de conducta:
--	Pacto Mundial de la ONU: www.unglobalcompact.org
--	Los Principios Voluntarios sobre Seguridad y Derechos Humanos: www.voluntaryprinciples.org
--	Principios para la Inversión Responsable: www.unpri.org
--	Lineamientos de la OCDE: www.oecd.org/corporate/mne/
--	El Marco para el Informe de los Principios Rectores de las Naciones Unidas www.ungpreporting.org",EN,,TRUE,,,,
-C0191,New Popup,Ph. B Step 11 -- Guidance on power map -- New gender pop up,,"Add gender pop-up: 
-- 	You should consider co-creating a power map with a variety of voices, particularly those that are affected by power abuse and have ideas about how to influence transformational change (like women, local communities, and women’s rights activists under threat and organizations).","-	Vous devriez envisager de co-créer une carte du pouvoir avec une variété de voix, en particulier celles qui sont affectées par l'abus de pouvoir et qui ont des idées sur la façon d'influencer le changement transformationnel (comme les femmes, les communautés locales, et les activistes des droits des femmes menacés et les organisations).","-	Hay que considerar la cocreación de un mapa de poder con una variedad de voces, sobre todo las de las personas afectadas por el abuso de poder y que tengan ideas de cómo influir en un cambio transformativo (como mujeres, comunidades locales y activistas pro derechos de la mujer bajo amenaza y organizaciones).",EN,TRUE,,,,,
-C0179,New Popup,Ph. B Step 11 -- New gender learn more tab,,"Add new gender pop up: Gender and intersectionality in company’s processes
-Companies should include gender considerations into their policies and processes. This should be reflected within the various documents developed to mitigate the impacts, clarify agreements with local communities, establish grievance mechanisms processes, etc.  When reviewing those documents, look for specific measures developed to address the needs of women, girls and gender diverse peoples. You may find specific commitments made by the company to increase respect for their rights and some measures aiming at further protecting them. Some of those documents can be highly technical and you may need additional support to review them. Examples of key documents to analyze include: 
--	Environmental and social impact assessment (the ESIA should identify specific impact on women, girls and gender diverse peoples)
--	Environmental and social impact management plans (proposed measures to respond to the gender impacts identified in the ESIA)
--	Resettlement action plans (in cases where relocation is required, are there specific measures taken into consideration the different gender needs women, men and gender diverse people may have?)
--	Company-community benefit-sharing and compensation agreements (How are women’s needs covered into those agreements? Do the agreements ensure women’s rights are taken into consideration regardless of possible limited protection of women’s rights within the national legal framework?)
--	Community development plans (Do they include support for women’s self-identified empowerment programs or livelihood strategies?)
--	Company-community engagement, consultation and decision-making plans (any specific measures to ensure women and gender diverse peoples are meaningfully engaged in those processes?)
--	Grievance mechanism protocols (Are there measures to ensure women and gender diverse peoples have equal access to the mechanisms?) Corporate grievance mechanisms must be accessible, efficient, safe and fair to women. For example, businesses should make sure these mechanisms are accessible to women, taking account of barriers they are more likely to face with respect to language, literacy levels, access to information and digital technology, mobility and time poverty due to unpaid care responsibilities
--	Local procurement and employment plans (Do they include specific measures to increase sourcing from women-led businesses or strategies to increase employment for women?) 
--	Safety and security plans including in agreements or contracts with external security providers (Are there any specific protections for women, girls and gender diverse peoples?)
--	Vigilance plan – as required under the French law on duty of care (the plan should include specific risks women and diverse gender peoples could face and mitigate those risks accordingly)
--	Some interesting examples and recommendations to governments and companies on how to integrate gender in their policies and practices are described in ActionAid’s report We Mean Business – Protecting Women’s rights in Global Supply Chain: https://actionaid.org/sites/default/files/publications/We%20Mean%20Business%20-%20Protecting%20Womens%20Rights%20in%20Global%20Supply%20Chains_ActionAid_March%202020.pdf","Le genre et l'intersectionnalité dans les processus de l'entreprise
-Les entreprises doivent intégrer les considérations de genre dans leurs politiques et processus. Cela devrait se refléter dans les divers documents élaborés pour atténuer les impacts, clarifier les accords avec les communautés locales, établir des processus de mécanismes de réclamation, etc.  Lors de l'examen de ces documents, recherchez les mesures spécifiques élaborées pour répondre aux besoins des femmes, des jeunes filles et des personnes non-conformes au genre. Vous trouverez peut-être des engagements spécifiques pris par l'entreprise pour accroître le respect de leurs droits et certaines mesures visant à les protéger davantage. Certains de ces documents peuvent être très techniques et vous aurez peut-être besoin d'un soutien supplémentaire pour les examiner. Voici quelques exemples de documents clés à analyser : 
--	Évaluation de l'impact environnemental et social (l'ESIA doit identifier l'impact spécifique sur les femmes, les filles et les personnes de genres variés).
--	Plans de gestion des incidences environnementales et sociales (mesures proposées pour répondre aux incidences sur les femmes et les hommes identifiées dans l'ESIA).
--	Plans d'action pour la réinstallation (dans les cas où une réinstallation est nécessaire, existe-t-il des mesures spécifiques prenant en compte les différents besoins des femmes, des hommes et des personnes non-conformes au genre ?)
--	Accords de partage des avantages et de compensation entre l'entreprise et la communauté (comment les besoins des femmes sont-ils pris en compte dans ces accords ? Les accords garantissent-ils la prise en compte des droits des femmes, indépendamment de l'éventuelle protection limitée des droits des femmes dans le cadre juridique national ?)
--	Plans de développement communautaire (incluent-ils un soutien aux programmes d'autonomisation ou aux stratégies de subsistance identifiés par les femmes elles-mêmes ?)
--	Plans d'engagement, de consultation et de prise de décision entre l'entreprise et la communauté (existe-t-il des mesures spécifiques pour garantir que les femmes et les personnes non-conformes au genre participent de manière significative à ces processus ?)
--	Protocoles relatifs aux mécanismes de règlement des griefs (existe-t-il des mesures visant à garantir que les femmes et les personnes de genres variés ont un accès égal à ces mécanismes ?) Les mécanismes de règlement des griefs des entreprises doivent être accessibles, efficaces, sûrs et équitables pour les femmes. Par exemple, les entreprises doivent s'assurer que ces mécanismes sont accessibles aux femmes, en tenant compte des obstacles qu'elles sont plus susceptibles de rencontrer en matière de langue, de niveau d'alphabétisation, d'accès à l'information et aux technologies numériques, de mobilité et de manque de temps dû à des responsabilités de soins non rémunérées
--	Plans d'approvisionnement et d'emploi locaux (incluent-ils des mesures spécifiques pour augmenter l'approvisionnement auprès d'entreprises dirigées par des femmes ou des stratégies pour augmenter l'emploi des femmes) ? 
--	Plans de sûreté et de sécurité, y compris dans les accords ou contrats avec des fournisseurs de sécurité externes (y a-t-il des protections spécifiques pour les femmes, les filles et les personnes non-conformes au genre ?)
--	Plan de vigilance - comme l'exige la loi française sur le devoir de vigilance (le plan doit inclure les risques spécifiques auxquels les femmes et les personnes non-conformes au genre pourraient être confrontées et atténuer ces risques en conséquence).
--	Des exemples intéressants et des recommandations aux gouvernements et aux entreprises sur la manière d'intégrer le genre dans leurs politiques et leurs pratiques sont décrits dans le rapport d'ActionAid intitulé We Mean Business - Protecting Women's rights in Global Supply Chain : https://actionaid.org/sites/default/files/publications/We%20Mean%20Business%20-%20Protecting%20Women","El género y la interseccionalidad en los procesos de la empresa
-Las empresas deberían incluir consideraciones de género en sus políticas y procesos. Esto debe reflejarse en los distintos documentos elaborados para mitigar los impactos, aclarar los acuerdos con las comunidades locales, establecer procesos de mecanismos de reclamación, etc.  Al revisar esos documentos, busquen medidas específicas elaboradas para abordar las necesidades de las mujeres, las muchachas y las personas de género diverso. Es posible que encuentren compromisos específicos asumidos por la empresa para aumentar el respeto de sus derechos y algunas medidas destinadas a protegerlos aún más. Algunos de estos documentos pueden ser muy técnicos y es posible que necesiten apoyo extra para revisarlos. Entre los documentos clave por analizar figuran: 
--	Evaluación de impacto ambiental y social (en la ESIA se debe identificar el impacto en las mujeres, las muchachas y las personas de género diverso)
--	Planes de manejo de impacto ambiental y social (medidas propuesta para responder a los impactos de género identificados en la ESIA)
--	Planes de acción de reasentamiento (en casos donde se requiera el reasentamiento, ¿hay medidas específicas que tomen en consideración las distintas necesidades de género que puedan tener mujeres, hombres y personas de género diverso?)
--	Acuerdos de reparto de beneficios y compensación entre empresa y comunidad ¿Cómo se contemplan las necesidades de las mujeres en estos acuerdos? ¿Los acuerdos garantizan que se tomen en consideración los derechos de las mujeres, independientemente de la posible protección limitada de los derechos de la mujer en el marco jurídico nacional?)
--	Planes de desarrollo comunitario (¿Incluyen el apoyo de programas de empoderamiento de las mujeres o a estrategias de subsistencia identificados por ellas mismas?)
--	Interacción, planes de consulta y toma de decisiones entre empresa y comunidad (¿alguna medida específica para garantizar que las mujeres y las personas de género diverso participen de manera significativa en esos procesos?)
--	Protocolos de mecanismos de reclamaciones (¿Hay medidas para garantizar que las mujeres y personas de género diverso cuenten con acceso igualitario a los mecanismos?) Los mecanismos empresariales de reclamación deben ser accesibles, eficientes, seguros y justos para las mujeres. Por ejemplo, las empresas deben asegurarse de que estos mecanismos sean accesibles para las mujeres, habida cuenta de las barreras que sea más probable que enfrenten con respecto a idioma, niveles de alfabetización, acceso a la información y tecnología digital, movilidad y escasez de tiempo debido a responsabilidades de cuidado sin remuneración
--	Planes locales de aprovisionamiento y empleo (¿Incluyen medidas específicas para aumentar las compras en negocios dirigidos por mujeres o estrategias para aumentar el empleo femenino?) 
--	Planes de seguridad, también en acuerdos o contratos con proveedoras de seguridad externas (¿Hay alguna protección específica para las mujeres, las muchachas y las personas de género diverso?)
--	Plan de vigilancia, como lo exige la ley francés del deber de vigilancia (el plan debe mencionar riesgos específicos que puedan enfrentar las mujeres y las personas de género diverso y mitigarlos como corresponda)
--	Algunos ejemplos y recomendaciones interesantes para gobiernos y empresas de cómo integrar el género a sus políticas y prácticas constan en el informe de ActionAid We Mean Business – Protecting Women’s rights in Global Supply Chain: https://actionaid.org/sites/default/files/publications/We%20Mean%20Business%20-%20Protecting%20Womens%20Rights%20in%20Global%20Supply%20Chains_ActionAid_March%202020.pdf",EN,TRUE,,,,,
+Access to an effective remedy
+In order to truly enjoy human rights, it is crucial that individuals have access to legal recourse if their rights are not being respected. It is therefore important that the government give individuals and communities access to mechanisms through which they can seek redress if their human rights are violated.","Replace section on gender equality by the following text: 
+o	Gender equality is protected under Article 3 of both the International Covenant on Economic, Social and Cultural Rights and the International Covenant on Civil and Political Rights. A human rights framework gives special attention to equality between men, women and gender diverse peoples by looking carefully at how women and gender diverse peoples might be affected differently than men.
+o	Throughout this tool, we have emphasized the importance of noting the differentiated experiences of women, men and gender diverse peoples. This principle underlies the importance of steps such as having a gender expert on your team and collecting sex disaggregated data.
+o	Sex or gender inequality is a human right violation faced primarily by women and gender diverse peoples. The systems and assumptions that lead to women’s and gender diverse peoples’ inequality in the enjoyment of their human rights are often invisible, because they are deeply embedded in social relations, both public and private, in all states. The way in which individuals experience gender impact is often shaped by other aspects of their identity, such as race, socio-economic status, or ability. Acknowledging this systematic and entrenched discrimination is an essential step in implementing guarantees of non-discrimination and equality.
+Source: Montréal Principles on Women’s Economic, Social and Cultural Rights   (****ADD PDF)","Replace section on Égalité entre les sexes - CHANGE TITLE TO: Égalité entre les genres
+Then in existing paragraph:
+- L’égalité de genre est protégée en vertu de l’article 3 du Pacte international relatif aux droits civils et politiques et du Pacte international relatif aux droits économiques, sociaux et culturels. Un cadre des droits humains accorde une attention particulière à l’égalité entre les hommes et les femmes, en analysant avec précision en quoi les femmes et les personnes non-conformes au genre sont affectées différemment des hommes.
+NEW PARAGRAPH:
+- Tout au long de la méthodologie, nous avons mis l'emphase sur l'importance de relever les différences entre les expériences des femmes, des hommes et des personnes non-conformes au genre. Ce principe sous-tend l'importance d'étapes telles que d'avoir une personne experte dans les questions de genre au sein de l'équipe et de collecter des données ventilées selon le sexe. 
+PARAGRAPH WITH QUOTE TO LEAVE AS IS
+THEN ADD:
+La manière dont les individus vivent l'impact du genre est souvent façonnée par d'autres aspects de leur identité, tels que la race, le statut socio-économique ou les capacités. Reconnaitre cette discrimination systématique et enracinée est une étape essentielle dans la mise en œuvre des garanties de non-discrimination et d’égalité.","REPLACE IN SECTION ON IGUADAD DE GENERO 
+EXISTING: La igualdad de género está protegida en virtud del artículo 3, tanto del Pacto de Derechos Económicos, Sociales y Culturales como del Pacto de Derechos Civiles y Políticos. Un marco de derechos humanos prestará atención especial a la igualdad entre el hombre y la mujer, estudiando cuidadosamente cómo las mujeres pueden verse afectadas de manera diferente que los hombres.
+TO ADD: A lo largo de la presente herramienta hemos subrayado la importancia de señalar las experiencias diferenciadas de hombres, mujeres y personas de género diverso. Este principio fundamenta la importancia de pasos como contar con una persona experta en género en el equipo de ustedes y recopilar datos desglosados por género.
+EXISTING: La desigualdad de sexo o de género es un problema que experimentan numerosas mujeres. Los sistemas y supuestos que causan la desigualdad de la mujer en el goce de los derechos del Pacto son muchas veces invisibles ya que están profundamente arraigados en las relaciones sociales, tanto públicas como privadas. Sin embargo, al reconocer y abordar estas barreras estamos dando un paso esencial hacia la implementación de los derechos de manera consistente con los Artículos 2(2) y 3.” 
+o	ADD: La manera como una persona experimenta el impacto de género suele estar moldeada por otros aspectos de su identidad, como su raza, situación socioeconómica o capacidad. Reconocer esta discriminación sistemática y arraigada es un paso esencial para implementar garantías de no discriminación e igualdad",EN,,TRUE,,,,
+C0172,New Popup,"Ph. C Step 13 -- Table named ""Human Rights"" -- The Right to Gender Equality",,"Add definition pop up to text created in above entry, stating: The Right to Gender Equality: Men and women should enjoy equally all economic, social, cultural, civil and political rights. There should be no discrimination on the basis of gender.","Add definition pop up to text created in above entry, stating:Le droit à l'égalité des sexes : Les hommes et les femmes doivent jouir de manière égale de tous les droits économiques, sociaux, culturels, civils et politiques. Il ne doit y avoir aucune discrimination fondée sur le sexe.","Add definition pop-up: El Derecho a la Igualdad de Género: hombres y mujeres deben disfrutar de todos los derechos económicos, sociales, culturales, civiles y políticos. No debe haber ninguna discriminación por género.",EN,,TRUE,,,,
+C0173,New Right,"Ph. C Step 13 -- Table named ""Human Rights""",,"Add row called ""The Right to Access Information and Participation"" (questions to be included in step 14 in document Right to Participation)","Add row called ""Droit à la participation et à l'accès à l'information"" (questions to be included in step 14 in document Droit à la Participation)",,EN,TRUE,,,,,
+C0174,New Popup,"Ph. C Step 13 -- Table named ""Human Rights"" -- The Right to Participation and Access Information",,"Add definition pop up to text created in above entry, stating: The right to participation and access information
+Content:
+The right to participation is closely tied to the right to access information. To be able to meaningfully participate, communities and rights holders must be provided with relevant information, in a format that is accessible and in their local language. Engagement should be done with rights holders with more severe actual or potential harms or impacts as well as those with a more direct relationship or proximity to the business activity. Attention must be paid to women, gender-diverse peoples and other vulnerable groups and include a variety of mechanisms to enable them to participate individually and collectively.
+The engagement must be ongoing: it is not a check-box exercise. Individuals potentially affected by the investment project should be engaged in different stages of the life of the investment project. And there should be clarity about who has the decision-making power and what is their capacity to influence the decisions related to the investment project. Finally, everyone must be able to participate without fear of retaliation. 
+“Participation connotes a range of activities, including consultation, meaningful engagement, representation, and full consent. The appropriate level of participation is context- and community-dependent, but at a minimum, must involve meaningful consultation, as specified in Guiding Principle 18.”
+Source: Content adapted from Fourth Pillar: Community Principles for Business and Human Rights, Last Updated: March 21, 2021","NEW Definition pop-up: Droit à la participation et à l'accès à l'information
+Le droit de participation est étroitement lié au droit d'accès à l'information. Pour pouvoir participer de manière significative, les communautés et les détenteurs de droits doivent recevoir des informations pertinentes, dans un format accessible et dans leur langue locale. L'engagement doit se faire avec les détenteurs de droits qui subissent des dommages ou des impacts réels ou potentiels plus graves, ainsi qu'avec ceux qui ont une relation ou une proximité plus directe avec l'activité de l'entreprise. Il faut prêter attention aux femmes, aux personnes de sexe différent et aux autres groupes vulnérables et inclure une variété de mécanismes pour leur permettre de participer individuellement et collectivement.
+L'engagement doit être permanent : il ne s'agit pas d'un exercice de case à cocher. Les personnes potentiellement affectées par le projet d'investissement doivent être impliquées à différentes étapes de la vie du projet d'investissement. Et il faut savoir clairement qui a le pouvoir de décision et quelle est sa capacité à influencer les décisions liées au projet d'investissement. Enfin, chacun doit pouvoir participer sans crainte de représailles. 
+"" La participation connote une série d'activités, notamment la consultation, l'engagement significatif, la représentation et le plein consentement. Le niveau approprié de participation dépend du contexte et de la communauté, mais doit au minimum impliquer une consultation significative, comme le précise le Principe directeur 18.""
+Source : Contenu adapté de Fourth Pillar : Principes communautaires relatifs aux entreprises et aux droits de l'homme, Dernière mise à jour : 21 mars 2021","New Definition pop-up
+El derecho a la participación está vinculado estrechamente al derecho de acceso a la información. Para poder participar de forma significativa, las comunidades y los titulares de derechos deben recibir información relevante, en un formato accesible y en su idioma local. La participación debe realizarse con los titulares de derechos con daños o impactos reales o potenciales más graves, así como con aquellos que tienen una relación o proximidad más directa con la actividad empresarial. Debe prestarse atención a las mujeres, a los pueblos con diversidad de género y a otros grupos vulnerables, y debe incluirse una variedad de mecanismos que les permitan participar de manera individual y colectiva.
+La interacción debe ser continuo: este no es un ejercicio de marcado de casillas. Las personas potencialmente afectadas por el proyecto de inversión deben participar en diferentes etapas de la vida del proyecto de inversión. Y debe quedar claro quiénes tienen el poder de decisión y cuál es su capacidad de influir en las decisiones relacionadas con el proyecto de inversión. Por último, toda persona debe poder participar sin temor a represalias. 
+“La participación connota una serie de actividades, como la consulta, la interacción significativa, la representación y el pleno consentimiento. El nivel adecuado de participación depende del contexto y de la comunidad, pero, como mínimo, debe implicar una consulta significativa, como se especifica en el Principio Rector 18.”
+Fuente: Contenido adaptado de Cuarto Pilar: Principios comunitarios para las empresas y los derechos humanos, actualización más reciente:  21 de marzo de 2021",EN,TRUE,,,,,
 C0177,New Popup,"Ph. B Step 11 -- New pop up box called ""CORPORATE RESEARCH FOR COMMUNITY-LED HUMAN RIGHTS IMPACT ASSESSMENTS – DOING A POWERMAP ANALYSIS""",,"Add new pop up box called ""Corporate research – Doing a powermap analysis"" with the following text: 
 The purpose of corporate research as a part of a COBHRA is to understand how a company’s particular characteristics can augment or diminish the risk that human rights violations will take place in the context of an investment project.  
  
